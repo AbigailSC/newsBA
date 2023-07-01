@@ -1,0 +1,22 @@
+[
+  {
+    "name": "reviews",
+    "url": "reviews"
+  },
+  {
+    "name": "analysis",
+    "url": "analysis"
+  },
+  {
+    "name": "latest",
+    "url": "latest"
+  },
+  {
+    "name": "trending",
+    "url": "trending"
+  },
+  {
+    "name": "releases",
+    "url": "releases"
+  }
+]
