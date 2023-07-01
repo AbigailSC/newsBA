@@ -4,6 +4,7 @@ import news from '@data/news.json';
 const initialState = {
   heroLandingNews: [],
   latestNews: [],
+  detail: null
 };
 
 const newsSlice = createSlice({
@@ -15,11 +16,14 @@ const newsSlice = createSlice({
     },
     setLatestNews(state, action) {
       state.latestNews = action.payload;
+    },
+    setDetailOfNews(state, action) {
+      state.detail = action.payload;
     }
   }
 });
 
-export const { setHeroLandingNews, setLatestNews } = newsSlice.actions;
+export const { setHeroLandingNews, setLatestNews, setDetailOfNews } = newsSlice.actions;
 
 export default newsSlice.reducer;
 
@@ -31,4 +35,13 @@ export const selectHeroLandingNews = () => (dispatch) => {
 export const selectLatestNews = () => (dispatch) => {
   const latest = news.articles.sort((a, b) => b.date - a.date).slice(0, 10);
   dispatch(setLatestNews(latest));
+}
+
+export const selectDetailOfNews = (id) => (dispatch) => {
+  try {
+    const detail = news.articles.find((article) => article.id === id);
+    dispatch(setDetailOfNews(detail));
+  } catch (error) {
+    console.log(error);
+  }
 }

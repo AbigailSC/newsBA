@@ -1,4 +1,5 @@
 export * from './Analysis';
+export * from './Detail';
 export * from './Home';
 export * from './Latest';
 export * from './Login';

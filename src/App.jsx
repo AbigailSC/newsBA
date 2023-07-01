@@ -1,6 +1,7 @@
 import { Route, Routes, Navigate } from 'react-router-dom';
 import {
   Analysis,
+  Detail,
   Home,
   Latest,
   Login,
@@ -27,6 +28,7 @@ function App() {
           <Route path="/releases" element={<Releases />} />
           <Route path="/reviews" element={<Reviews />} />
           <Route path="/tag/:tag" element={<Tag />} />
+          <Route path="/news/:id" element={<Detail />} />
           <Route path="trending" element={<Trending />} />
           <Route path="/404" element={<NotFound />} />
           <Route path="*" element={<Navigate to="/404" replace />} />

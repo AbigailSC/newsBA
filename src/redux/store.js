@@ -9,7 +9,7 @@ import { auth, news } from './slices';
 const persistConfig = {
   key: 'root',
   storage,
-  whitelist: ['accessToken', 'news']
+  whitelist: ['accessToken', 'latestNews', "detail"]
 };
 
 const rootReducer = combineReducers({
