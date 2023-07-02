@@ -19,11 +19,14 @@ const newsSlice = createSlice({
     },
     setDetailOfNews(state, action) {
       state.detail = action.payload;
+    },
+    clearDetailOfNews(state) {
+      state.detail = null;
     }
   }
 });
 
-export const { setHeroLandingNews, setLatestNews, setDetailOfNews } = newsSlice.actions;
+export const { setHeroLandingNews, setLatestNews, setDetailOfNews, clearDetailOfNews } = newsSlice.actions;
 
 export default newsSlice.reducer;
 

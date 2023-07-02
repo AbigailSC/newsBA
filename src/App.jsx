@@ -16,7 +16,7 @@ import { Navbar, Footer } from './components';
 
 function App() {
   return (
-    <main className="min-h-screen text-gray-200 bg-gradient-to-b from-zinc-900 to-neutral-800">
+    <main className="min-h-screen text-gray-200 bg-zinc-900">
       <Navbar />
       <div className="pt-[80px]">
         <Routes>

@@ -18,7 +18,7 @@ const Card = ({ image, tag, title, subtitle, autor, timeAgo, id }) => {
         <img src={image} alt={title} className="w-full h-auto " />
       </Link>
       <div className="flex flex-col gap-2 sm:w-2/3">
-        <span className="font-medium text-orange-600 uppercase cursor-pointer hover:text-orange-700">
+        <span className="font-medium text-orange-500 uppercase cursor-pointer hover:text-orange-600">
           <Link to="/">{tag}</Link>
         </span>
         <h3

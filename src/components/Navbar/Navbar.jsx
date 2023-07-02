@@ -32,11 +32,11 @@ const Navbar = () => {
         <div className="flex justify-between w-full h-20 lg:px-20 2xl:px-0 2xl:max-w-screen-xl 2xl:self-center">
           <div className="flex justify-start w-20 h-20 gap-2 ">
             <button onClick={() => handleShowMenu()}>
-              <BiMenuAltLeft className="text-2xl lg:text-4xl hover:text-orange-600" />
+              <BiMenuAltLeft className="text-2xl lg:text-4xl hover:text-orange-500" />
             </button>
           </div>
           <button>
-            <BiSolidUser className="text-xl lg:text-3xl hover:text-orange-600" />
+            <BiSolidUser className="text-xl lg:text-3xl hover:text-orange-500" />
           </button>
         </div>
         <div
@@ -46,17 +46,17 @@ const Navbar = () => {
         >
           <div className="hidden lg:flex lg:w-full lg:justify-between">
             <button onClick={() => handleShowSearchbar()}>
-              <BiSearch className="text-xl lg:text-3xl hover:text-orange-600" />
+              <BiSearch className="text-xl lg:text-3xl hover:text-orange-500" />
             </button>
             <button onClick={() => handleShowMenu()}>
-              <BiX className="text-2xl lg:text-4xl hover:text-orange-600" />
+              <BiX className="text-2xl lg:text-4xl hover:text-orange-500" />
             </button>
           </div>
           <ul className="flex flex-col justify-start w-full h-full gap-y-1">
             {categories.map((item, index) => (
               <li
                 key={index}
-                className="py-5 text-xl font-medium cursor-pointer text-start hover:text-orange-600"
+                className="py-5 text-xl font-medium cursor-pointer text-start hover:text-orange-500"
               >
                 <Link to={item.url}>{item.name.toUpperCase()}</Link>
               </li>
