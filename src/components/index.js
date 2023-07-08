@@ -7,3 +7,5 @@ export * from './Newsletter';
 export * from './Paginate';
 export * from './RelatedNew';
 export * from './Searchbar';
+export * from './SocialMedia';
+export * from './Tags';

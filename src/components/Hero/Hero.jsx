@@ -26,7 +26,7 @@ const Hero = () => {
             Video games
           </span>
           <h3 className="font-semibold line-clamp-2 lg:text-lg 2xl:text-xl hover:underline">
-            <Link to={`/news/${news.id}`}>{news.title}</Link>
+            {news.title}
           </h3>
         </Link>
       ))}

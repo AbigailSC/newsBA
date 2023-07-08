@@ -8,13 +8,16 @@ import { Searchbar } from '@components';
 const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);
   const [showSearchbar, setShowSearchbar] = useState(false);
+  const [showUser, setShowUser] = useState(false);
 
   const handleShowMenu = () => {
     setShowMenu(!showMenu);
+    setShowUser(false);
   };
 
   const handleShowSearchbar = () => {
     setShowMenu(false);
+    setShowUser(false);
     setShowSearchbar(!showSearchbar);
   };
 
@@ -22,22 +25,40 @@ const Navbar = () => {
     setShowSearchbar(false);
   };
 
+  const handleShowUser = () => {
+    setShowUser(!showUser);
+    setShowMenu(false);
+  };
+
   return (
     <nav
-      className={`z-10 fixed bg-[#101010] w-full h-20 flex ${
+      className={`z-20 fixed bg-[#101010] w-full h-20 flex ${
         showMenu ? 'h-screen lg:h-20' : null
       }`}
     >
-      <div className="flex flex-col items-center justify-start w-full mx-5 lg:mx-0 lg:items-start ">
-        <div className="flex justify-between w-full h-20 lg:px-20 2xl:px-0 2xl:max-w-screen-xl 2xl:self-center">
-          <div className="flex justify-start w-20 h-20 gap-2 ">
+      <div className="flex flex-col items-center justify-start w-full mx-5 lg:mx-0 lg:items-start">
+        <div className="relative flex justify-between w-full h-20 md:px-10 lg:px-20 2xl:px-0 2xl:max-w-screen-xl 2xl:self-center">
+          <div className="flex justify-start w-20 h-20 gap-5">
             <button onClick={() => handleShowMenu()}>
               <BiMenuAltLeft className="text-2xl lg:text-4xl hover:text-orange-500" />
             </button>
+            <button onClick={() => handleShowSearchbar()}>
+              <BiSearch className="text-xl lg:hidden hover:text-orange-500" />
+            </button>
           </div>
-          <button>
+          <button onClick={() => handleShowUser()}>
             <BiSolidUser className="text-xl lg:text-3xl hover:text-orange-500" />
           </button>
+          {showUser && (
+            <div className="absolute divide-y divide-zinc-400/25 bottom-[-8em] bg-[#101010] left-[-1.25rem] right-[-1.25rem] flex flex-col text-end">
+              <Link className="p-5 hover:bg-zinc-950" to="/login">
+                Login
+              </Link>
+              <Link className="p-5 hover:bg-zinc-950" to="/register">
+                Register
+              </Link>
+            </div>
+          )}
         </div>
         <div
           className={`w-full lg:flex-col lg:gap-5 lg:items-end lg:bg-neutral-800 lg:min-h-screen lg:w-1/3 2xl:w-1/5 lg:absolute lg:top-0 lg:p-10 h-full ${
@@ -52,7 +73,7 @@ const Navbar = () => {
               <BiX className="text-2xl lg:text-4xl hover:text-orange-500" />
             </button>
           </div>
-          <ul className="flex flex-col justify-start w-full h-full gap-y-1">
+          <ul className="flex flex-col justify-start w-full h-full gap-y-1 md:px-10 ">
             {categories.map((item, index) => (
               <li
                 key={index}
@@ -64,7 +85,7 @@ const Navbar = () => {
           </ul>
         </div>
         {showSearchbar && (
-          <div className="absolute top-0 left-0 z-10 flex flex-col items-end w-screen h-screen p-5 bg-gray-800 lg:p-20 bg-opacity-80 backdrop-blur-sm">
+          <div className="absolute top-0 left-0 z-30 flex flex-col items-end w-screen h-screen p-5 bg-gray-800 md:p-20 bg-opacity-80 backdrop-blur-sm">
             <button
               className="h-[10%] flex items-start"
               onClick={() => closeSearchbar()}

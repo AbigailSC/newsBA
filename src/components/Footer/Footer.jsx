@@ -32,7 +32,7 @@ const Footer = () => {
       </div>
       <div className="flex flex-col-reverse gap-2 px-5 py-5 bg-[#161619] text-gray-400">
         <span className="">Copyright 2023, All Rights Reserved.</span>
-        <span className="w-full h-[1px] bg-zinc-600"></span>
+        <span className="w-full h-[1px] bg-zinc-400/25"></span>
         <ul>
           {other.map((item, index) => (
             <li key={index} className="hover:text-gray-50 hover:underline">

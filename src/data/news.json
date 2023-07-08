@@ -392,7 +392,7 @@
         "date": "2023-06-27T12:15:00Z",
         "views": 500,
         "images" : [],
-        "externalData": "<iframe id='twitter-widget-0' scrolling='no' frameborder='0' allowtransparency='true' allowfullscreen='true' class='' style='position: static; visibility: visible; width: 300px; height: 273px; display: block; flex-grow: 1;' title='Twitter Tweet' src='https://platform.twitter.com/embed/Tweet.html?dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1673101236810162179&amp;lang=en&amp;origin=https%3A%2F%2Fgamerant.com%2Fdiablo-4-the-title-unlock-how%2F&amp;sessionId=81e8a4f57ea6a0f067f4f834632309f87e4974ee&amp;siteScreenName=gamerant&amp;theme=light&amp;widgetsVersion=aaf4084522e3a%3A1674595607486&amp;width=550px' data-tweet-id='1673101236810162179'></iframe>",
+        "externalData": "<iframe id='twitter-widget-0' scrolling='no' frameborder='0' allowtransparency='true' allowfullscreen='true' class='' style='position: static;visibility: visible;width: 100%;height: 300px;display: flex;flex-grow: 1;margin: 0 auto;justify-content:center;align-items: center;' title='Twitter Tweet' src='https://platform.twitter.com/embed/Tweet.html?dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1673101236810162179&amp;lang=en&amp;origin=https%3A%2F%2Fgamerant.com%2Fdiablo-4-the-title-unlock-how%2F&amp;sessionId=81e8a4f57ea6a0f067f4f834632309f87e4974ee&amp;siteScreenName=gamerant&amp;theme=light&amp;widgetsVersion=aaf4084522e3a%3A1674595607486&amp;width=550px' data-tweet-id='1673101236810162179'></iframe>",
         "mainTag": "diablo 4",
         "tags": [
           {
@@ -918,6 +918,689 @@
           },
           {
             "name": "xbox"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "DALTON COOPER",
+          "imageProfile": "https://www.gravatar.com/avatar/a5b70091eea48ce92dedbbf06d6b7223?s=300&d=mm&r=g", 
+          "url": "#"
+        },
+        "id": "amazing-steam-deal-makes-147-bundle-available-for-just-7",
+        "title": "Amazing Steam Deal Makes $147 Bundle Available for Just $7",
+        "subTitle": "An absolutely incredible, but limited-time, Steam deal lets gamers get $147 worth of video games for a mere $7.",
+        "article": [
+          "From now until July 13 at 10am PT, Steam users can get the Valve Complete Pack bundle for just $6.54, 96% off its usual asking price of $145.82. This absolutely massive discount is thanks to the ongoing Steam Summer Sale, an annual tradition that seems Valve's digital distribution platform offer some jaw-dropping discounts on big games.",
+          "This year's Steam Summer Sale is running from June 29 to July 13, so <a href='https://gamerant.com/tag/steam/'><em>Steam</em></a> users have a couple of weeks to take advantage of the savings. Big games like the <em>Dead Space</em> remake, <em>Red Dead Redemption 2</em>, and <em>Elden Ring</em> are all enjoying healthy discounts, while users can also get the Steam Deck at a lower price as well. However, arguably the best deal out of the bunch is the Valve Complete Pack, which has had its price knocked down by 96% while the Steam Summer Sale is live.",
+          "The Valve Complete Pack, available for just $6.54 for a limited time, comes with 22 games, some of which are considered to be some of the best video games of all time. This includes both <em>Half-Life</em> games, both <em>Left 4 Dead</em> games, and both <em>Portal</em> games. The Valve Complete Pack is genuinely one of the best deals in gaming even when it's at full price, so being able to get all these titles and more for $6.54 is an absolute steal. Again, those interested have until July 13 at 10am PT to jump on the opportunity to buy the Valve Complete Pack at a 96% discount.",
+          "Those that are diligent about taking advantage of the best Steam deals very likely already have these games, and in fact, they may have acquired them through the Valve Complete Pack. As some may recall, the Valve Complete Pack enjoyed an identical discount a few months back during the Steam Spring Sale. Offering so many games at such a low price is a good way to draw in customers who may then see some of the other deals on offer and be tempted to pick up some other titles while they're grabbing the Valve Complete Pack.",
+          "Of course, it's worth pointing out that the Valve Complete Pack isn't really 'complete' anymore. Valve has since released new games that are currently not part of the bundle, with the most notable being acclaimed VR game <em>Half-Life: Alyx</em>. It will be interesting to see if Valve ever updates the Valve Complete Pack offerings, but even if it doesn't, it's still easily one of the best deals in all of gaming."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/steam-logo-blue-background.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-06-29T9:00:00Z",
+        "views": 409,
+        "images" : ["https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/valve-complete-pack-bundle-deal.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "alan wake 2",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "valve"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "steam"
+          }
+          
+        ]
+      },
+      {
+        "author": {
+          "name": "DALTON COOPER",
+          "imageProfile": "https://www.gravatar.com/avatar/a5b70091eea48ce92dedbbf06d6b7223?s=300&d=mm&r=g", 
+          "url": "#"
+        },
+        "id": "elden-ring-jumps-back-up-sales-chart-over-a-year-after-launch",
+        "title": "Elden Ring Jumps Back Up Sales Chart Over a Year After Launch",
+        "subTitle": "FromSoftware's Elden Ring finds itself back at the top of a sales chart over a year after its original release.",
+        "article": [
+          "<strong><em>Elden Ring</em></strong> is back near the top of Steam's top sellers, likely thanks to the ongoing Steam Summer Sale event. <em>Elden Ring</em> was first released in February 2022 to widespread critical acclaim and record-breaking sales for FromSoftware. The open world Soulslike's popularity has persisted since then, but if its resurgence to the top of Steam's best-sellers list is any indication, it seems there are still many who have yet to give <em>Elden Ring</em> a shot.",
+          "<em>Elden Ring</em> has been credited with breaking down the boundaries that have kept many gamers from enjoying FromSoftware's Soulslikes. <em>Elden Ring</em>'s open world format has lent itself well to FromSoftware's formula, giving those who would normally be turned off by the roadblocks players often bump into in those games the chance to simply explore in a different direction and keep playing in situations that would have normally seen them give up.",
+          "Now <em>Elden Ring</em> has found itself back at the very top of Steam's top sellers after the Steam Summer Sale went live and gave the game a nice 30% discount, allowing newcomers to pick it up for just $41.99 instead of the usual $59.99 asking price. With <em>Elden Ring</em> winning Game of the Year at the 2022 Game Awards and standing as one of the best-selling games of all time, it's really no surprise that many Steam users are jumping at the opportunity to add it to their digital libraries. Since the Steam Summer Sale lasts until July 13, it will be interesting to see if it's able to climb back to the very top.",
+          "The rest of the top 10 is quite interesting. Right now, the best-seller is the Steam Deck, Valve's handheld gaming device. The $399.00 version of the Steam Deck is currently discounted by 10% as part of the Steam Summer Sale. It's relatively rare for gaming consoles to get price discounts, so anyone that wants to get a Steam Deck at a slightly lower price than usual should take advantage of this deal while they can.",
+          "Following the Steam Deck are <em>Counter-Strike: Global Offensive</em> (which is a free-to-play game, so it has an unfair advantage, to say the least), <em>BattleBit Remastered</em>, <a href='https://gamerant.com/tag/elden-ring/'><em>Elden Ring</em></a>, the critically-acclaimed Dave the Diver, open world <em>Harry Potter</em> action-RPG <em>Hogwarts Legacy</em>, early access game <em>Six Days in Fallujah</em>, <em>Cyberpunk 2077</em>, <em>Call of Duty: Modern Warfare 2</em>, and <em>Red Dead Redemption 2</em>. Most of these games are also enjoying limited-time discounts as part of the Steam Summer Sale."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/elden-ring-godfrey-and-lion.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-06-29T10:00:00Z",
+        "views": 209,
+        "images" : ["https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/steam-top-sellers.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "elden ring",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "elden ring"
+          },
+          {
+            "name": "from software"
+          },
+          {
+            "name": "bandai namco entertainment"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series x"
+          },
+          {
+            "name": "xbox"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "BRUNA TELLES",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F6372e07d3f4bc-20220905_182918-1.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "overwatch-2-secretly-teased-its-new-animated-series-months-ago",
+        "title": "Overwatch 2 Secretly Teased Its New Animated Series Months Ago",
+        "subTitle": "Overwatch 2 announces a new animated mini-series, but Blizzard actually teased its existence prior to the official announcement.",
+        "article": [
+          "<strong><em>Overwatch 2</em></strong> announced a new animated miniseries, but Blizzard secretly teased its existence months ago. The <em>Overwatch</em> universe continues to expand following the release of <a href='https://gamerant.com/tag/overwatch-2/'><em>Overwatch 2</em></a>, as players have seen the release of new heroes like Kiriko and Lifeweaver, bringing new gameplay features and enriching the game's lore.",
+          "<em>Overwatch</em>'s lore is one of the reasons why the franchise gets a lot of praise. The <em>Overwatch 2</em> community's love for the animated shorts, due to both their visual quality and writing, has also been well documented. For years, players have been asking for the release of an <em>Overwatch</em> animated series, which did not chang with the release of <em>Overwatch 2</em>. <em>Overwatch 2</em> players continue to wait for a production that tells them more about fan favorite heroes like Mercy and Tracer, or reveals details about major events in <em>Overwatch</em>'s lore. Thankfully, an upcoming project seems to be a step toward that.",
+          "<em>Overwatch 2</em> recently announced a new animated miniseries called Genesis, but it was secretly hinted at by Blizzard months before the announcement. Reddit user Joy_ow shared an image comparison showing the control room screen of the <em>Overwatch 2</em> Gibraltar map. In the first image, players can see the control room screen from launch, while the second shows the same screen after one of the updates <em>Overwatch 2</em> received this year. The player notices that one of the images on the 'active threats' screen got replaced, and this image is one of the scenes in the Genesis announcement trailer.",
+          "Genesis is a three-part miniseries, with the first part available on July 6 on <em>Overwatch 2</em>'s official YouTube channel. In the announcement trailer, <em>Overwatch 2</em> players spotted some scenes from the Omnic Crisis, which would make the miniseries a prequel to the events of <em>Overwatch</em> and <em>Overwatch 2</em>. Another highlight of the trailer is the appearance of Mina Liao, one of the leading robotics experts in the <em>Overwatch</em> universe. Mina Liao is a key figure in the development of Omnics who is best known for having created Echo, the damage hero from <em>Overwatch 2</em>.",
+          "While Genesis is not a large-scale project released in cinemas or by a streaming platform, the animated miniseries comes at a crucial time for <em>Overwatch 2</em>. Since its launch, <em>Overwatch 2</em> has experienced constant controversy over constant issues with bugs, balancing, and poor matchmaking. Last month, Blizzard ignited another debate by limiting access to <em>Overwatch 2</em>'s story missions and requiring players to pay for the content. With the release of Genesis, Blizzard is attempting to bring positive attention to <em>Overwatch 2</em> by exploring a still-popular facet of the franchise: the story."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/fz46vxdwyai7p3o.jpeg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-06-29T14:00:00Z",
+        "views": 89,
+        "images" : [],
+        "externalData": "<iframe height='500' src='https://embed.reddit.com/r/Overwatch/comments/14nuxej/new_overwatch_mini_series_was_teased_in_the_game/?embed=true&amp;ref_source=embed&amp;ref=share&amp;utm_medium=widgets&amp;utm_source=embedv2&amp;utm_term=23&amp;utm_name=post_embed&amp;embed_host_url=https%3A%2F%2Fgamerant.com%2Foverwatch-2-genesis-animated-series-teaser-gibraltar-easter-egg%2F' width='640px' scrolling='no' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups' allow='clipboard-read; clipboard-write' style='border: none; max-width: 100%; border-radius: 8px; display: block; margin: 0px auto;'></iframe>",
+        "mainTag": "overwatch 2",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "overwatch 2"
+          },
+          {
+            "name": "overwatch"
+          },
+          {
+            "name": "blizard"
+          },
+          {
+            "name": "switch"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series x"
+          },
+          {
+            "name": "xbox"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "DANIEL MORRIS",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F6398d1e858157-170291025_10225566016961464_8639229735532165545_n.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "counter-strike-2-leak-reveals-huge-rework-of-fan-favorite-map",
+        "title": "Counter-Strike 2 Leak Reveals Huge Rework of Fan-Favorite Map",
+        "subTitle": "A gamer online shows leaked screenshots data-mined from Counter-Strike 2's Closed Test, revealing a major rework of a fan-favorite map.",
+        "article": [
+          "A leak from the latest <strong><em>Counter-Strike 2</em></strong> update has revealed a massive rework to Inferno, one of the game's most popular maps. <em>Counter-Strike 2</em> features plenty of huge changes from <em>CS:GO</em>, but a rework of Inferno is a surprise to most.",
+          "The reveal of <em>Counter-Strike 2</em> earlier this year was a massive surprise. <em>CS:GO</em>'s popularity was creeping up after a few years of stagnation, and shaking the formula up in any way risked disrupting that. It did anything but. <em>CS:GO</em> broke its own Steam player record upon <em>Counter-Strike 2</em>'s reveal, and proceeded to repeat the feat multiple times in the months after. The <em>Counter-Strike</em> franchise has always been a staple of the FPS genre, but at the moment it seems to have entered a new stratosphere of popularity among casual and hardcore gamers. Hopefully, the release of <em>Counter-Strike 2</em> doesn't disappoint, and the numbers continue to grow each day.",
+          "The post in question was posted by Reddit iMarbot and can be viewed here, and it includes screenshots of <em>Counter-Strike 2</em>'s version of Inferno. The visual style of the map has received a massive overhaul, but the biggest change comes on the A-site, which is typically seen as one of the hardest to retake in the game. Players can no longer hide behind the graveyard stairs on the A-site, giving players entering the bombsite one less place to check. It's an enormous change that will affect how the map is played, from the lowest levels all the way up to competitive play. As well as this, the area formerly known as 'construction' by players has now become 'church', with Valve using it to show off <a href='https://gamerant.com/tag/counter-strike/'><em>Counter-Strike 2</em></a>'s fancy new lighting engine.",
+          "These screenshots appear to have been data-mined from the latest <em>Counter-Strike 2</em> update, which removed Mirage from the Closed Test map pool and instead added Nuke and Office. At the moment, Valve is slowly releasing maps to players one by one, so it can iron out any major bugs before the game releases in full later this Summer. While the gameplay changes to the map have been well-received, not everyone is a huge fan of the color. In the Reddit thread, many refer to the map's desaturation, especially given that Inferno is one of the most colorful maps in <em>CS:GO</em>. Everything is still in flux at the moment, so Valve could still make bolder color decisions in the final version of Inferno.",
+          "Despite consistent updates to the Closed Test, Valve remains coy about when the full game will actually drop. It was given a tentative 'Summer 2023' date when it was first revealed, so in theory, it could drop any day now. <em>CS:GO</em> skin prices have gone wild after <em>Counter-Strike 2</em>'s reveal, and at this point, it's hard to imagine anything calming it down given the incredible hype for the game."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/counter-strike-2-inferno-leak.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-06-29T16:00:00Z",
+        "views": 419,
+        "images" : ["https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/de_inferno_final.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "counter-strike",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "counter-strike"
+          },
+          {
+            "name": "counter-strike: global offensive"
+          },
+          {
+            "name": "valve"
+          },
+          {
+            "name": "pc gaming"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "BRUNA TELLES",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F6372e07d3f4bc-20220905_182918-1.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "minecraft-player-shows-off-incredible-world-that-took-9-years-to-build",
+        "title": "Minecraft Player Shows Off Incredible World That Took 9 Years to Build",
+        "subTitle": "An incredibly dedicated Minecraft player spends nine years building an impressive world and shares the result with other players of Mojang's game.",
+        "article": [
+          "A dedicated <strong><em>Minecraft</em></strong> player shows off a world that took nine years to complete, and the result is stunning. When Mojang released <a href='https://gamerant.com/tag/minecraft/'><em>Minecraft</em></a> in 2011, the game gave a sense of freedom that left players amazed. <em>Minecraft</em> would become a huge success and one of the best-selling games ever.",
+          "<em>Minecraft</em>'s success inspired a wide variety of games where players can have the same experience of surviving, building, and adventuring. Examples include <em>Stardew Valley</em>, <em>Fallout 4</em>, and even <em>Trove</em>, a charismatic sandbox RPG whose graphics will remind a lot of Mojang's game. <em>Minecraft</em> also got spin-offs like the recent <em>Minecraft Legends</em>, which offer a fun experience inspired by the original game. For <em>Minecraft</em> players, there is a world that captivates people of all ages to bring their ideas to life.",
+          "Reddit user octavian_world showed other <em>Minecraft</em> players their impressive world that took nine years to complete. Some images show a beautiful futuristic city during the day that will remind gamers of titles like <em>Mirror's Edge</em>. Other pictures show the city at night and in the rain, which gives it a darker, <em>Cyberpunk 2077</em>-esque appearance. Additional images shared by the player show a large forest with tall trees, and snowy mountains reminiscent of the iconic snowy area in <em>Red Dead Redemption 2</em>. The world created by octavian_world is impressive for its detail and how long it has existed, meaning the project survived through years of <em>Minecraft</em> updates.",
+          "Users on the <em>Minecraft</em> subreddit highly praised octavian_world's design, whose post has attracted more than 7,000 upvotes. In the comments, the player said the images 'showed maybe 4% of their world', making <em>Minecraft</em> players curious about the dimensions of the project. Players have asked octavian_world to put the world up for download, and the player said they are considering downloads, but it is not yet fully confirmed. In the meantime, the player will open public servers starting with a pre-event in November this year, and the launch of the full server for <em>Minecraft</em> players next year.",
+          "The <em>Minecraft</em> community always gives very creative uses to the game's resources to make different kinds of projects. Many players like to recreate locations from games in <em>Minecraft</em> or places from anime and movies. The patience of <em>Minecraft</em> players is also enormous for working on original ideas, be they medieval worlds, temples, and even games within <em>Minecraft</em>. These ideas take the 'make your own adventure' philosophy of sandbox games to the next level and help <em>Minecraft</em> stand the test of time."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/minecraft-player-world-9-years-build.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-06-29T18:00:00Z",
+        "views": 507,
+        "images" : [],
+        "externalData": "<iframe height='500' src='https://embed.reddit.com/r/Minecraft/comments/14n3u32/today_marks_9_years_on_this_world/?embed=true&amp;ref_source=embed&amp;ref=share&amp;utm_medium=widgets&amp;utm_source=embedv2&amp;utm_term=23&amp;utm_name=post_embed&amp;embed_host_url=https%3A%2F%2Fgamerant.com%2Fminecraft-player-world-9-years-build%2F' width='640px' scrolling='no' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups' allow='clipboard-read; clipboard-write' style='border: none; max-width: 100%; border-radius: 8px; display: block; margin: 0px auto;'></iframe>",
+        "mainTag": "minecraft",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "minecraft"
+          },
+          {
+            "name": "android"
+          },
+          {
+            "name": "ios"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "switch"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "mobile gaming"
+          },
+          {
+            "name": "nintendo"
+          },
+          {
+            "name": "pc gaming"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "DOMINIK BOŠNJAK",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F6372e07d3f4bc-20220905_182918-1.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "developer-disputes-playstations-xbox-game-pass-criticism",
+        "title": "Developer Disputes PlayStation's Xbox Game Pass Criticism",
+        "subTitle": "A well-known game studio hits back at PlayStation's claims that developers and publishers dislike Xbox Game Pass for being 'value destructive.'",
+        "article": [
+          "Sports Interactive Director Miles Jacobson hit back at Sony's recent criticism of <strong>Xbox Game Pass</strong>. During Microsoft's federal trial with the FTC over its proposed Activision Blizzard acquisition, it came to light that PlayStation's Jim Ryan called Xbox Game Pass destructive, positing that 'all' major publishers 'unanimously' dislike the service.",
+          "While Microsoft's attorneys questioned Ryan's suggestion that he speaks for the entire industry, the Sony Computer Interactive CEO insisted that this unfavorable perspective of Xbox Game Pass was a commonly held view across the gaming space. This wasn't the first that the executive pushed back against the $68.7 billion deal, as Ryan repeatedly met with regulators over the Activision Blizzard acquisition since Microsoft announced its blockbuster buyout attempt in early 2022.",
+          "Ryan's latest criticism of Xbox Game Pass has now been directly disputed by Jacobson, with the Sports Interactive boss asserting that PlayStation doesn't speak for all third-party developers and publishers. Elaborating on that point in a recent interview with Eurogamer, Jacobson said that 'different games work well in different situations', suggesting that generalized statements like Ryan's claim that 'all' publishers dislike Xbox Game Pass have little basis in reality. From Sports Interactive's perspective, the decision to bring <em>Football Manager</em> to Xbox Game Pass yielded extremely positive results, not least because it massively expanded the reach of the studio's flagship series, Jacobson revealed.",
+          "Sports Interactive's parent company appears to share that sentiment, as Sega previously went on record to praise Xbox Game Pass, citing it as a major factor driving the continued growth of its numerous franchises. Apart from <em>Football Manager</em>, the Japanese publisher has so far brought many games from the <em>Yakuza</em> and <em>Persona</em> series to Xbox Game Pass. Its partnership with Microsoft has also been deepening in recent times, as underlined by the fact that the recently announced <em>Persona 3</em> Reload and <em>Persona 5</em> Tactica will be day-one Xbox Game Pass releases, which is a first for this long-running JRPG franchise.",
+          "Asked about the recent revelation that Microsoft considered buying Sega prior to proposing the Activision Blizzard acquisition, Jacobson said he had no knowledge of that possibility. The Sports Interactive chief explained that he's 'normally' informed about such high-level developments, implying Microsoft never entered any serious acquisition talks with Sega.",
+          "Sports Interactive's willingness to support subscription-based game services doesn't end with <a href='https://gamerant.com/tag/xbox-game-pass/'><em>Xbox Game Pass</em></a>; back in late 2022, the UK studio decided to launch <em>Football Manager 2023</em> Touch as an Apple Arcade exclusive. Some half a year later, Sony added a time-limited trial of <em>Football Manager 2023</em> to the list of its PS Plus Premium perks."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/playstation-vs-xbox-logos-versus-screen.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-06-30T09:00:00Z",
+        "views": 207,
+        "images" : ["https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/06/xbox-game-pass-neon-sign.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "games",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "playstation"
+          },
+          {
+            "name": "xbox"
+          },
+          {
+            "name": "xbox game pass"
+          },
+          {
+            "name": "sony"
+          },
+          {
+            "name": "microsoft"
+          },
+          {
+            "name": "football manager"
+          },
+          {
+            "name": "sega"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "JOHN BONELLI",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F6372e07d3f4bc-20220905_182918-1.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "ark-survival-ascended-delayed",
+        "title": "Ark: Survival Ascended Has Been Delayed",
+        "subTitle": "Ark fans eager to jump into the Unreal Engine 5 remaster of the dinosaur survival game Ark: Survival Evolved will have to wait a bit longer.",
+        "article": [
+          "The remaster of the hit dinosaur survival game <em>Ark: Survival Evolved</em>, <strong><em>Ark: Survival Ascended</em></strong>, which is being built in Unreal Engine 5, has seen a small delay from its original August release date. Originally announced earlier this year, <a href='https://gamerant.com/tag/ark-survival-evolved/'><em>Ark: Survival Ascended</em></a> is aiming to bundle all the original game's DLC expansions into one cleaner-looking package ahead of its <em>Ark 2</em> sequel.",
+          "Since its 2015 release, <em>Ark: Survival Evolved</em> has quickly become one of the most popular titles in the world of survival games with its focus on being able to fight and tame an array of different dinosaurs. Having been first revealed at The Game Awards 2020, the sequel <em>Ark 2</em> is set to feature Hollywood actor Vin Diesel as it carries the survival franchise forward using Epic's newly developed Unreal Engine 5. With some of the very first Unreal 5 games like <em>Lords of the Fallen</em> and <em>Senua's Saga: Hellblade 2</em> finally beginning to near release dates, <em>Ark</em> fans have been eager to learn more about <em>Ark 2</em> and <em>Survival Ascended</em>. Though, fans will now have to wait a bit longer for the latter.",
+          "Developer Studio Wildcard has announced the delay of the <em>Ark: Survival Ascended</em> remaster from August to October, with no specific date, as the team works through some challenges with Unreal Engine 5. The DLC expansions from the first game that are set to be included in <em>Survival Ascended</em> will be fragmented and released following the remaster's October launch. The Island DLC will be included in <em>Survival Ascended</em> day one, while Scorched Earth will be made available in December. Additionally, the Ragnarok and Aberration DLC expansions will make their way to the remaster in Q1 2024.",
+          "The price of <em>Ark: Survival Ascended</em> will see a change as well. Its previous $60 price tag will be lowered to $45 for early access with a $5 discount at launch. Additionally, with <em>Survival Ascended</em> essentially replacing the original <em>Ark: Survival Evolved</em> game, a changing of the guard for the servers will need to take place. Now that <em>Survival Ascended</em> has been delayed to August, the <em>Survival Evolved</em> servers will see closure on September 30. The <em>Ark</em> community has been displeased with having to purchase the remaster in order to continue playing. Since this is a live service survival game, making the remaster a free update for existing players would be ideal, especially with <em>Survival Evolved</em> being taken offline permanently, but this isn't the case as of now.",
+          "As the wait for <em>Ark 2</em> continues, fans of the dino survival sandbox can look forward to a potentially better looking version of the original game this Fall. As this coming October is loaded with major blockbusters like <em>Alan Wake 2</em>, <em>Assassin's Creed Mirage</em>, <em>Marvel's Spider-Man 2</em>, and more, it'll be interesting to see if <em>Ark: Survival Ascended</em> will be able to cultivate and maintain a larger audience of new fans ahead of <em>Ark</em> 2."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/ark-survival-ascended-logo.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-06-30T09:00:00Z",
+        "views": 207,
+        "images" : ["https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/04/upscaler-ark_survival_ascended_price_1681130822041-2x-1.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "ark: survival evolved",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "ark: survival evolved"
+          },
+          {
+            "name": "studio wildcard"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox series x"
+          },
+          {
+            "name": "xbox series s"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "DOMINIK BOŠNJAK",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F6372e07d3f4bc-20220905_182918-1.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "square-enix-game-canceled",
+        "title": "Square Enix Game Canceled",
+        "subTitle": "Square Enix confirms the cancellation of an ill-fated game that suffered through multiple delays after the onset of the COVID-19 pandemic.",
+        "article": [
+          "Square Enix has canceled <strong><em>Just Cause: Mobile</em></strong> and will promptly be removing its beta version from Google Play. The ill-fated project was meant to be the first-ever <a href='https://gamerant.com/tag/just-cause/'><em>Just Cause</em></a> spin-off not made by Avalanche Studios Group but one of Square Enix's internal teams. The iOS version of the game will hence never see the light of day.",
+          "Square Enix originally announced <em>Just Cause: Mobile</em> in late 2020 with an eye for a 2021 release. However, the game ended up suffering multiple delays with the onset of the COVID-19 pandemic. The Japanese gaming giant did end up launching an early access version of <em>Just Cause: Mobile</em> for Android smartphones and tablets in November 2021, but that release was limited to Singapore. The preview eventually made its way to several more countries in Southeast Asia by mid-2022, but that's as far as it went.",
+          "Following multiple <em>Just Cause: Mobile</em> delays, the game has now been canceled, VGC reports, citing an official confirmation from Square Enix Global Brand Manager Anne-Lou Grosbois-Favreau. The company representative thanked the fans for their support of the project, adding that game cancellation announcements are 'never easy.' This turn of events might not come as a surprise to anyone who played the early access version of <em>Just Cause: Mobile</em>, as Square Enix already refunded all in-game purchases on February 24, Grosbois-Favreau confirmed.",
+          "The version history of <em>Just Cause: Mobile</em> is another piece of evidence suggesting that the project wasn't killed overnight, as its still-active Google Play page reveals that the preview version of the game was last updated in mid-December 2022. For clarity, early access titles are typically updated on a regular basis, with monthly or even weekly patches being a fairly typical occurrence for such games. So, while Square Enix had only now officially pulled the plug on this project, it would appear that <em>Just Cause: Mobile</em> had been on the ropes since at least last year.",
+          "The decision to cancel <em>Just Cause: Mobile</em> was possibly partially motivated by its developer-publisher's recent commercial struggles. Back in February, Square Enix reported a worrying decline in sales across the board, which prompted the company to announce a number of resource consolidation efforts, including its decision to absorb Forspoken developer Luminous Productions in May.",
+          "The cancellation of <em>Just Cause: Mobile</em> won't necessarily have any bearing on the future of the franchise itself. Back in mid-2022, Square Enix already hinted at Just Cause 5 being in development, having assured investors that this long-running series wasn't part of its $300 million deal with Embracer Group that recently saw it sell some of its Western studios and IPs to the Swedish holding company."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/square-enix-logo-on-white.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-06-30T11:30:00Z",
+        "views": 307,
+        "images" : ["https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/Just-Cause-Mobile-Android.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "square enix",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "square enix"
+          },
+          {
+            "name": "just cause"
+          },
+          {
+            "name": "mobile gaming"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "LUIE MAGBANUA",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F5fdec4ab3fc51-128743560_227985902174259_34288765122339325_n.png?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "assasins-creed-mirage-feature-lets-you-learn-more-about-the-games-setting",
+        "title": "Assassin’s Creed Mirage Feature Lets You Learn More About the Game’s Setting",
+        "subTitle": "Ubisoft Montreal is adding a new feature into Assassin’s Creed Mirage which will allow players to learn more about where the game takes place.",
+        "article": [
+          "It seems Ubisoft Montreal is adding a new interesting feature into <strong><em>Assassin's Creed Mirage</em></strong> that will give players more information about the time period and setting of the upcoming video game. With many of the <em>Assassin's Creed Mirage</em> gameplay features mostly centering around the series' main theme of espionage, it is not surprising for the devs to bring back another one that will help educate the player base.",
+          "Since the official announcement of <em>Assassin's Creed Mirage</em> in 2022, Ubisoft has slowly been revealing more information about the upcoming game. Fans now have more details about its story, setting, and the gameplay, allowing them a sneak peek of what to expect once the title fully launches in 2023. Now that traversal and battle features have been made clear, it seems Ubisoft wants to make players more excited about all the other bells and whistles, especially the educational aspect of <em>Assassin's Creed Mirage</em>.",
+          "In a recent news post on the Ubisoft website, the team shared that a new feature called the 'History of Baghdad' will be included in <a href='https://gamerant.com/tag/assassins-creed-mirage/'><em>Assassin's Creed Mirage</em></a>. Integrated as part of the in-game Codex and database, the feature will provide players with historical context about locations, items, and cultural events that they will encounter while they journey with the main character Basim throughout ninth century Baghdad. Players can unlock this information via their playthrough, and these articles will fall under five different topics such as Economy, Belief & Daily Life, Government, Art & Science, and Court Life.",
+          "To make the History of Baghdad as historically accurate as possible, Ubisoft had employed the historian Dr. Raphaël Weyland to work specifically on the development of <em>Assassin's Creed Mirage</em>. Weyland was given the freedom to curate most of the content that would appear in the Codex feature, specifically elements that players could discover in the game. Ubisoft also partnered with different Middle East history experts and international museums with incredible exhibits of Islamic art in order to bring Baghdad to life in the video game.",
+          "Though many in the player base are more interested in how <em>Assassin's Creed Mirage</em> will play, there are those who will probably enjoy the game for the historical information it can provide. Given just how dedicated Ubisoft has been in making sure many of their historical settings are accurate and concise, the same can probably be expected with <em>Assassin's Creed Mirage</em>. Until then, fans will have to wait until launch day to find out and see this for themselves."        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/assassin-s-creed-mirage-marketplace-screenshot.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-06-30T13:30:00Z",
+        "views": 200,
+        "images" : [
+          "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/assassin-s-creed-mirage-history-of-baghdad-bazaar.jpg?q=50&fit=crop&w=1500&dpr=1.5",
+          "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/assassin-s-creed-mirage-history-of-baghdad-astrolabe.jpg?q=50&fit=crop&w=1500&dpr=1.5"
+          ],
+        "mainTag": "assassin's creed mirage",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "assassin's creed mirage" 
+          },
+          {
+            "name": "assassin's creed"
+          },
+          {
+            "name": "ubisoft montreal"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series x"
+          },
+          {
+            "name": "xbox series s"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "FILIP GALEKOVIC",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F629eed75a8b12-New%20Bitmap%20image.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "beyond-good-and-evil-2-creative-director-has-passed-away",
+        "title": "Beyond Good and Evil 2 Creative Director Has Passed Away",
+        "subTitle": "The Creative Director of Beyond Good and Evil 2 and numerous Ubisoft classics passes away at the age of 40, with his co-workers sharing fond memories.",
+        "article": [
+          "The creative director of <strong><em>Beyond Good and Evil 2</em></strong>, Emile Morel, has passed away at the age of 40, leaving behind a legacy of beloved Ubisoft classics and more. A Ubisoft game designer with a particularly long and storied tenure, Morel worked on <em>Rayman Legends</em>, among numerous other titles, which is often considered to be one of the finest side-scrolling platforming titles of all time.",
+          "<a href='https://gamerant.com/tag/beyond-good-and-evil-2/'><em>Beyond Good and Evil 2</em></a> has had a long and troubled development period, with Morel only taking over the project earlier in 2023. While this meant that he didn't have the opportunity to see the project through before passing, his team members have highlighted that Morel did leave a lasting impression and appears to have been happy with the game's progress.",
+          "Ubisoft reiterated earlier this year that <em>Beyond Good and Evil 2</em> is still in development, even though there hadn't been any major news on that front for some time at that point. The unexpected passing of its creative director will surely slow things down for the rest of the dev team. Ubisoft is yet to comment on Morel's death and what it means for the game's continued production.",
+          "As one of the biggest contemporary game productions seemingly stuck in development hell, the loss of <em>Beyond Good and Evil 2</em>'s second creative director is a huge deal. It's worth remembering that Morel took over from the game's previous creative director, Jean-Marc Geffroy, earlier in 2023. Geffroy was taken off the project during a restructuring attempt at the studio, and with development still under wraps, it's unclear how much progress the game has made under Morel's guidance.",
+          "It's worth pointing out that things seem to have been going better over the past couple of years. <em>Beyond Good and Evil 2</em> devs expected cancellation back in 2021, but the production persevered and may have even hit its stride after Morel took over. Whether such optimism is displaced or not remains to be seen."        
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/v3yj9s45_2x.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-06-30T15:30:00Z",
+        "views": 220,
+        "images" : [ "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/beyond-good-and-evil-2-development-continues.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "beyond good and evil 2",
+        "tags": [
+          {
+            "name": "ubisoft"
+          },
+          {
+            "name": "beyond good and evil 2" 
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "PARTH BAGARIA",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F6185afb21e957-2019-08-10-20-12-04-194.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "ps-plus-premium-adds-new-trial-for-horror-game",
+        "title": "PS Plus Premium Adds New Trial for Horror Game",
+        "subTitle": "PS Plus Premium members regularly get access to new time-limited trials, and a recent horror game is the latest addition to the lineup.",
+        "article": [
+          "Members in the Premium tier of PlayStation Plus have access to a time-limited trial for a horror game, as Sony adds <em>The Callisto Protocol</em> to the lineup. PS Plus Premium users get some bonuses over the other tiers, as subscribers in this category can play select PS1, PS2, and PSP games at no extra cost.",
+          "<a href='https://gamerant.com/tag/playstation-plus/'>PS Plus Premium</a> members also get access to time-limited trials, a unique feature that allows them to try out games for the given period. This duration largely varies between titles, with some offering up to five hours of gameplay. Now, Sony has added The Callisto Protocol to the lineup of trials available to users.",
+          "As revealed by Push Square, PS Plus Premium members can play <em>The Callisto Protocol</em> for up to an hour at no extra cost. Players should note that this timer starts upon launching the game, so they need to close the application from the PS5 home menu to stop it. <em>The Callisto Protocol</em> offers 12-14 hours of gameplay, so one hour may seem a bit too short. Regardless, it’ll help gamers get hands-on experience with <em>The Callisto Protocol</em>, allowing them to make an informed purchasing decision.",
+          "<p>The Callisto Protocol</p> is a horror game from 2022, and there was a lot of hype leading up to its release. However, <em>The Callisto Protocol</em> received mixed reviews upon its launch, as the PS5 version of the game has a score of 69 on Metacritic. Its user score isn’t that much better, as it currently has a score of 6.8 from gamers on Metacritic. Still, this one hour trial will allow users on the fence about <em>The Callisto Protocol</em> to try out the game.",
+          "The trial duration is completely dependent upon the title, but most offer two to three hours of gameplay. Some games offer lengthy trials, as PS Plus Premium members can try out <em>Cyberpunk 2077</em> for up to five hours. On the other hand, the PS Plus Premium trial for <em>Hogwarts Legacy</em> allows gamers to play for just 45 minutes.",
+          "Aside from trials and classic games, Premium subscribers get all the benefits of the Extra and Essential tiers, giving them access to the free monthly titles in addition to a huge catalog of games. As an example, PS Plus Premium members got 29 new games to play in June 2023 including <em>Far Cry 6</em>, <em>Teenage Mutant Ninja Turtles: Shredder’s Revenge</em>, <em>Rogue Legacy 2</em>, <em>Inscryption</em>, and more."       
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/ps-plus-trial-horror-game.jpeg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-06-30T17:30:00Z",
+        "views": 120,
+        "images" : [ "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/callisto-protocol-key-art.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "games",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "the callisto protocol" 
+          },
+          {
+            "name": "playstation plus"
+          },
+          {
+            "name": "krafton"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "DALTON COOPER",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F61dc6e08e4241-dalton%20cooper%20profile%20image.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "overwatch-2-anime-series-episode-1-sets-up-the-omnic-crisis",
+        "title": "Overwatch 2 Anime Series Episode 1 Sets Up the Omnic Crisis",
+        "subTitle": "Blizzard teases the origins of the Omnic Crisis in Genesis Part 1: Dawn, the very first episode of its new Overwatch 2 anime short series.",
+        "article": [
+          "Blizzard has released Genesis Part 1: Dawn, the first episode of a new <strong><em>Overwatch 2</em></strong> anime short series. Instead of in-game cutscenes, Blizzard has expanded on <em>Overwatch</em>'s lore and overarching story through animated shorts, comic books, and other avenues, with anime now being added to the mix.",
+          "Blizzard recently announced an <a href='https://gamerant.com/tag/overwatch-2/'><em>Overwatch 2</em></a> anime series that will consist of three episodes. The series is meant to be a prequel to the current events of the <em>Overwatch 2</em> game, giving fans a closer look at what happened during the original Omnic Crisis. The first video in the series covers some ground that should be familiar to hardcore <em>Overwatch</em> fans, but is still exciting to see play out in anime form.",
+          "The first episode of the <em>Overwatch 2</em> anime series, Genesis Part 1: Dawn, begins with a battle between humans and omnics. Viewers can get a glimpse of Reinhardt defending a group of soldiers from an omnic attack before the video shifts to a documentary 'talking heads' style approach. The rest of the video explains how the Omnica Corporation and its omnics were at first a massive boon for humanity, but how the corporation ultimately pushed things too far.",
+          "Dr. Mina Liao was hired by Omnica and started working on pushing the company's robotics and AI technology to the next level. The video ends with Liao successfully giving an omnic sentience. It's likely that the omnic in question is Aurora, but <em>Overwatch</em> fans will have to wait for the next two parts of the series to learn more. Part 2 will drop on July 13 at 9am PT, while the third and final part of the <em>Overwatch 2</em> anime series is dropping on July 20 at 9am PT.",
+          "<em>Overwatch</em> fans will know that Liao successfully giving an omnic sentience is going to have significant consequences that eventually lead to the Omnic Crisis. The Omnic Crisis in turn leads to the formation of <em>Overwatch</em>. As it so happens, Mina Liao is actually a founding member of the group.",
+          "It will be interesting to see where the <em>Overwatch 2</em> anime series goes from here. It's possible it will show Overwatch actually being formed, but it's also possible that it will jump ahead to the middle of the Omnic Crisis instead. Whatever the case may be, the trailer confirmed that characters like Torbjorn and Ana will be involved, so fans can look forward to seeing them in action in the weeks to come."       
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/overwatch-anime-series-dr-mina-liao.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-01T8:30:00Z",
+        "views": 600,
+        "images" : [],
+        "externalData": "<iframe allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen='' frameborder='0' height='315' src='https://www.youtube.com/embed/PIYMn8eDskg' width='560'></iframe>",
+        "mainTag": "overwatch",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "overwatch" 
+          },
+          {
+            "name": "overwatch 2"
+          },
+          {
+            "name": "blizzard"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "switch"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series x"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "DOMINIK BOŠNJAK",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F62f656fd870c4-831DE4BB-5CB8-40CF-AAE4-13FBE823A53D.jpeg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "monster-hunter-now-isnt-looking-to-make-money-capcom-says",
+        "title": "Monster Hunter Now Isn't Looking to Make Money, Capcom Says",
+        "subTitle": "Capcom reveals it does not expect Monster Hunter Now to make money, in addition to providing some other insights into its upcoming games.",
+        "article": [
+          "<strong><em>Monster Hunter</em></strong> Now isn't expected to make money, Capcom has said. This unusual bit of insight into the upcoming title arrives mere weeks after <em>Monster Hunter Now</em> opened a new limited beta test ahead of its full-fledged release.",
+          "Originally announced in April, <em>Monster Hunter</em> Now is an AR mobile game from <em>Pokemon GO</em> developer Niantic. Much like the studio's greatest hit to date, its <em>Monster Hunter</em> spin-off promises to combine geolocation-based exploration with action gameplay and resource collection.",
+          "And while <em>Pokemon GO</em> isn't as popular as it used to be, the game still made billions of dollars over the past seven years, making Capcom's investors excited about the prospects of <em>Monster Hunter Now</em>. Yet the Japanese company insists that its primary motivation for licensing <em>Monster Hunter</em> to Niantic has nothing to do with the immediate money-making potential of such a move, having said as much during its latest general shareholder meeting. Asked about Capcom's expectations for <em>Monster Hunter Now</em>, a company official revealed that the publisher primarily anticipates the game to boost the series' global brand instead of generate 'revenue contributions.'",
+          "Capcom is not the first Japan-based gaming giant to adopt such a publicity-driven approach to mobile games. Back in December 2022, Nintendo also said its mobile games weren't meant to make money, with one of its officials claiming that titles like <em>Super Mario Run</em> and <em>Mario Kart</em> Tour were primarily developed as marketing tools. Yet that particular sentiment was expressed in defense of Nintendo's declining mobile profits, whereas Capcom seemingly adopted a similar perspective in order to preemptively downplay the commercial expectations for <em>Monster Hunter Now</em>.",
+          "For clarity, Capcom is no stranger to mobile development, but most of its past efforts in this space were focused on ports of classic titles such as <em>Mega Man X</em> and the Ace Attorney games. Its latest <em>Monster Hunter</em> mobile game also followed that trend, having materialized in the form of the 2018 port of <em>Monster Hunter Stories</em>, formerly a 3DS exclusive. In contrast, <em>Monster Hunter Now</em> is Capcom's first contemporary attempt at putting out a mobile-only spin-off based on one of its massively popular franchises. So, irrespective of any commercial expectations attached to the project, the circumstances that led to <em>Monster Hunter Now</em> still seem more akin to those surrounding <em>Pokemon GO</em> or even <em>Fire Emblem Heroes</em> than <em>Monster Hunter Stories</em>.",
+          "As for Capcom's other near-future plans, its latest shareholder meeting yielded a confirmation that the publisher isn't ruling out the possibility of remaking non-numbered <em>Resident Evil</em> games. A company representative also revealed that Capcom is currently looking into the possibility of reviving the Onimusha series."       
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/capcom-logo-on-monster-hunter-now-artwork.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-01T10:30:00Z",
+        "views": 160,
+        "images" : [ "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/capcom-44th-annual-shareholders-meeting-q-and-a-highlights-on-monster-hunter-now-onimusha-and-resident-evil.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "games",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "monster hunter" 
+          },
+          {
+            "name": "capcom"
+          },
+          {
+            "name": "niantic"
+          },
+          {
+            "name": "mobile gaming"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "CHRISTIAN MILLER",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F618d815d23cdf-profile.png?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "world-of-warcraft-greatly-nerfs-new-megadungeon",
+        "title": "World of Warcraft Greatly Nerfs New Megadungeon",
+        "subTitle": "Blizzard is introducing another batch of nerfs to the new World of Warcraft megadungeon, though it fails to solve the healing issues in Dragonflight.",
+        "article": [
+          "Though dungeons overall are expected to become easier in Patch 10.1.5, the upcoming megadungeon in <strong><em>World of Warcraft</em></strong> is also receiving significant nerfs to its bosses. One of the biggest Mythic Keystone complaints about Season 2 of <em>Dragonflight</em> has been the increased difficulty that healers have been dealing with, as the amount of total dungeon runs sunk well below expected numbers. Furthermore, the nerfs to off-spec hybrid healing that were planned for Patch 10.1.5 would have further introduced hardship for Mythic Keystone teams, despite tanks and damage dealers otherwise enjoying a smooth experience.",
+          "Every <em>World of Warcraft</em> expansion since <em>Legion</em> featured a megadungeon during the course of its patch content, and for <em>Dragonflight</em>, this is slated to be the Dawn of the Infinite. Given that Fractures of Time deals with Nozdormu, the Keeper of Time, and their struggle against the Infinite Dragonflight, players can expect to see plenty of familiar characters during the megadungeon, as well as get the opportunity to obtain some of the most iconic weapons from <em>World of Warcraft</em> history.",
+          "While the new <em>World of Warcraft</em> megadungeon will only become part of the Mythic Keystone rotation in Season 3, it will nevertheless be a great source of loot for players seeking to bridge the item level gap and replace their weakest equipment. Though players were hoping Dawn of the Infinite would be more of a progression experience, many fans were under the impression that the initial buffs made the megadungeon overtuned. The nerfs seem to specifically be targeting Chrono Lord Deios and the Blight of Galakrond bosses, practically halving the damage Galakrond can make with abilities such as Necrofrost, Corrosion, and Necrotic Winds.",
+          "The changes were spotted and documented by Wowhead, and given that Fractures in Time is releasing on July 11, this may well be the final iteration of the upcoming megadungeon prior to launch. In addition to the latest changes, Dawn of the Infinite was previously hit by nerfs to Chronikar, Deios, and the Manifested Timeways, reducing the amount of healing required to endure the encounters. Though this fails to address the underlying issues that currently plague healers in <em>World of Warcraft</em>, it should make the initial version of the megadungeon a lot easier to stomach.",
+          "Many community voices, whether popular streamers or casual players, have pointed towards Mythic Keystone healers in particular suffering from the nerfs, as spot healing continues to be in a bad spot ever since Embers of Neltharion launched. Though some <a href='https://gamerant.com/tag/world-of-warcraft/'><em>World of Warcraft</em></a> players have argued the difficulty of Mythic Keystones is at a good spot right now, it arguably comes at a great burden to healers, as opposed to spreading out the responsibility to tanks and damage dealers alike. Ultimately, many fans are hoping that the nerfs to Dawn of the Infinite will extend to Mythic Keystones proper, even if they have to wait till Season 3 to see it."    
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/warcraft-character.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-01T12:30:00Z",
+        "views": 186,
+        "images" : [ "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/1107960.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "world of warcraft",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "world of warcraft: dragonflight" 
+          },
+          {
+            "name": "world of warcraft"
+          },
+          {
+            "name": "blizzard"
+          },
+          {
+            "name": "pc gaming"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "ARNAB CHAKRABARTI",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F63d85a16e14b4-17904097_1189240707872085_4011536173780773320_n.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "destiny-2-is-buffing-underused-exotics",
+        "title": "Destiny 2 Is Buffing Underused Exotics",
+        "subTitle": "Bungie offers insight into Destiny 2's upcoming mid-season patch that will buff underutilized Exotics and struggling weapon archetypes.",
+        "article": [
+          "As per the latest Developer Insight by Bungie, several <strong><em>Destiny 2</em></strong> Exotic weapons and archetypes are set to receive significant buffs in the upcoming mid-season balance patch. Usually, major updates to weapon functionality and archetypes are reserved for the annual expansions or the beginning of a season. For a while, however, Bungie has begun rolling out a mid-season patch for <em>Destiny 2</em>, addressing any game-breaking bugs and glitches, underperforming weapons and Exotics, and much more to benefit player experience.",
+          "Part of <em>Destiny 2</em>'s prolonged success as a looter shooter title can be attributed to the game's incredible combat system, seamlessly mixing gunplay and ability-based gameplay. From projectile weapons to energy cannons and bladed swords, <em>Destiny 2</em>'s massive arsenal offers players a ludicrous amount of choice when picking a favorite weapon. Exotic weapons hold a special place in <em>Destiny 2</em>'s combat landscape, coming equipped with special perks that are either perpetually active or triggered by completing specific actions, granting the weapon increased lethality, functionality, and synergy with other mechanics. While these weapons are quite capable on their own, the true potential is only realized when incorporated by players into thematic builds.",
+          "Graviton Lance is one such Exotic Pulse Rifle that has remained relatively unchanged since the launch of <a><em>Destiny 2</em></a>, save for receiving a facelift with the Void 3.0 verbs added to its capabilities. In the latest Developer Insight, Bungie has stated that Graviton Lance will receive an additional 67% buff against PvE targets to balance its lethality compared to other Exotic Pulse Rifles. It's not all buffs, however, as the damage from the Cosmology explosions has been decreased by 40% in PvP only, as well as removing the aim assist from the catalyst. As for other Exotics, the No Time To Explain Pulse Rifle has received a nerf to its effective range, and Fighting Lion's Exotic perk has been restored to its full functionality.",
+          "The mid-season patch has several changes in store for many weapon archetypes to compensate for the ever-changing meta of <em>Destiny 2</em>. Pulse Rifles, especially the High-Impact subfamily, will receive a boost in their auto-aim angle at lower aim assist ranges. The effective range for Lightweight Bows has been increased at all tiers, alongside a buff to final accuracy by nearly 10%. The dynamic reticle for Submachine Guns has been reworked to offer players more visual clarity during combat. Finally, Lightweight Shotguns will have tighter pellet spread in longer ranges, increasing the lethality in PvP. Post-patch, the Gutshot Straight and Slickdraw perks will have reduced auto-aim penalty, while the infamous Target Lock perk will only offer a 25% damage boost in PvP instead of the current 40%.",
+          "These upcoming changes reflect the changes coming to Destiny 2's weapons, but the developers have promised that changes to other aspects are in the works for the mid-season patch. The Developer Insight states that these changes will help Bungie bring more significant changes to <em>Destiny 2</em> in the future."    
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/destiny-2-mid-season-patch-buffs-exotics-gamerant.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-01T15:30:00Z",
+        "views": 236,
+        "images" : [ "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/destiny-2-exotic-rockets-bugged-catalyst-gamerant.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "destiny 2",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "destiny 2" 
+          },
+          {
+            "name": "bungie"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series x"
+          },
+          {
+            "name": "xbox series s"
           }
         ]
       }

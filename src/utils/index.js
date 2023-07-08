@@ -4,3 +4,4 @@ export * from './getLastArticles';
 export * from './getSecondArticle';
 export * from './getTimeAgo';
 export * from './gridClasslist';
+export * from './socialMedia';
