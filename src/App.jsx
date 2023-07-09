@@ -16,7 +16,7 @@ import { Navbar, Footer } from './components';
 
 function App() {
   return (
-    <main className="min-h-screen text-gray-200 bg-zinc-900">
+    <main className="min-h-[calc(100vh-80px)] text-gray-200 bg-zinc-900">
       <Navbar />
       <div className="pt-[80px]">
         <Routes>

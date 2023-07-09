@@ -12,6 +12,7 @@ export default defineConfig({
       "@hooks": path.resolve(__dirname, "./src/hooks"),
       "@data": path.resolve(__dirname, "./src/data"),
       "@redux": path.resolve(__dirname, "./src/redux"),
+      "@assets": path.resolve(__dirname, "./src/assets"),
     }
   },
   plugins: [react()]

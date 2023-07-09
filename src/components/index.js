@@ -1,6 +1,7 @@
 export * from './Card';
 export * from './Footer';
 export * from './Hero';
+export * from './Input';
 export * from './Latest';
 export * from './Navbar';
 export * from './Newsletter';

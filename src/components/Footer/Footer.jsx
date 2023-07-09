@@ -6,7 +6,7 @@ const Footer = () => {
   const other = ['About Us', 'Privacy Policy', 'Terms', 'Contact us'];
 
   return (
-    <footer className="bg-[#1F2024] mt-10 flex flex-col gap-5">
+    <footer className="bg-[#1F2024] flex flex-col gap-5">
       <div>
         <img src="" alt="" />
       </div>
