@@ -1,31 +1,21 @@
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
 import { Formik, Form } from 'formik';
-import * as Yup from 'yup';
-import { FaGoogle, FaGithub, FaFacebook, FaEye } from 'react-icons/fa';
+import { Link, useNavigate } from 'react-router-dom';
+import { useDispatch, useSelector } from 'react-redux';
+
+import { FaGoogle, FaGithub, FaEye } from 'react-icons/fa';
+import { BiError } from 'react-icons/bi';
+
 import { Input } from '@components';
+import { validationSchema } from '@utils/validationSchema';
+import { signinUser, clearError } from '@redux/slices/auth';
 
 const Register = () => {
+  const dispatch = useDispatch();
+  const navigate = useNavigate();
   const [showPassword, setShowPassword] = useState(false);
 
-  const validationSchema = Yup.object({
-    username: Yup.string()
-      .required('Username required')
-      .min(3, 'Username must be at least 3 characters')
-      .max(15, 'Username must be less than 15 characters')
-      .matches(/^[a-zA-Z]+$/, 'Username must contain only letters'),
-    email: Yup.string()
-      .email('Invalid email address')
-      .required('Email required'),
-    password: Yup.string()
-      .trim()
-      .required('Password required')
-      .min(8, 'Password must be at least 8 characters')
-      .matches(
-        /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[!@#$%^&*()])[A-Za-z\d!@#$%^&*()]{9,}$/,
-        'Password must contain at least one uppercase, one lowercase, one number and one special character'
-      )
-  });
+  const { errors } = useSelector((state) => state.authState);
 
   const handleShowPassword = (e) => {
     e.preventDefault();
@@ -37,19 +27,30 @@ const Register = () => {
       <div className="flex items-center justify-center w-full min-h-[calc(100vh-100px)] lg:w-1/2 xl:w-2/5">
         <div className="flex flex-col items-start w-full max-w-lg gap-5 p-5 h-min">
           <div className="flex flex-col items-center w-full gap-1">
-            <span className="text-3xl">👋</span>
+            <span className="text-3xl">👏</span>
             <h3 className="text-xl font-semibold">Welcome</h3>
             <span className="text-zinc-400">Sing up for a new account</span>
           </div>
           <Formik
             initialValues={{
               email: '',
-              password: ''
+              password: '',
+              username: ''
             }}
             validationSchema={validationSchema}
-            onSubmit={(values, { resetForm }) => {
-              console.log(values);
-              resetForm();
+            onSubmit={async (values, { resetForm }) => {
+              try {
+                const res = await dispatch(
+                  signinUser(values.email, values.password, values.username)
+                );
+                if (res) {
+                  resetForm();
+                  dispatch(clearError());
+                  navigate('/');
+                }
+              } catch (error) {
+                console.log(error.message);
+              }
             }}
           >
             {({ errors }) => (
@@ -60,7 +61,7 @@ const Register = () => {
                     type="text"
                     name="username"
                     isError={errors.username}
-                    placeholder="username"
+                    placeholder="Enter a username"
                   />
                   <Input
                     label="Email"
@@ -85,11 +86,17 @@ const Register = () => {
                   </Input>
                 </div>
                 <button className="py-3 bg-orange-600 rounded-sm" type="submit">
-                  Sign in
+                  Sign up
                 </button>
               </Form>
             )}
           </Formik>
+          {errors && (
+            <span className="flex items-center justify-center w-full gap-1">
+              <BiError className="inline-block mr-1 text-xl text-red-600" />
+              <p className="text-red-600 ">{errors}</p>
+            </span>
+          )}
           <div className="flex items-center justify-start gap-1">
             <input type="checkbox" />
             <label>
@@ -107,9 +114,6 @@ const Register = () => {
               </button>
               <button className="p-3 bg-orange-600 hover:bg-orange-700">
                 <FaGithub />
-              </button>
-              <button className="p-3 bg-orange-600 hover:bg-orange-700">
-                <FaFacebook />
               </button>
             </div>
           </div>

@@ -187,7 +187,7 @@
         "date": "2023-06-26T16:45:00Z",
         "views": 400,
         "images" : [],
-        "externalData":"<iframe id='twitter-widget-0' scrolling='no' frameborder='0' allowtransparency='true' allowfullscreen='true' class='' style='position: static; visibility: visible; width: 550px; height: 321px; display: block; flex-grow: 1;' title='Twitter Tweet' src='https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1672274303587319810&lang=en&origin=https%3A%2F%2Fgamerant.com%2Fmortal-kombat-1-quitality-mkx%2F&sessionId=9a65ac727ad1e35d1ad1b4f95c9678a5786e6884&siteScreenName=gamerant&theme=light&widgetsVersion=aaf4084522e3a%3A1674595607486&width=550px' data-tweet-id='1672274303587319810'></iframe>",
+        "externalData":"<iframe id='twitter-widget-0' scrolling='no' frameborder='0' allowtransparency='true' allowfullscreen='true' class='' style='position: static;visibility: visible;width: 100%;height: 300px;display: flex;flex-grow: 1;margin: 0 auto;justify-content:center;align-items: center;' title='Twitter Tweet' src='https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1672274303587319810&lang=en&origin=https%3A%2F%2Fgamerant.com%2Fmortal-kombat-1-quitality-mkx%2F&sessionId=9a65ac727ad1e35d1ad1b4f95c9678a5786e6884&siteScreenName=gamerant&theme=light&widgetsVersion=aaf4084522e3a%3A1674595607486&width=550px' data-tweet-id='1672274303587319810'></iframe>",
         "mainTag": "mortal kombat",
         "tags": [
           {
@@ -243,7 +243,7 @@
         "date": "2023-06-26T16:55:00Z",
         "views": 421,
         "images" : [],
-        "externalData":"<iframe id='twitter-widget-0' scrolling='no' frameborder='0' allowtransparency='true' allowfullscreen='true' class='' style='position: static; visibility: visible; width: 550px; height: 321px; display: block; flex-grow: 1;' title='Twitter Tweet' src='https://platform.twitter.com/embed/Tweet.html?creatorScreenName=dddominikk&dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1673313955245359105&lang=en&origin=https%3A%2F%2Fgamerant.com%2Fresident-evil-4-remake-dlc-release-separate-ways%2F&sessionId=d2c446e801797e1f5a2622531796cb1fc26ca099&siteScreenName=gamerant&theme=light&widgetsVersion=aaf4084522e3a%3A1674595607486&width=550px' data-tweet-id='1672274303587319810'></iframe>",
+        "externalData":"<iframe id='twitter-widget-0' scrolling='no' frameborder='0' allowtransparency='true' allowfullscreen='true' class='' style='position: static;visibility: visible;width: 100%;height: 300px;display: flex;flex-grow: 1;margin: 0 auto;justify-content:center;align-items: center;' title='Twitter Tweet' src='https://platform.twitter.com/embed/Tweet.html?creatorScreenName=dddominikk&dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1673313955245359105&lang=en&origin=https%3A%2F%2Fgamerant.com%2Fresident-evil-4-remake-dlc-release-separate-ways%2F&sessionId=d2c446e801797e1f5a2622531796cb1fc26ca099&siteScreenName=gamerant&theme=light&widgetsVersion=aaf4084522e3a%3A1674595607486&width=550px' data-tweet-id='1672274303587319810'></iframe>",
         "mainTag": "resident evil 4(2023)",
         "tags": [
           {
@@ -294,7 +294,7 @@
           "Those who have installed the game can still fight in local matches and use the training room, but all the online content will no longer be available. There are some who fear that this beta closure could be a bad move for <em>MultiVersus</em>, but all hope is not lost for the game. This beta closure could actually rile up excitement again. Absence sometimes makes the heart grow fonder, so it could possibly help the game's 2024 relaunch.",
           "Whether this beta closure helps the game's future or not, only time will tell. The positive response from many who played the beta during its initial release proves that the game has something to offer a specific audience. Until the game relaunches, there are alternatives to <em>MultiVersus</em> while it's on hiatus, and those titles could help inspire gamers to have a renewed sense of excitement for the game's relaunch. The future of <em>MultiVersus</em> is filled with unknowns, but a potential strong comeback in 2024 could give gamers a new favorite brawler to play."
         ],
-        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/06/resident-evil-4-remake-ada-wong-next-to-leon-composite.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/06/multiversus_beta_over.jpeg?q=50&fit=contain&w=1140&h=&dpr=1.5",
         "date": "2023-06-26T17:15:00Z",
         "views": 88,
         "images" : ["https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/06/multiversus_closed_beta_relaunch_2024.jpeg"],
@@ -444,7 +444,7 @@
         "date": "2023-06-27T12:45:00Z",
         "views": 280,
         "images" : [],
-        "externalData": "<iframe height='500' src='https://embed.reddit.com/r/diablo4/comments/14jl3h6/starscourge_radahn_elden_ring_inspired_transmog/?embed=true&amp;ref_source=embed&amp;ref=share&amp;utm_medium=widgets&amp;utm_source=embedv2&amp;utm_term=23&amp;utm_name=post_embed&amp;embed_host_url=https%3A%2F%2Fgamerant.com%2Fdiablo-4-starscourge-radahn-elden-ring-custom-character%2F' width='640px' scrolling='no' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups' style='border: none; max-width: 100%; border-radius: 8px; display: block; margin: 0px auto;'></iframe>",
+        "externalData": "<iframe height='500' src='https://embed.reddit.com/r/diablo4/comments/14jl3h6/starscourge_radahn_elden_ring_inspired_transmog/?embed=true&amp;ref_source=embed&amp;ref=share&amp;utm_medium=widgets&amp;utm_source=embedv2&amp;utm_term=23&amp;utm_name=post_embed&amp;embed_host_url=https%3A%2F%2Fgamerant.com%2Fdiablo-4-starscourge-radahn-elden-ring-custom-character%2F' width='640px' scrolling='no' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups' style='position: static;visibility: visible;width: 100%;height: 300px;display: flex;flex-grow: 1;margin: 0 auto;justify-content:center;align-items: center;'></iframe>",
         "mainTag": "diablo 4",
         "tags": [
           {
@@ -637,7 +637,7 @@
         "date": "2023-06-27T16:39:00Z",
         "views": 321,
         "images" : [],
-        "externalData": "<iframe id='twitter-widget-0' scrolling='no' frameborder='0' allowtransparency='true' allowfullscreen='true' class='' style='position: static; visibility: visible; width: 504px; height: 604px; display: block; flex-grow: 1;' title='Twitter Tweet' src='https://platform.twitter.com/embed/Tweet.html?creatorScreenName=DarthDecisive&amp;dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1674477837552693249&amp;lang=en&amp;origin=https%3A%2F%2Fgamerant.com%2Fdungeons-dragons-playtest-classes-monk-changes%2F&amp;sessionId=8f112eb09dd9908e20e295129dd752fd99246f8d&amp;siteScreenName=gamerant&amp;theme=light&amp;widgetsVersion=aaf4084522e3a%3A1674595607486&amp;width=550px' data-tweet-id='1674477837552693249'></iframe>",
+        "externalData": "<iframe id='twitter-widget-0' scrolling='no' frameborder='0' allowtransparency='true' allowfullscreen='true' class='' style='position: static;visibility: visible;width: 100%;height: 300px;display: flex;flex-grow: 1;margin: 0 auto;justify-content:center;align-items: center;' title='Twitter Tweet' src='https://platform.twitter.com/embed/Tweet.html?creatorScreenName=DarthDecisive&amp;dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1674477837552693249&amp;lang=en&amp;origin=https%3A%2F%2Fgamerant.com%2Fdungeons-dragons-playtest-classes-monk-changes%2F&amp;sessionId=8f112eb09dd9908e20e295129dd752fd99246f8d&amp;siteScreenName=gamerant&amp;theme=light&amp;widgetsVersion=aaf4084522e3a%3A1674595607486&amp;width=550px' data-tweet-id='1674477837552693249'></iframe>",
         "mainTag": "dungeons and dragons",
         "tags": [
           {
@@ -938,7 +938,7 @@
           "Of course, it's worth pointing out that the Valve Complete Pack isn't really 'complete' anymore. Valve has since released new games that are currently not part of the bundle, with the most notable being acclaimed VR game <em>Half-Life: Alyx</em>. It will be interesting to see if Valve ever updates the Valve Complete Pack offerings, but even if it doesn't, it's still easily one of the best deals in all of gaming."
         ],
         "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/steam-logo-blue-background.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
-        "date": "2023-06-29T9:00:00Z",
+        "date": "2023-06-29T09:00:00Z",
         "views": 409,
         "images" : ["https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/valve-complete-pack-bundle-deal.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
         "mainTag": "alan wake 2",
@@ -1045,7 +1045,7 @@
             "name": "overwatch"
           },
           {
-            "name": "blizard"
+            "name": "blizzard"
           },
           {
             "name": "switch"
@@ -1436,8 +1436,8 @@
           "It will be interesting to see where the <em>Overwatch 2</em> anime series goes from here. It's possible it will show Overwatch actually being formed, but it's also possible that it will jump ahead to the middle of the Omnic Crisis instead. Whatever the case may be, the trailer confirmed that characters like Torbjorn and Ana will be involved, so fans can look forward to seeing them in action in the weeks to come."       
         ],
         "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/overwatch-anime-series-dr-mina-liao.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
-        "date": "2023-07-01T8:30:00Z",
-        "views": 600,
+        "date": "2023-07-01T08:30:00Z",
+        "views": 590,
         "images" : [],
         "externalData": "<iframe allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen='' frameborder='0' height='315' src='https://www.youtube.com/embed/PIYMn8eDskg' width='560'></iframe>",
         "mainTag": "overwatch",
@@ -1601,6 +1601,1479 @@
           },
           {
             "name": "xbox series s"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "AKSHAY PATEL",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F63503cecb36a6-Professional.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "marvel-spider-man-2-pre-load-start-time-details-revealed",
+        "title": "Marvel's Spider-Man 2 Pre-Load Start Time and Details Revealed",
+        "subTitle": "Pre-load details for the upcoming PlayStation exclusive Marvel's Spider-Man 2 are here and it spells great news for the fans.",
+        "article": [
+          "Pre-load details for the upcoming <strong><em>Marvel’s Spider-Man 2</em></strong> are here as players will be able to download the game on Friday, October 13 at 6am PT / 9am ET / 2pm BST. This almost a week before <em>Spider-Man 2</em> launches exclusively for PlayStation 5.",
+          "<em>Spider-Man 2</em> is the third titles in Insomniac’s series about the web-slinger’s adventures, after <em>Spider-Man</em> and <a href='https://gamerant.com/spider-man-miles-morales-mod-punk-skin-across-spiderverse/'><em>Spider-Man: Miles Morales</em></a>. This is also one of PlayStation’s first PlayStation 5 exclusive titles, which indicates that Sony could be gearing up to bid adieu to the PlayStation 4. Fans weren't really happy with the length of Miles Morales, but hopefully that won't be the case with <em>Spider-Man 2</em>.",
+          "As reported by Twisted Voxel, the pre-load details for <a href='https://gamerant.com/tag/spider-man-2/'><em>Marvel’s Spider-Man 2</em></a> have been revealed via a pre-ordered digital copy of the game which says that the expected auto-download date for the digital version is October 13, 2023. Additionally, the pre-load will also include an update that will be required to run the game on launch day, which players with the disc version will have to install at launch. Furthermore, there could also be an additional Day 1 patch, which could be an additional update for players to install.",
+          "The file size for <em>Spider-Man 2</em> isn’t available yet but players are hoping for it to be under 100 GB as the physical version of the game only comes with one disc. However, considering the game is purely made for the PS5, this might not be the case as the visual and gameplay upgrades might take up more space. Additionally, the map size of <em>Spider-Man 2</em> is reportedly twice that of its predecessor, which further reinforces the idea of it being over 100 GB in size.",
+          "Of all the new features coming to the game, the character switching in <em>Marvel’s Spider-Man 2</em> seems to be the most exciting. Game director Bryan Intihar revealed that while there are specific story and side missions for both Miles and Peter, players will be able to manually switch between the two during world exploration as well. Additionally, this will also tie into the 3 skill trees in the game, where there will be two individual skill trees and a shared one as well. The game also features Peter Parker in the Symbiote suit, which might also get its own upgrades until the symbiote moves on to its Venom host, which players believe is going to be Harry Osborn."    
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/marvel-s-spider-man-2-1.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-01T17:30:00Z",
+        "views": 193,
+        "images" : [ "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/marvel-s-spider-man-2-pre-load.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "spider-man 2",
+        "tags": [
+          {
+            "name": "spider-man 2"
+          },
+          {
+            "name": "insomniac games" 
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "sony"
+          },
+          {
+            "name": "playstation"
+          },
+          {
+            "name": "spider-man"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "DALTON COOPER",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F61dc6e08e4241-dalton%20cooper%20profile%20image.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "final-fantasy-16-sales-have-fallen-off-a-cliff-in-at-least-one-region",
+        "title": "Final Fantasy 16 Sales Have Fallen Off a Cliff in at Least One Region",
+        "subTitle": "Final Fantasy 16's sales fall dramatically in at least one region a week after the highly-anticipated game's launch.",
+        "article": [
+          "<strong><em>Final Fantasy 16</em></strong>'s sales have dropped dramatically in Japan after just one week on sale. Square Enix's highly-anticipated action-RPG has released to a great deal of critical acclaim and while it's broken a PS5 sales record, the game's sales are lagging significantly in its home region.",
+          "In its first week on sale, <a href='https://gamerant.com/tag/final-fantasy-16/'><em>Final Fantasy 16</em></a> sold about 336,000 physical copies in Japan. This was enough for the game to become the fastest-selling PS5 game in the region, but it was still significantly short of other entries in the franchise. For comparison, <em>Final Fantasy 7 Remake</em> posted 702,853 units sold in Japan in its first week on sale, while <em>Final Fantasy 15</em> managed 716,649 units sold.",
+          "Not only did <em>Final Fantasy 16</em> debut several hundred thousand units behind its predecessors, but the game has experienced a dramatic drop in just one week. According to Famitsu, <em>Final Fantasy 16</em> only sold 37,763 physical copies in Japan for its second week on sale, a staggering 90% drop. It was even knocked off the top-seller spot by new Switch game <em>Master Detective Archives: Rain Code</em>. Needless to say, this is not a great look for <em>Final Fantasy 16</em>, but it may not all be doom and gloom.",
+          "One thing working against <em>Final Fantasy 16</em> is its PS5 exclusivity. <em>Final Fantasy 7 Remake</em> and <em>Final Fantasy 15</em> released on PS4, which meant that they had a much larger audience to work with than <em>Final Fantasy 16</em> has. It should also be pointed out that these are just physical sales numbers. Digital game sales increase every year, and so it's quite likely that many more gamers in Japan have decided to purchase <em>Final Fantasy 16</em> digitally instead of physically compared to <em>FF7</em> Remake and <em>FF15</em>. It's also worth pointing out that <em>Final Fantasy 7 Remake</em> and <em>Final Fantasy 15</em> experienced similar second week drops percentage-wise, though they both still sold significantly more copies in their second week than <em>FF16</em> did.",
+          "Even taking these factors into account, though, a 90% drop can still be rather alarming. Square Enix has had some huge financial flops recently, and so it's safe to say that the publishing giant doesn't want to see such a big drop. As more consumers get their hands on PS5 consoles, perhaps <em>Final Fantasy 16</em> will get a sales boost in the region, and the eventual PC port of the game could do wonders as well.",
+          "<em>Final Fantasy 16</em> has been critically-acclaimed and has made the short-list for Game of the Year for many gamers, but that's not necessarily translating to the kind of sales that Square Enix would like to see. It's possible that the game is performing much better in other regions or that its digital sales are simply far outpacing its physical sales, which could mean this drop isn't nearly as big of a deal as it seems to be on paper. Until Square Enix provides more information on <em>Final Fantasy 16</em>'s overall sales numbers, all fans can do is speculate about how the game is performing on a global scale."  
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/final-fantasy-16-sales-drop.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-01T18:00:00Z",
+        "views": 293,
+        "images" : [ "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/10/playstation-state-of-play-hints-final-fantasy-16.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "final fantasy 16",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "final fantasy" 
+          },
+          {
+            "name": "final fantasy 16"
+          },
+          {
+            "name": "square enix"
+          },
+          {
+            "name": "playstation"
+          },
+          {
+            "name": "ps5"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "CAMERON LOCKHART",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F643da4e9413f8-Cameron%204.png?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "nintendos-next-console-might-feature-smartphone-integration",
+        "title": "Nintendo's Next Console Might Feature Smartphone Integration",
+        "subTitle": "The latest leak for the long-rumored Nintendo Switch 2 is here, and if it's true, then the new console just might include connectivity to phones.",
+        "article": [
+          "A patent has been revealed suggesting that <strong>Nintendo</strong>'s next console might have an integration feature for smartphones. This comes shortly after another leak, which indicated the Switch 2's controllers might include a scroll wheels.",
+          "<a href='https://gamerant.com/tag/nintendo/'><strong>Nintendo</strong></a> is reportedly hard at work on its next hardware outing, but has kept it well-hidden from public view. In fact, it has only disclosed one official detail as of late, that being its compatibility with existing Nintendo accounts. Aside from that, everything else is up in the air and ripe for speculation, whether it be the graphical specs, the possibility of cross-platform releases, or even whether or not the new console with be a true successor to the smash hit that is the Nintendo Switch.",
+          "A new patent features a large rectangle (object 62) that is described as a console, attached to a smartphone holder via a strap. The description goes a little more in depth on the console's innards, detailing the presence of a processor, storage, and a display, although all of which are absent from the diagrams. Unlike some other Switch 2 leaks, the exact specs are not detailed, although given how powerful today's smartphones have proven to be, the graphical fidelity could certainly be impressive to look at.",
+          "Objects 4 and 38 both make up a large, clothespin-like structure that is most likely where the smartphone would be held. It is connected to the console via a series of parts, including the strap (object 100) and a different device that can change angles, which should make it compatible with a variety of game room setups. Given how flexible Nintendo made the Switch's design for the sake of adapting to multiple playstayles, such a feature would be right up its alley.",
+          "If this patent turns out to be an actual part of the Switch successor and not just a draft, then it would mark Nintendo's second overall foray into smartphone connectivity with its consoles. The original Nintendo Switch comes with a mobile app that allows for online voice chat, friend requests even while away from the console, matchmaking, play appointments, and even intuitive parental controls for younger players. It remains to be seen what exactly this Switch 2 peripheral might entail if it ends up being real, but knowing Nintendo's track record with hardware gimmicks, it should certainly be interesting." 
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/nintendo-switch-online-app.jpeg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-02T09:00:00Z",
+        "views": 393,
+        "images" : [ "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-07-at-11-01-51.png?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "games",
+        "tags": [
+          {
+            "name": "games"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "DOMINIK BOŠNJAK",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F62f656fd870c4-831DE4BB-5CB8-40CF-AAE4-13FBE823A53D.jpeg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "apple-wants-to-take-epic-games-case-to-the-supreme-court",
+        "title": "Apple Wants to Take Epic Games Case to the Supreme Court",
+        "subTitle": "Apple moves to bring its high-profile Epic Games case to the Supreme Court in a last-ditch effort to protect its App Store profits.",
+        "article": [
+          "<strong>Apple</strong> plans to petition for its Epic Games case to be heard in front of the U.S. Supreme Court. The move will mark its second appellate request in the proceedings, as Apple already appealed the first-instance verdict in the Epic Games case in late 2021.",
+          "The ongoing legal clash started in 2020, when Epic implemented changes into Fortnite in an effort to bypass Apple's payment processing mechanisms and avoid paying a 30% cut from the game's microtransactions to the iPhone maker. Apple then pulled <em>Fortnite</em> from the App Store, which prompted Epic to launch an antitrust lawsuit against the tech giant. And while Apple's countersuit filed in response to that move was soon dismissed, the U.S. District Court for the Northern District of California ruled in its favor on nine out of ten counts in the original case. However, the court also ruled that Apple must allow third-party purchase options in apps as part of the same verdict.",
+          "After the U.S. Ninth Circuit Court of Appeals mostly upheld that decision in the Epic Games v. Apple case this past April, the iPhone maker is now looking to petition the Supreme Court to reconsider the second-instance verdict. In a July 3 court filing obtained by Reuters, Apple argued that the appeals court's decision to issue a nationwide injunction against Apple due to its alleged violations of California's Unfair Competition Law constitutes judicial overreach. For context, the said ruling stems from the court's finding that Apple's anti-steering policies preventing developers from directing or even so much as informing its users about third-party iOS storefronts were anticompetitive.",
+          "Although Apple intends to continue fighting the actual contents of that decision, it has now requested a stay of the court's mandate on the basis that a nationwide injunction against its anti-steering practices is a disproportional reaction to its alleged violations of California's antitrust law. The tech giant's attorneys also argued that the original lawsuit only had a single plaintiff, Epic, concluding that the court's mandate to stop Apple from enforcing its anti-steering policies against all developers of iOS apps available in the U.S. is hence an overreaction.",
+          "While <a href='https://gamerant.com/tag/apple/'>Apple</a> is arguing that its petition to the Supreme Court has a decent chance of being heard due to the 'substantial questions of law' it raises, it remains to be seen whether the ultimate appellate authority in the U.S. agrees with that sentiment. According to the official website of the stateside judicial system, the Supreme Court is asked to review over 7,000 cases each year, but only agrees to hear 'about 100-150' such petitions on an annual basis.", 
+          "In 2021, Epic CEO Tim Sweeney said that Fortnite won't be returning to iOS for around five or more years due to the company's ongoing legal clash with Apple. However, his latest celebratory New Year's tweet suggested that the game will reappear on the App Store sometime in 2023."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/apple-vs-epic-games-logos-versus-screen.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-02T11:00:00Z",
+        "views": 193,
+        "images" : [ "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/04/apple-app-store-epic-games.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "games",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "apple"
+          },
+          {
+            "name": "epic games"
+          },
+          {
+            "name": "fortnite"
+          },
+          {
+            "name": "ios"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "J BRODIE SHIREY",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F63d7247266c3f-j-brodie-shirey-2023.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "mortal-kombat-1-spoilers-may-already-be-out",
+        "title": "Mortal Kombat 1 Spoilers May Already Be Out",
+        "subTitle": "A few potential Mortal Kombat 1 spoilers are already cropping up online, and fighting game fans hopping to be surprised should stay on guard.",
+        "article": [
+          "Players who want to be surprised by <em>Mortal Kombat 1</em> may want to be wary over the next few months, as some major story spoilers might be lurking around the internet already. <em>Mortal Kombat 1</em> marks a new chapter in the long-running <em>MK</em> saga, with Fire God Liu Kang resetting the timeline following the events of <em>Mortal Kombat 11</em>’s Aftermath DLC. As a result, Earthrelam is enjoying an untold era of warmth and peace, at least until the evil Shang Tsung returns from oblivion to threaten existence once more.",
+          "<em>Mortal Kombat 1</em>’s rebooted timeline has also altered the lives of various members of <em>MK</em>’s hefty roster of playable combatants, as noted in <em>Mortal Kombat 1</em>’s newly updated character bios. While Scorpion and Sub-Zero were once the most hated of rivals, in Liu Kang’s new world they are instead brothers and comrades. Likewise, former enemies Kitana and Mileena now co-exist, but Mileena is suffering from a deadly illness that could bring them to conflict once again. Indeed, <em>Mortal Kombat 1</em>’s plot could take these characters on a path similar to their past selves or in a new direction altogether, which makes the wait for the game all the more gripping.",
+          "As the gaming world waits for <a href='https://gamerant.com/tag/mortal-kombat-1/'><em>Mortal Kombat 1</em></a>’s release this September, an old Reddit post full of potential spoilers has now returned to the surface. Posted two years ago, this massive leak contains several major plot details for <em>Mortal Kombat 1</em>, along with a few surprisingly accurate predictions about the upcoming sequel’s gameplay and character dynamics, in the form of cryptic visual clues. Other users like Grandpaseth85 have since solved these riddles, and as more official details about <em>Mortal Kombat 1</em> continue to emerge some are starting to wonder if the leak is more legit than initially believed.",
+          "In addition to Scorpion and Sub-Zero now being brothers and the existence of a mysterious 'Tarkat Plague', the now-deleted Reddit leak managed to foretell <em>Mortal Kombat 1</em>’s new Kameo mechanic, which allows players to select a secondary supporting fighter that can be called upon to perform punishing combos during matches. Most of the potential spoilers hidden in the post remain mere speculation, but it's hard to deny that it managed to correctly predict a fair amount of plot and gameplay details for <em>Mortal Kombat 1</em>.",
+          "This is no guarantee that the <em>Mortal Kombat 1</em> Reddit leak is completely accurate, but fans who don’t want to have <em>MK 1</em>’s rebooted plot potentially ruined might want to keep away from certain parts of the internet until <em>Mortal Kombat 1</em> releases this fall in case these tidbits are indeed actual spoilers. In the meantime, NetherRelam will likely unveil more information during the Kombat Kast livestream set for later this week."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/mortal-kombat-1-spoilers-scorpion.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-02T13:00:00Z",
+        "views": 281,
+        "images" : [ "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/3kombatantsmortalkombat1.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "mortal kombat",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "mortal kombat"
+          },
+          {
+            "name": "mortal kombat 1"
+          },
+          {
+            "name": "warner bros. interactive"
+          },
+          {
+            "name": "netherrealm studios"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "switch"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series x"
+          },
+          {
+            "name": "xbox series s"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "CLAYTON STERLING CYRE",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F63d7247266c3f-j-brodie-shirey-2023.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "dead-by-daylight-details-killer-changes-and-more-coming-in-future-updates",
+        "title": "Dead by Daylight Details Killer Changes and More Coming in Future Updates",
+        "subTitle": "The Dead by Daylight developers detail changes in the summer update and beyond, with Killers and one map seeing some significant adjustments.",
+        "article": [
+          "The Executioner, Onryo, and more <strong><em>Dead by Daylight</em></strong> killers are being changed in an update that will be released this summer. As <a href='https://gamerant.com/tag/dead-by-daylight/'><em>Dead by Daylight</em></a> continues to gain in popularity, Behaviour Interactive adjusts the survivors, perks, levels, and more, with the summer update expected to offer several noteworthy alterations.",
+          "<em>Dead by Daylight</em> was first released in 2016, but because Behaviour Interactive regularly evolves upon the game's foundations, it has reached the top 20 most-played games on Steam. Many popular Twitch streamers like Otzdarva, Matthew Santoro, and Ohmwrecker also keep Dead by Daylight near the top-viewed games on the platform. As each <em>Dead by Daylight</em> update tends to draw in lapsed players, the contents of the big summer patch will likely bring some fans back to the game.",
+          "Teasing that the aforementioned summer update is releasing with the next big <em>Dead by Daylight</em> event, Behaviour Interactive has confirmed some changes to <em>Dead by Daylight</em>'s Onryo, Executioner, Spirit, and Hag. The Onryo will receive the most attention in the summer update like the Projection ability, cursed tapes, demanifestation, and debuffs to the highest and buffs to the lowest tier add-ons. The Projection ability has an added 15-second cooldown to offset the Condemned effect which sees its own alterations, with cursed tapes seemingly playing more of a role after the patch goes live.",
+          "The Executioner will see an improvement to its built-in mechanic preventing it from standing too close to cages with survivors in them, while The Hag and Spirit in <em>Dead by Daylight</em> are only seeing adjustments to add-ons like the Mint Rag and Dried Cherry Blossom respectively. Killers and survivors will both be helped or hurt by adjustments to perks like Claustrophobia, Trail of Torment, and Prove Thyself which may cause some players to switch which ones they prioritize. As promised by the Dead by Daylight Anniversary broadcast, Behaviour Interactive is beginning its revisiting of old maps with Coldwind Farm, which is being modernized to be more comparable to newer maps like Toba Landing.",
+          "Although Behaviour Interactive has stated that these changes are part of the upcoming summer update, it remains unclear when the <em>Dead by Daylight</em> patch will drop. Given that many of the tweaks are inspired by fan feedback, there may be even more requests that Behaviour Interactive implements in future <em>Dead by Daylight</em> updates."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/dead-by-daylight-details-killer-changes-and-more-in-future-updates-gamerant.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-02T15:00:00Z",
+        "views": 261,
+        "images" : [ "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/dead-by-daylight-logo-sadako-the-onryo-fog-background(1).jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "dead ny daylight",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "dead ny daylight"
+          },
+          {
+            "name": "behavior interactive"
+          },
+          {
+            "name": "android"
+          },
+          {
+            "name": "ios"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "mobile gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "switch"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "PARTH BAGARIA",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F6185afb21e957-2019-08-10-20-12-04-194.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "elden-ring-player-shares-helpful-strategy-for-surviving-lake-of-rot",
+        "title": "Elden Ring Player Shares Helpful Strategy for Surviving Lake of Rot",
+        "subTitle": "The Lake of Rot is one of the most dangerous areas in Elden Ring, but one fan shares a helpful strategy for surviving in this location.",
+        "article": [
+          "An <strong><em>Elden Ring</em></strong> player has detailed a strategy that may help gamers survive the Lake of Rot. Even though <em>Elden Ring</em> is considered to be more approachable than other FromSoftware titles, it's still an incredibly difficult game.",
+          "Users will face off against several challenging bosses in <em>Elden Ring</em>, while the regular enemies can also easily defeat them. Additionally, fans will come across a variety of dangerous locations, as players can die due to a particular level’s environmental conditions. Lake of Rot is one such area in <em>Elden Ring</em>, and it may remind some users of the swamps in the <em>Dark Souls</em> games. Now, one fan has shared a neat tactic that can allow gamers to survive in this treacherous location.",
+          "A Reddit user named Flint_Vorselon has uploaded a video with this strategy, showing how players can survive the Lake of Rot in <em>Elden Ring</em> for an extended duration. The user first equips <em>Elden Ring</em> talismans that increase immunity before changing their gear to improve this stat even further. After they are done changing equipment, the player traverses the Lake of Rot as a meter showing the status of Scarlet Rot starts to build up. The player starts gradually losing HP after getting inflicted with Scarlet Rot, but the increased immunity and a ridiculous health bar allow them to last longer in this condition.",
+          "In one of the comments, Flint_Vorselon has described the strategy in great detail, complete with the list of items and equipment players will require. They mention that they are currently at max level in <em>Elden Ring</em>, with 2,100 health and 230 immunity. The user then shares all the items that increase immunity, with 975 being the total required for this tactic. Additionally, their final health sits at 3,243, which ultimately allows them to survive in the Lake of Rot for around 49 seconds.",
+          "Many users in the comments section discuss the effects of Scarlet Rot and how it works in <a href='https://gamerant.com/tag/elden-ring/'><em>Elden Ring</em></a>, as gamers talk about how its damage output is calculated. One fan shares another helpful tactic for surviving in this area, as they claim that rolling in Scarlet Rot builds it up at a slower rate, while also reducing the damage output of this status effect. Some users also comment on the ridiculous health bar showcased in the video, with a few players taking this opportunity to share their dislike for the Lake of Rot."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/elden-ring-surviving-lake-of-rot.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-02T16:00:00Z",
+        "views": 201,
+        "images" : [],
+        "externalData": "<iframe height='500' src='https://embed.reddit.com/r/Eldenring/comments/14u44j7/maximum_immunity_and_hp_vs_lake_of_rot/?embed=true&amp;ref_source=embed&amp;ref=share&amp;utm_medium=widgets&amp;utm_source=embedv2&amp;utm_term=23&amp;utm_name=post_embed&amp;embed_host_url=https%3A%2F%2Fgamerant.com%2Felden-ring-player-survive-lake-of-rot-strategy%2F' width='640px' scrolling='no' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups' allow='clipboard-read; clipboard-write' style='border: none; max-width: 100%; border-radius: 8px; display: block; margin: 0px auto;'></iframe>",
+        "mainTag": "elden ring",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "elden ring"
+          },
+          {
+            "name": "from software"
+          },
+          {
+            "name": "bandai namco entertainment"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox"
+          },
+          {
+            "name": "xbox series x"
+          },
+          {
+            "name": "xbox one"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "DANIEL MORRIS",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F6398d1e858157-170291025_10225566016961464_8639229735532165545_n.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "elden-ring-bug-gives-the-erdtree-a-cyberpunk-2077-makeover",
+        "title": "Elden Ring Bug Gives the Erdtree a Cyberpunk 2077 Makeover",
+        "subTitle": "A gamer online showcases a bizarre Elden Ring bug, which appears to give the game's famous Erdtree a certain Cyberpunk 2077 vibe.",
+        "article": [
+          "An <strong><em>Elden Ring</em></strong> fan online has shared a strange image of a bug that gives the Erdtree an interesting <em>Cyberpunk 2077</em>-esque makeover. There have been plenty of interesting video game crossovers over the years, but this unintentional one is particularly bizarre.",
+          "<em>Elden Ring</em> has been a crazy success for FromSoftware, with the game garnering plenty of critical acclaim upon its release early last year. It was the first title to really introduce the studio's famous SoulsLike formula to the mainstream, an impressive achievement given its focus on high difficulty. <em>Elden Ring</em> was recently back at the peak of sales charts, showcasing just how strong its reputation is in the eyes of the gaming community.",
+          "Redditor Icy-Lobster1654 shared the image of the Erdtree, which in this bug has been illuminated by a remarkable amount of neon lights, or so it seems. There's no denying that there are some serious <em>Cyberpunk 2077</em> vibes happening here, but it's not clear what the actual cause of this bug is. One user in the thread had a theory that certainly seems plausible. Apparently, <a href='https://gamerant.com/tag/elden-ring/'><em>Elden Ring</em></a> has a PC issue where RTX files are corrupted easily, resulting in problems like this. It also means that verifying the integrity of the game's files would solve the problem instantly, so they can at least easily solve their neon Erdtree problem if they want.",
+          "Despite <em>Elden Ring</em>'s massive critical acclaim, there's no doubt that gamers have found plenty of interesting bugs in the game. One terrifying <em>Elden Ring</em> bug turned Godfrey into a <em>Silent Hill</em> nurse, which is quite a sight. In a game as large as <em>Elden Ring</em>, it's inevitable that a few glitches slip through the cracks. Luckily, the game has reached a point where anything truly game-breaking has been patched out, which is especially important given the overall length of the game. There's nothing more frustrating than getting hours into a game, only for it to break beyond repair, but with <em>Elden Ring</em>, it's mainly strange visual bugs that remain.",
+          "<em>Elden Ring</em> fans remain patient for news about the upcoming <em>Shadow of the Erdtree</em> DLC. Initially revealed in February 2023, developer FromSoftware has since remained silent on the expansion. It seems that the studio has decided to take its time with the DLC, which is sure to be the right decision. It would have been easy for FromSoftware to swiftly capitalize on the game's success and put out something half-baked that disappointed the community. It would definitely be out of character for the studio, though, which tends to put a ton of care and polish into each release. Hopefully, it isn't too much longer until FromSoftware is ready to discuss more about <em>Shadow of the Erdtree</em>."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/elden-ring-cyberpunk-2077-erdtree.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-02T18:00:00Z",
+        "views": 258,
+        "images" : [],
+        "externalData": "<iframe height='500' src='https://embed.reddit.com/r/Eldenring/comments/14s5k2y/what_happened_to_my_erdtree/?embed=true&amp;ref_source=embed&amp;ref=share&amp;utm_medium=widgets&amp;utm_source=embedv2&amp;utm_term=23&amp;utm_name=post_embed&amp;embed_host_url=https%3A%2F%2Fgamerant.com%2Felden-ring-erdtree-cyberpunk-2077-neon-bug%2F' width='640px' scrolling='no' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups' allow='clipboard-read; clipboard-write' style='border: none; max-width: 100%; border-radius: 8px; display: block; margin: 0px auto;'></iframe>",
+        "mainTag": "elden ring",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "elden ring"
+          },
+          {
+            "name": "from software"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox series x"
+          },
+          {
+            "name": "xbox one"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "JOHN BONELLI",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F6415008e5c9c0-Screen%20Shot%202023-03-17%20at%208.06.07%20PM.png?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "call-of-duty-is-adding-3-characters-from-the-boys",
+        "title": "Call of Duty is Adding 3 Characters from The Boys",
+        "subTitle": "Three characters from Amazon's popular series The Boys are confirmed to be joining Call of Duty: Modern Warfare 2 and Warzone.",
+        "article": [
+          "Details regarding the crossover between <strong><em>Call of Duty</em></strong> and Amazon's hit superhero series The Boys have been officially been confirmed. <a href='https://gamerant.com/tag/call-of-duty-modern-warfare-2-2022/'><em>Call of Duty: Modern Warfare 2</em></a> is currently in its fourth season with a fifth season expected to start early next month.",
+          "Call of Duty has been home to many film and television collaborations in the past such as Rambo and Ghostface in 2020's Black Ops Cold War and most recently Teenage Mutant Ninja Turtle's Shredder in Modern Warfare 2. This newest team-up with The Boys was originally teased as a logo appearing on the side of a building in Call of Duty's Season 4 trailer which had debuted at Geoff Keighley's Summer Game Fest last month. With Call of Duty's mid-season refresh being revealed, three characters from <em>The Boys</em> will be making their way to Vondel.",
+          "In <em>Call of Duty</em>'s reveal of Season 4 Reloaded, information about <em>The Boys</em>' crossover with the multiplayer shooter have been detailed. Three characters from <em>The Boys</em>, Homelander, Starlight, and Black Noir, will be added to <em>Call of Duty</em> by way of limited time operator bundles. Each bundle will also contain three weapon blueprints as well as weapon charms, loading screens, emblems, and more, and will be available to purchase for 2,400 COD Points. Starlight's bundle will be available first on July 12, with Homelander and Black Noir following suit on July 16 and July 20, respectively.",
+          "This crossover between <em>The Boys</em> and <em>Call of Duty</em> isn't just a cosmetic one, as Season 4 Reloaded will add a limited time field upgrade that players can find and use in <em>Warzone</em> and DMZ. Named Temp-V after the super serum in the show, this new field upgrade will randomly give the user one of four superpowers upon use. Charge Jump launches players across the map, damaging anything near the player's landing spot, while Teleport can dash the player forward, similar to Tracer's iconic Blink ability in <em>Overwatch</em>. In terms of dealing damage, Laser Vision lets players melt their opponents Homelander-style, while Electric Shockwave deals electric damage and can disable vehicles.",
+          "The temporary addition of Temp-V to <em>Call of Duty</em> marks the first time a field upgrade is added to the game as part of a crossover event. With Homelander, Starlight, Black Noir, and Temp-V mixing up the action in <em>Warzone</em>, fans of both <em>The Boys</em> and <em>Call of Duty</em> are sure to be pleased with what Season 4 Reloaded will bring to the table."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/codtheboys.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-03T12:00:00Z",
+        "views": 248,
+        "images" : ["https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/cod-the-boys.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "call of duty: warzone",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "call of duty: warzone"
+          },
+          {
+            "name": "call of duty: modern warfare 2(2022)"
+          },
+          {
+            "name": "the boys"
+          },
+          {
+            "name": "call of duty"
+          },
+          {
+            "name": "activision"
+          },
+          {
+            "name": "infinity ward"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          }
+          
+        ]
+      },
+      {
+        "author": {
+          "name": "DANIEL MORRIS",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F6398d1e858157-170291025_10225566016961464_8639229735532165545_n.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "baldurs-gate-3-hard-mode-will-make-players-cry-says-dev",
+        "title": "Baldur’s Gate 3 Hard Mode Will Make Players Cry, Says Dev",
+        "subTitle": "A Baldur's Gate 3 developer drops a bold statement about the game's hardest difficulty, which will leave RPG fans excited about the upcoming release.",
+        "article": [
+          "As anticipation for the game continues to grow, a <strong><em>Baldur's Gate 3</em></strong> developer has revealed that 'you're going to start crying' over the difficulty of the game's Tactician mode. For many, <em>Baldur's Gate 3</em> is one of the most exciting upcoming RPGs out there, and this will likely be amazing news for hardcore fans of the genre.",
+          "<em>Baldur's Gate 3</em> is the latest iteration in the long-running franchise, releasing over two decades after its predecessor. This time around, the game will be developed by Larian Studios rather than BioWare. After the critical and commercial success of the studio's last RPG, <em>Divinity: Original Sin 2</em>, the Belgian development studio was seen as the perfect successor to carry the torch and bring <em>Baldur's Gate</em> to modern audiences. The game has already been in Early Access for almost three years with just the first act playable, but it seems the rest of the game will have plenty of exciting content for players to enjoy. It was even reported recently that <em>Baldur's Gate 3</em> has 174 hours worth of cutscenes, which is more than enough for most players.",
+          "The difficulty news came from Larian Studios' creative director Swen Vincke at the recent Panel From Hell for <a href='https://gamerant.com/tag/baldurs-gate-3/'><em>Baldur's Gate 3</em></a>. The panel showed off a ton of new gameplay, as well as a controversial romance scene involving a bear-form Druid that has had the internet divided over the last few days. Vincke went on to describe the game's Tactical mode, the hardest difficulty in <em>Baldur's Gate 3</em>, claiming, 'you really need to start getting every single advantage that you can, because otherwise you're going to get obliterated... I know you're all badass, I know you're all going to play on Tactician because you can handle it, and then you're going to start crying, and then you're going to say the game is bad. It's not our fault - it's you!'",
+          "At the moment, <em>Baldur's Gate 3</em> is being described as the closest a video game can get to an authentic <em>Dungeons and Dragons</em> experience, so no doubt that news of the game's difficulty will be a hit with RPG fans. It will be fun to see how it lives up to those high expectations, and with just under a month until release, gamers don't have too much longer to wait to find out.",
+          "The panel itself brought about a ton of new information about <em>Baldur's Gate 3</em> that remained a mystery, even to Early Access players. One of the biggest pieces of news was that <em>Baldur's Gate 3</em> will allow players to respec their characters mid-game, which in such a long game will come as a relief to players.",
+          "It's interesting to see the hype for <em>Baldur's Gate 3</em> swiftly build as the game draws nearer to release. Just a few weeks ago, Larian Studios bumped the release date of <em>Baldur's Gate 3</em> up a month on PC to avoid the likes of <em>Starfield</em>, a move which has only intensified the general excitement of the community. The wait goes on for Xbox Series X/S players, with no further updates on a release on the platform recently. As per the last update, the developer is currently unable to get the game optimized into a releasable state on the platform, but hopefully it isn't too long before Larian Studios is able to get over that hurdle."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/baldurs-gate-3-hard-mode-crying.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-04T10:00:00Z",
+        "views": 268,
+        "images" : [],
+        "externalData": "<iframe allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen='' frameborder='0' height='315' src='https://www.youtube.com/embed/MW846h6FyU4' width='560'></iframe>",
+        "mainTag": "baldur's gate 3",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "baldur's gate 3"
+          },
+          {
+            "name": "larian studios"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps5"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "DANIEL MORRIS",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F6398d1e858157-170291025_10225566016961464_8639229735532165545_n.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "red-dead-redemption-2-player-spots-unsettling-npc-that-watches-and-waves-at-them",
+        "title": "Red Dead Redemption 2 Player Spots Unsettling NPC That Watches and Waves at Them",
+        "subTitle": "A Red Dead Redemption 2 player shares footage of a creepy NPC that seems to be following them around the Wild West, with vague intentions.",
+        "article": [
+          "A <strong><em>Red Dead Redemption 2</em></strong> player has shared strange footage of a creepy NPC that seems to be following them around. It's no secret that <a href='https://gamerant.com/tag/red-dead-redemption-2/'><em>Red Dead Redemption 2</em></a>'s atmosphere is among the best of any game, and this clip only adds to that idea.",
+          "Even five years after its release, there's always something new that experienced players can discover about <em>Red Dead Redemption 2</em>. While the detail that Rockstar put into the game was immediately obvious back in 2018, it's only years later that the community has really discovered the true extent of it. It would be easy to assume that everything about the game has been found at this point, yet it never seems to end. Just recently, one <em>Red Dead Redemption 2</em> player discovered a mind-blowing fishing detail, so even the game's core features are still revealing new details to gamers to this day.",
+          "Redditor ghost_toe posted the eerie video online, which shows their character on horseback in the Wild West. They stop as they see a figure atop a hill in the distance, and zoom in with their binoculars. The figure simply waves at the player before riding away, suggesting they'd been watching all along. There have been plenty of weird <em>Red Dead Redemption 2</em> videos released by the community over the years, but this latest clip by ghost_toe is surely one of the strangest.",
+          "Gamers in the thread had plenty of theories about the mysterious figure. Some claimed this was actually <em>Red Dead Redemption 2</em>'s antagonist Micah Bell, with others claiming to have seen him out and about on their travels across the American West. While not everyone in the thread had clues about their identity, others who had seen them before mentioned that the character was spotted following them for quite a while, so it doesn't seem to be a coincidence. One thing seems to be consistent across all versions of the story - when the player spots this character, they always turn around and leave, which only opens up more questions about their intentions.",
+          "With no conclusive evidence regarding the eerie stranger, for now, this will just have to remain one of the Red Dead Redemption series' unsolved mysteries. Hopefully, when it finally releases, <em>Red Dead Redemption 3</em> has a similar amount of strange occurrences that keep people talking years after its release. Right now though, it seems that it could be several years until that title comes to fruition, so at the moment anything a sequel might contain will have to remain up for debate."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/red-dead-redemption-2-unsettling-npc.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-05T10:00:00Z",
+        "views": 178,
+        "images" : [],
+        "externalData": "<iframe height='500' src='https://embed.reddit.com/r/reddeadredemption/comments/14rn6rn/more_than_once_ive_noticed_an_npc_watching_me/?embed=true&amp;ref_source=embed&amp;ref=share&amp;utm_medium=widgets&amp;utm_source=embedv2&amp;utm_term=23&amp;utm_name=post_embed&amp;embed_host_url=https%3A%2F%2Fgamerant.com%2Fred-dead-redemption-2-npc-creepy-stalker-discovery%2F' width='640px' scrolling='no' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups' allow='clipboard-read; clipboard-write' style='border: none; max-width: 100%; border-radius: 8px; display: block; margin: 0px auto;'></iframe>",
+        "mainTag": "red dead redemption 2",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "red dead redemption 2"
+          },
+          {
+            "name": "rockstar games"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "xbox one"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "JACK WEBSTER",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F633c91367f387-My%20project-1.png?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "minecraft-player-makes-lucky-discovery-after-starting-new-world",
+        "title": "Minecraft Player Makes Lucky Discovery After Starting New World",
+        "subTitle": "Some procedurally-generated Minecraft worlds give players a better start than others, but one lucky fan gets a big advantage at the start of the game.",
+        "article": [
+          "Every one of <strong><em>Minecraft</em></strong>'s procedurally-generated worlds give players a different experience when starting a new game, but one incredibly fortunate fan makes an amazing discovery when mining beneath their starting base that essentially allows them to skip a big part of the game. With every world in <a href='https://gamerant.com/tag/minecraft/'><em>Minecraft</em></a> generated from a unique seed, the potential for adventure and discovery within the game is practically endless.",
+          "World seeds in <em>Minecraft</em> dictate everything in terms of a world's generation, including biome placements, cave network generation, and even structure spawns. This means that every new world in <em>Minecraft</em> offers a completely new and fresh adventure, though not every world has to be born from a new seed. World seeds both new and old can be shared by players, which allows multiple people to have their own adventures in what is essentially the same world - even if those gamers are in singleplayer mode. Entering an existing world seed also allows players to find their ideal world to play and build in, as countless awesome <em>Minecraft</em> seeds can be found online.",
+          "Starting out can always be either a simple or incredibly challenging task, as <em>Minecraft</em> can spawn players in a resource-rich jungle just as easily as it can spawn them on a barren island in the middle of nowhere. One player though, a fan known as Nicalay2 on Reddit, hits the jackpot after they discover a massive structure right beneath the small base they create at the beginning of their game. The video attached to the post on Reddit shows the player's narrow tunnel leading down from their base and into a stronghold, giving them access to a loot-rich, endgame area right at the start of their adventure.",
+          "Strongholds in <em>Minecraft</em> are just one of many unique, pre-generated structures that populate every world in the sandbox game. That said, strongholds are particularly important sites to visit, as they're the only places where players can find portals capable of taking them to <em>Minecraft</em>'s End dimension, and thus the end of the game itself. These places are always found deep underground, and while finding them usually requires the crafting and use of Eyes of Ender, lucky players can simply come across them during regular mining expeditions too.",
+          "Naturally-occurring structures in <em>Minecraft</em> seem to have become far more popular in recent years, as updates often use them as a way of implementing new and expansive areas for players to discover. The trail ruins added in <em>Minecraft</em>'s latest Trails and Tales update are just another example of such a structure, though perhaps the most significant structures added to the game in recent history are the Ancient Cities, which saw the introduction of the terrifying Warden mob and multiple new blocks."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/minecraft-cover-art-2.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-05T14:00:00Z",
+        "views": 208,
+        "images" : [],
+        "externalData": "<iframe height='500' src='https://embed.reddit.com/r/Minecraft/comments/14u5saa/i_was_randomly_digging_under_my_base_and_i_found/?embed=true&amp;ref_source=embed&amp;ref=share&amp;utm_medium=widgets&amp;utm_source=embedv2&amp;utm_term=23&amp;utm_name=post_embed&amp;embed_host_url=https%3A%2F%2Fgamerant.com%2Fminecraft-stronghold-quick-lucky-discovery-video-clip%2F' width='640px' scrolling='no' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups' allow='clipboard-read; clipboard-write' style='border: none; max-width: 100%; border-radius: 8px; display: block; margin: 0px auto;'></iframe>",
+        "mainTag": "minecraft",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "minecraft"
+          },
+          {
+            "name": "mojang"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "switch"
+          },
+          {
+            "name": "xbox one"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "CHRISTIAN MILLER",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F618d815d23cdf-profile.png?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "diablo-4-players-arent-happy-with-legendaries-and-uniques",
+        "title": "Diablo 4 Players Aren’t Happy With Legendaries and Uniques",
+        "subTitle": "The main source of frustration in Diablo 4 lies in its itemization, as players gather to outline the biggest issues with Unique and Legendary items.",
+        "article": [
+          "It's been a month since launch, and players continue to be frustrated over the itemization system present in <strong><em>Diablo 4</em></strong>. In the absence of viable sets, exciting loot, a rewarding endgame, and quality-of-life features, many fans have become nostalgic over <em>Diablo 3</em> and its Greater Rifts. Whereas <em>Diablo 4</em> seems to put greater emphasis on assembling a character's gear, the gameplay in <em>Diablo 3</em> was more concerned with challenging players through increasingly more difficult Greater Rift levels. Obtaining an item set was a trifling matter in <em>Reaper of Souls</em>, but knowing how to make the most of it and how to push beyond one's limit was the bread-and-butter of <em>Diablo 3</em>'s endgame.",
+          "Though shifting the focus of the grind toward loot as opposed to content isn't necessarily a bad thing, the key problem that <em>Diablo 4</em> players have with its endgame is that the loot they're meant to chase is either uninteresting from a design standpoint, or nearly mathematically unobtainable. Uber Uniques in <em>Diablo 4</em> have a drop rate unheard of in the genre, even by Path of Exile standards, and when their drop rate accidentally becomes viable enough to farm, Blizzard is quick to patch it out.",
+          "However, the frustration in the community runs deeper than just Uber Uniques, as a <a href='https://gamerant.com/tag/diablo-4/'><em>Diablo 4</em></a> player by the name of NickBucketTV pointed out that the vast majority of Rogue Legendaries and Uniques don't feel satisfying at all. Given the current lack of balance, both in terms of class and attributes, Bows are automatically useless to Rogues due to the way Damage to Distant Enemies compares against Vulnerable Damage. Affixes and Legendary Aspects suffer from being too situational, and some players are already worried Malignant Hearts follow the same design philosophy.",
+          "One of the underlying problems behind this feeling of dissatisfaction lies with the absurd enchanting costs in <em>Diablo 4</em>. It's much easier, and far more viable to turn a Rare item into a 'god roll than it is to salvage a poorly-rolled Legendary. The excitement at endgame in <em>Diablo 4</em> revolves around finding the ideal Rare item with affixes that many consider boring. More often than not, a Legendary item is a disappointment, solely useful for the Aspect it may contain (provided the roll is good), and given that the top-tier Uniques are beyond reach for the vast majority of players, the community's frustration becomes justified.",
+          "Ultimately, even though <em>Diablo 4</em> has been widely praised for its campaign, as well as for bringing open world to <em>Diablo</em>, it may take a while until it lives up to its true potential. Though many players are feeling exhausted from the current grind, the live service nature of the game will at least ensure that <em>Diablo 4</em> and its expansions will continue to be supported for many years to come."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/diablo-7.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-05T16:00:00Z",
+        "views": 368,
+        "images" : [],
+        "externalData": "<iframe height='500' src='https://embed.reddit.com/r/diablo4/comments/14ubere/legendaries_and_uniques_are_mostly_bad_and_i_no/?embed=true&ref_source=embed&ref=share&utm_medium=widgets&utm_source=embedv2&utm_term=23&utm_name=post_embed&embed_host_url=https%3A%2F%2Fgamerant.com%2Fdiablo-4-legendaries-uniques-community-complaints%2F' width='640px' scrolling='no' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups' allow='clipboard-read; clipboard-write' style='border: none; max-width: 100%; border-radius: 8px; display: block; margin: 0px auto;'></iframe>",
+        "mainTag": "diablo 4",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "diablo 4"
+          },
+          {
+            "name": "diablo"
+          },
+          {
+            "name": "blizzard"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series x"
+          },
+          {
+            "name": "xbox series s"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "DANIEL MORRIS",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F6398d1e858157-170291025_10225566016961464_8639229735532165545_n.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "minecraft-player-creates-every-us-states-tallest-building-in-the-game",
+        "title": "Minecraft Player Creates Every US State’s Tallest Building in the Game",
+        "subTitle": "A Minecraft player online shares their incredible recreation of the tallest building in every US state within the game, all to scale.",
+        "article": [
+          "A <strong><em>Minecraft</em></strong> player online has shared their incredible recreation of every US state's tallest building in-game. In a way, it's similar to the <em>Minecraft</em> group recreating the whole of the UK on a 1:1 scale, despite not quite being on the same level of ambition.",
+          "Over the years, the <em>Minecraft</em> community has been one of the greatest in terms of incredible fan creations online. Due to its immense popularity, fans have been active for well over a decade now, recreating anything and everything within the game. It's amazing how no matter what, it seems as though the level of ambition has only increased over time, and it makes sense. With so many fan creations out there, the new ones looking to stand out have to truly be ambitious, or else they risk disappearing into the crowd. One <em>Minecraft</em> player is even recreating <em>Stardew Valley</em>'s world in-game, showing how they don't just have to be based on real-world locations either.",
+          "Redditor bubbaflubba2 posted their creation online, showcasing how each of the US state's tallest buildings would look within the sandbox of <em>Minecraft</em>. According to the user, it's completely to scale, making this even more impressive. Interestingly, the title for shortest tallest building goes to Vermont, with an 11-story apartment building standing highest in the entire state. It speaks to the incredible versatility of <a href='https://gamerant.com/tag/minecraft/'><em>Minecraft</em></a> that this is a possibility within the game.",
+          "The thread itself was filled with gamers wondering exactly where their city stood in the ranking, with the tallest of them all being the One World Trade Center in New York, standing at 1776ft. Illinois was a close runner-up, with Chicago's Willis Tower (1451ft). There have been some huge <em>Minecraft</em> builds shown off in the past, but actually being able to put a number to each of these really puts into perspective how massive these builds really are.",
+          "As for <em>Minecraft</em> itself, the game continues to receive an abundance of updates from Mojang to ensure its relevance in the gaming community. <em>Minecraft</em>'s recent Trails & Tales update brought about some of the biggest gameplay innovations the game has seen in a long time, and some gamers are even looking further into the future to see what might come next. Regardless of what any future updates bring, Mojang deserves plenty of credit for continuing to update the game over the last decade when cashing in on a sequel might have been the more financially-prudent move."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/minecraft-us-state-tallest-building.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-06T09:00:00Z",
+        "views": 68,
+        "images" : [],
+        "externalData": "<iframe height='500' src='https://embed.reddit.com/r/gaming/comments/14uc529/i_built_every_states_tallest_building_in_minecraft/?embed=true&ref_source=embed&ref=share&utm_medium=widgets&utm_source=embedv2&utm_term=23&utm_name=post_embed&embed_host_url=https%3A%2F%2Fgamerant.com%2Fminecraft-united-states-tallest-buildings-in-game-replicas%2F' width='640px' scrolling='no' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups' allow='clipboard-read; clipboard-write' style='border: none; max-width: 100%; border-radius: 8px; display: block; margin: 0px auto;'></iframe>",
+        "mainTag": "minecraft",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "minecraft"
+          },
+          {
+            "name": "mojang"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "switch"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "TYLER SHIPLEY",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F61096e64e340a-IMG_0981%20-%20Square.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "final-fantasy-franchise-passes-impressive-sales-milestone",
+        "title": "Final Fantasy Franchise Passes Impressive Sales Milestone",
+        "subTitle": "The Final Fantasy franchise passes an impressive sales milestone following the release of Final Fantasy 16 for the PS5.",
+        "article": [
+          "The <strong><em>Final Fantasy</em></strong> franchise has passed an impressive sales milestone, reaching 180 million units sold. This recent achievement is another reminder of the popularity the <a href='https://gamerant.com/tag/final-fantasy/'><em>Final Fantasy</em></a> games have maintained over the years, with many of the installments in the series selling well into the millions of copies, such as the recent release, <em>Final Fantasy 16</em>.",
+          "While the success of the <em>Final Fantasy</em> games for Square Enix is no secret, the developer previously revealed back in March 2022 sales data for the franchise, giving a better idea of how massive the series is. Based on this report from the company, the franchise had sold 173 million units. This impressive total was enough to easily make it the most successful of the company’s IPs. However, updated numbers for the <em>Final Fantasy</em> franchise have been revealed, noting that it has passed an impressive sales milestone.",
+          "As reported by Push Square, this sales information originated from Kageki Hankyu. This source was unusual as the units sold data was revealed as part of an announcement for an all-female <em>Final Fantasy 16</em> musical theatre production. According to the source, the <em>Final Fantasy</em> franchise had crossed the 180 million units sold threshold. While <em>Final Fantasy</em> has been a success for Square Enix over the past few decades, this latest sales report puts into perspective the enduring popularity of the game series.",
+          "It is worth noting a lot has happened in the <em>Final Fantasy</em> franchise between the sales figures revealed in this recent announcement and the ones reported in March 2022. Notably, <em>Final Fantasy 16</em> launched on the PS5 and has sold over 3 million copies. In addition, several remasters of classic games in the series have been released after March 2022. Specifically, <em>Crisis Core: Final Fantasy 7 Reunion</em>, a remaster of the prequel to <em>Final Fantasy 7</em>, and the Nintendo Switch and PS4 versions of <em>Final Fantasy Pixel Remaster</em>, a collection of remasters of some of the first games in the series, became available. The sales of these games likely played a part in pushing the franchise past the 180 million unit mark.",
+          "It will be interesting to see how this number grows over the coming months. <em>Final Fantasy 16</em> was launched in June, meaning it could sell even more copies on PS5 and potentially come to PC in the months ahead, opening the title up to even more gamers. In addition to the sales of <em>Final Fantasy 16</em>, Square Enix has more planned for the franchise. <em>Final Fantasy 7 Rebirth</em> is expected to release in 2024 and is the next game in the <em>Final Fantasy 7</em> remake project. With this in mind, it seems inevitable that the series will cross the 200 million unit mark in the years ahead."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/final-fantasy-7-remake-key-art-sales.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-06T13:00:00Z",
+        "views": 308,
+        "images" : ["https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/10/playstation-state-of-play-hints-final-fantasy-16.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "final fantasy",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "final fantasy"
+          },
+          {
+            "name": "square enix"
+          },
+          {
+            "name": "final fantasy 7"
+          },
+          {
+            "name": "final fantasy 16"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "ARNAB CHAKRABARTI",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F63d85a16e14b4-17904097_1189240707872085_4011536173780773320_n.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "destiny-2-player-points-out-interesting-bow-detail",
+        "title": "Destiny 2 Player Points Out Interesting Bow Detail",
+        "subTitle": "An observant Destiny 2 player notices an interesting detail with Combat Bow arrowheads and how those correspond to different weapon perks.",
+        "article": [
+          "<strong><em>Destiny 2</em></strong> players are meticulously thorough regarding details, as one intuitive player notices a recent cosmetic change made to several Combat Bows that correspond to a specific perk. Fashion and character customization are an intricate part of <em>Destiny 2</em>'s identity, with changes even making it into the occasional patch notes. As a result, the larger <em>Destiny 2</em> community has come to expect such small attention to detail alongside the usual grand set pieces and action sequences that the game is known for.",
+          "Combat Bows are a newer addition to the <em>Destiny</em> franchise, as the weapon archetype made its debut with the Forsaken expansion. The archetype has remained relatively unchanged in its functionality since then, with balance changes and the overarching damage meta shifting its relevancy throughout the expansions and seasonal launches. Post-Lightfall, Combat Bows have seen a rise in popularity, as the recent weapon rebalancing in <em>Destiny 2's Season of Defiance</em> has turned several Bows into suitable contenders for various roles. Exotic Bows such as Leviathan's Breath and Wish-Ender have created new builds as Legendary Bows have regained some usage in PvP and endgame PvE activities with the inclusion of new perks.",
+          "Part of <em>Destiny 2</em>'s charm is its ability to relay data to players via audiovisual cues, whether it's an ability coming off cooldown indicated by a sound bite or increased movement speed outlined by wind trails blowing past a character. Seemingly, the developers have added similar visual functionality to several Combat Bows too, as noticed by a player named SlayForJay. The player has posted their findings on the <a href='https://gamerant.com/tag/destiny-2/'><em>Destiny 2</em></a> subreddit, comparing two pictures of a Strident Whistle Legendary Bow with the Harmony and Explosive Head perks. In the first picture, the player has selected the Harmony perk with Strident Whistle possessing a typical arrowhead, whereas, in the second picture, the player switches to the Explosive Head perk changing the arrowhead to a much bulkier one, showcasing the explosive charge.",
+          "Several players have mentioned in the comment section that the feature isn't particularly new, as cosmetic ornaments have changed the arrowheads in the past, namely, the 'Aim Is True' ornament for the No Turning Back Legendary Bow showcasing a similar explosive arrowhead. Veteran players have also reminisced how certain Rifles and Handcannons in the past would also change appearances based on the perk selection, with different sights visually representing the stat changes. A similar feature was introduced with the popular <em>Destiny 2</em> Exotic Pulse Rifle Revision Zero receiving additional attachments with each unlocked catalyst, indicating the growing power of the weapon.",
+          "Such small changes to the accessibility of existing game systems are always welcome, as players reap passive benefits. With Bungie promising more changes to Bows in future patches for <em>Destiny 2</em>, fans of this elegant weapon will undoubtedly have their eyes peeled for such neat details."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/destiny-2-player-notices-detail-with-bows-gamerant.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-06T17:00:00Z",
+        "views": 273,
+        "images" : [],       
+        "externalData": "<iframe height='500' src='https://embed.reddit.com/r/destiny2/comments/14v9to7/til_that_explosive_head_changes_the_tip_of_the/?embed=true&ref_source=embed&ref=share&utm_medium=widgets&utm_source=embedv2&utm_term=23&utm_name=post_embed&embed_host_url=https%3A%2F%2Fgamerant.com%2Fdestiny-2-combat-bow-perk-detail%2F' width='640px' scrolling='no' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups' allow='clipboard-read; clipboard-write' style='border: none; max-width: 100%; border-radius: 8px; display: block; margin: 0px auto;'></iframe>",
+        "mainTag": "destiny 2",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "destiny 2"
+          },
+          {
+            "name": "bungie"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series x"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "xbox"
+          },
+          {
+            "name": "playstation"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "DANIEL DEANGELO",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F63d85a16e14b4-17904097_1189240707872085_4011536173780773320_n.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "zelda-tears-of-the-kingdom-devs-say-they-didnt-have-time-to-play-elden-ring",
+        "title": "Zelda: Tears of the Kingdom Devs Say They Didn't Have Time to Play Elden Ring",
+        "subTitle": "A senior member of Tears of the Kingdom’s development team reveals that he has been too busy making the Legend of Zelda game to play Elden Ring.",
+        "article": [
+          "<strong><em>The Legend of Zelda: Tears of the Kingdom</em></strong> director Hidemaro Fujibayashi says he was too busy working on the game to play FromSoftware's <em>Elden Ring</em>. The comment came in response to questions about whether <em>Elden Ring</em> might have influenced <a href='https://gamerant.com/tag/tears-of-the-kingdom/'><em>The Legend of Zelda: Tears of the Kingdom</em></a>.",
+          "The comparisons between Tears of the Kingdom and <em>Elden Ring</em> might seem odd on the surface, but they don't come out of nowhere. Both games are open-world games and have some similar mechanics. Meanwhile, <em>Elden Ring</em> director Hidetaka Miyazaki cited Breath of the Wild as one of his inspirations, alongside <em>Skyrim</em>, <em>The Witcher 3</em>, and <em>Shadow of the Colossus</em>. Given that, it wouldn't be too surprising if the inspiration flowed both ways, and Tears of the Kingdom developers borrowed some ideas from <em>Elden Ring</em>.",
+          "This question arose during a recent interview with Tears of the Kingdom producer Eiji Aonuma and director Hidemaro Fujibayashi. However, Fujibayashi denies taking inspiration from <em>Elden Ring</em>, saying he didn't even have time to play the game while developing <em>Tears of the Kingdom</em>. He went on to say that even if he had played the game, he wouldn't have taken ideas from it. Instead, he says that when Nintendo makes a game, the studio tries to come up with new ideas instead of looking at what other studios are doing.",
+          "Responding to a follow-up question from the interviewer, Fujibayashi acknowledged that <em>Zelda</em> games are not always the first to do something. However, he would never deliberately take something from another game. Fujibayashi says he's 'too proud' to do that and always looks for original ideas. That includes not taking too many ideas from earlier The <em>Legend of Zelda</em> games, with Fujibayashi saying any similarities between <em>Ocarina of Time and Tears of the Kingdom</em> are coincidental.",
+          "As an example of what he's talking about, Fujibayashi cited a 3D system in 2013's <em>The Legend of Zelda: A Link Between Worlds</em>, where it looked like Link was jumping at the player. This had surprised Nintendo's then-President Satoru Iwata, who told Fujibayashi he didn't know that was possible. 'I was really, really happy to hear that,' said Fujibayashi, 'because to me that's the core of game development: figuring out things that no one else has thought of.'",
+          "That isn't to say that <em>Tears of the Kingdom</em> was completely free of outside influences. Fujibayashi talked about how he drew from his own life experience rather than from other works. Specifically, he spoke about how being a father influences his work. He wanted the game to have an underlying message, and he says his parenting influenced the screenplay he wrote."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/elden_ring_tarnished_and_tears_of_the_kingdom_link.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-07T10:00:00Z",
+        "views": 273,
+        "images" : ["https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/tears_of_the_kingdom_link.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "the legend of zelda: tears of the kingdom",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "the legend of zelda: tears of the kingdom"
+          },
+          {
+            "name": "nintendo"
+          },
+          {
+            "name": "switch"
+          },
+          {
+            "name": "the legend of zelda"
+          },
+          {
+            "name": "elden ring"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "DALTON COOPER",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F61dc6e08e4241-dalton%20cooper%20profile%20image.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "red-dead-redemption-2-player-accidentally-creates-new-type-of-horse",
+        "title": "Red Dead Redemption 2 Player Accidentally Creates New Type of Horse",
+        "subTitle": "A Red Dead Redemption 2 player accidentally creates a new variant of one of the horses players can ride in the open world western game.",
+        "article": [
+          "A <strong><em>Red Dead Redemption 2</em></strong> player accidentally created a burned horse while playing the open world western game. <a href='https://gamerant.com/tag/red-dead-redemption-2/'><em>Red Dead Redemption 2</em></a> is filled with horses that players can use to speed up travel time. They come in all kinds of different shapes and sizes, with certain horses having better stats than others.",
+          "Of course, the player character isn't the only one that can use horses in the game. Many other characters can be found riding around on horseback in <em>Red Dead Redemption 2</em>. This includes law enforcement, who use their horses to run down player character Arthur Morgan whenever players find themselves on the ring side of the law. One such law enforcement horse was recently transformed into a burned horse by Reddit user Shot_by_cops.",
+          "The Reddit user explained that they shot a law man with incendiary shotgun ammo while playing <em>Red Dead Redemption 2</em>. Apparently, the incendiary ammo hit the horse and caught it on fire. The horse somehow survived the incident long enough for the flames to go away. The player then used a horse revive on the creature to bring it back to life, but it retained the damage from its burns. This gave the horse a unique appearance that helped it stand out from the many other horses found throughout <em>Red Dead Redemption 2</em>'s open world.",
+          "Unfortunately for those wanting to get a burned horse of their own, the Reddit user confirmed that it reverted to normal after they fast-traveled. While this is good news for the horse, it's bad news for any <em>Red Dead Redemption 2</em> players who were wanting to add this kind of horse variant to their collection.",
+          "As some may recall, there once was an official Undead Horse variant in <em>Red Dead Redemption</em>. The Undead Nightmare DLC for the original Red Dead Redemption gave players the chance to ride a zombified horse. Many were holding out hope that Rockstar would create an <em>Undead Nightmare</em>-equivalent DLC for <em>Red Dead Redemption 2</em>, but unfortunately, it never came to pass.",
+          "While fans may never get their hands on an <em>Undead Nightmare</em> DLC for <em>Red Dead Redemption 2</em>, it seems fans of the franchise will have something new to look forward to at some point in the near future. Reputable leakers have suggested that a <em>Red Dead Redemption</em> remaster is in development and could release soon. It's unclear if such a remaster would include the <em>Undead Nightmare</em> content or not."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/red-dead-redemption-2-horse-riding.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-07T18:00:00Z",
+        "views": 373,
+        "images" : [],
+        "externalData": "<iframe height='500' src='https://embed.reddit.com/r/reddeadredemption2/comments/14v9wnm/i_shot_a_law_man_with_incendiary_shotgun_ammo_hit/?embed=true&ref_source=embed&ref=share&utm_medium=widgets&utm_source=embedv2&utm_term=23&utm_name=post_embed&embed_host_url=https%3A%2F%2Fgamerant.com%2Fred-dead-redemption-2-burned-horse%2F' width='640px' scrolling='no' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups' allow='clipboard-read; clipboard-write' style='border: none; max-width: 100%; border-radius: 8px; display: block; margin: 0px auto;'></iframe>",
+        "mainTag": "red dead redemption 2",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "red dead redemption 2"
+          },
+          {
+            "name": "red dead redemption"
+          },
+          {
+            "name": "rockstar games"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series x"
+          },
+          {
+            "name": "xbox"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "KYLE THOMAS",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F63503cecb36a6-Professional.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "call-of-duty-warzone-adding-gulag-to-vondel-map-in-season-4-reloaded-update",
+        "title": "Call of Duty: Warzone Adding Gulag to Vondel Map in Season 4 Reloaded Update",
+        "subTitle": "The Call of Duty team announces that the Season 4 Reloaded update for Modern Warfare 2 and Warzone will include an expansion to the Vondel map.",
+        "article": [
+          "It has been announced that the newest update to <strong><em>Call of Duty: Warzone</em></strong> will introduce a range of new content, including an expansion to the popular Vondel battle royale map. According to a recent post on the official <em>Call of Duty</em> blog, the upcoming Reloaded update for <em>Modern Warfare 2</em> and <a href='https://gamerant.com/tag/call-of-duty-warzone/'><em>Warzone</em></a> will add a sizeable Gulag area beneath the castle on the Vondel map.",
+          "<em>Call of Duty: Warzone 2</em> and <em>Modern Warfare 2</em> are both currently in the midst of Season 4, a phase of content development that has been ongoing since June 14. Players have already seen several big additions to <em>Modern Warfare 2</em> during Season 4, and now another major content release, known as the Reloaded update, is set to launch on Wednesday, July 12. The centerpiece of Season 4 Reloaded is a crossover event with acclaimed TV series <em>The Boys</em>, and a variety of new content surrounding that crossover.",
+          "Among the announced features of the Reloaded update is a new area to be added to the Vondel map, which will fill the role of a Gulag for this environment. Gulags are a gameplay feature in <em>Call of Duty: Warzone</em>, functioning as self-contained arenas where players who have already been killed in a given round can duel each other one on one for a chance to rejoin the match. The new Gulag will take the form of an abandoned wine cellar underneath the castle looming over the map, adding another hidden area in Vondel for players to explore.",
+          "Gulags are a fairly unique feature among battle royale games, and are thus often listed as one of <em>Warzone</em>'s main selling points. Given the volatile nature of the gameplay they promote, Gulags have often brought glitches and exploits into <em>Warzone</em> whenever they are expanded or modified in an update. It remains to be seen whether the Vondel Gulag will face any similar issues upon its release.",
+          "The Season 4 Reloaded update includes a lot of exciting content that players will likely enjoy, especially those who happen to be fans of The Boys. While the new Gulag is not directly linked to the crossover event at the center of the update, it is certain to shake up future battle royale matches on the Vondel map. There is always the possibility that the new content will cause unforeseen bugs or glitches, similar to the issues with previous <em>Call of Duty</em> updates, but fans will most likely be able to enjoy the update regardless."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/call-of-duty-warzone-vondel-map-aerial-shot.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-09T08:00:00Z",
+        "views": 303,
+        "images" : ["https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/call-of-duty-warzone-vondel-map-gulag.jpg?q=50&fit=crop&w=1500&dpr=1.5"],
+        "mainTag": "call of duty",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "call of duty"
+          },
+          {
+            "name": "call of duty: warzone"
+          },
+          {
+            "name": "call of duty: modern warfare 2(2022)"
+          },
+          {
+            "name": "activision"
+          },
+          {
+            "name": "infinity ward"
+          },
+          {
+            "name": "raven software"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "CHRISTOPHER CASTELLAW",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F632ba86084bae-20200105_223727_hedcut_L1%20Color%20BG2.jpg?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "diablo-4-players-complete-tier-100-nightmare-dungeon-on-hardcore-difficulty",
+        "title": "Diablo 4 Players Complete Tier 100 Nightmare Dungeon on Hardcore Difficulty",
+        "subTitle": "Two gamers earn a spot in Diablo history after the duo become the first to complete a Tier 100 Nightmare Dungeon in Hardcore Mode.",
+        "article": [
+          "While some players of Blizzard’s <strong><em>Diablo 4</em></strong> are still struggling through their first playthrough of the dark and gloomy action RPG, two gamers have raised the bar for in-game accomplishments, becoming the first to clear a Tier 100 Nightmare Dungeon in Hardcore Mode. A badge of honor for the game’s most dedicated players, some players recently claimed that <em>Diablo 4</em>’s Hardcore contest winners list is inaccurate and omits dozens of gamers who accomplished the feat.",
+          "Released in early June to great acclaim, <em>Diablo 4</em> is the latest entry in Blizzard’s long-running action RPG series. Taking gamers’ feedback to heart following the mixed reception to 2012's <em>Diablo 3</em>, Blizzard brought back the dark and gritty art style of the original games while retaining some of the third outing’s quality of life improvements. Like previous entries in the franchise, much of the game’s appeal for many players lies in the endgame content, with <em>Diablo 4</em>’s Nightmare Dungeons representing some of the title’s biggest challenges. Despite this, the Nightmare Dungeons have been criticized by some players for lacking in imagination and difficulty compared to Diablo 3’s Greater Rifts.",
+          "As first reported by gaming site Wowhead, <em>Diablo 4</em> players AlAlon and Riise have become the first two gamers to defeat a Tier 100 Nightmare Dungeon in Hardcore Mode. AlAlon shared the momentous accomplishment on their Twitter account, providing a screenshot of the duo getting a popup alerting them of their new Grandmaster status as proof. Remaining gracious in their moment of triumph, AlAlon’s tweet also took the time to thank Blizzard and Diablo community lead Adam Fletcher “for creating this masterpiece.” Cutting things fairly close, the pair achieved the coveted Grandmaster status with less than two weeks to go in <em>Diablo 4</em>’s current season.",
+          "Gamers responding to the news on Twitter congratulated AlAlon and Riise on their accomplishment, with many <em>Diablo 4</em> fans inquiring about what builds the two used. One curious commenter asked if reaching Grandmaster was actually rewarding or just felt the same as farming XP in <em>Diablo 4</em>’s Nightmare Dungeons usually does. Offering a surprisingly subdued response to the question, AlAlon stated that clearing the Nightmare Dungeon was “only about challenge” and not about any potential loot or larger feeling of satisfaction.",
+          "For players who are happy just to be able to make it through their encounter with X’Fal The Scarred Barron in <em>Diablo 4</em>’s first act intact, clearing a tier 100 Nightmare Dungeon in Hardcore Mode may seem like an insurmountable challenge. But, as AlAlon and Riise have shown, for some <em>Diablo 4</em> players accomplishing the seemingly impossible is where the game’s real fun lies."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/diablo-4-varshan-the-consumed.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-10T08:00:00Z",
+        "views": 320,
+        "images" : [],
+        "externalData": "<iframe id='twitter-widget-0' scrolling='no' frameborder='0' allowtransparency='true' allowfullscreen='true' class='' style='position: static; visibility: visible; width: 382px; height: 674px; display: block; flex-grow: 1;' title='Twitter Tweet' src='https://platform.twitter.com/embed/Tweet.html?creatorScreenName=nerdcocreate&amp;dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1677794315907522563&amp;lang=en&amp;origin=https%3A%2F%2Fgamerant.com%2Fdiablo-4-players-tier-100-nightmare-dungeon-hardcore%2F&amp;sessionId=b00fdc5b22461f6f20250bd8b8d2091e50399b98&amp;siteScreenName=gamerant&amp;theme=light&amp;widgetsVersion=aaf4084522e3a%3A1674595607486&amp;width=550px' data-tweet-id='1677794315907522563'></iframe>",
+        "mainTag": "diablo 4",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "diablo 4"
+          },
+          {
+            "name": "diablo"
+          },
+          {
+            "name": "activision"
+          },
+          {
+            "name": "blizzard"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox series x"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "CAMERON LOCKHART",
+          "imageProfile": "https://static0.gamerantimages.com/wordpress%2Fwp-content%2Fauthors%2F643da4e9413f8-Cameron%204.png?q=50&fit=crop&w=360&h=360&dpr=1.5", 
+          "url": "#"
+        },
+        "id": "some-destiny-2-players-may-watch-the-final-shape-instead-of-play-it",
+        "title": "Some Destiny 2 Players May Watch The Final Shape Instead of Play It",
+        "subTitle": "Some Destiny 2 players express their burnout with the extended post-release story campaigns and are contemplating not playing future DLC.",
+        "article": [
+          "While some players of Blizzard’s <strong><em>Diablo 4</em></strong> are still struggling through their first playthrough of the dark and gloomy action RPG, two gamers have raised the bar for in-game accomplishments, becoming the first to clear a Tier 100 Nightmare Dungeon in Hardcore Mode. A badge of honor for the game’s most dedicated players, some players recently claimed that <em>Diablo 4</em>’s Hardcore contest winners list is inaccurate and omits dozens of gamers who accomplished the feat.",
+          "Released in early June to great acclaim, <em>Diablo 4</em> is the latest entry in Blizzard’s long-running action RPG series. Taking gamers’ feedback to heart following the mixed reception to 2012's <em>Diablo 3</em>, Blizzard brought back the dark and gritty art style of the original games while retaining some of the third outing’s quality of life improvements. Like previous entries in the franchise, much of the game’s appeal for many players lies in the endgame content, with <em>Diablo 4</em>’s Nightmare Dungeons representing some of the title’s biggest challenges. Despite this, the Nightmare Dungeons have been criticized by some players for lacking in imagination and difficulty compared to Diablo 3’s Greater Rifts.",
+          "As first reported by gaming site Wowhead, <em>Diablo 4</em> players AlAlon and Riise have become the first two gamers to defeat a Tier 100 Nightmare Dungeon in Hardcore Mode. AlAlon shared the momentous accomplishment on their Twitter account, providing a screenshot of the duo getting a popup alerting them of their new Grandmaster status as proof. Remaining gracious in their moment of triumph, AlAlon’s tweet also took the time to thank Blizzard and Diablo community lead Adam Fletcher “for creating this masterpiece.” Cutting things fairly close, the pair achieved the coveted Grandmaster status with less than two weeks to go in <em>Diablo 4</em>’s current season.",
+          "Gamers responding to the news on Twitter congratulated AlAlon and Riise on their accomplishment, with many <em>Diablo 4</em> fans inquiring about what builds the two used. One curious commenter asked if reaching Grandmaster was actually rewarding or just felt the same as farming XP in <em>Diablo 4</em>’s Nightmare Dungeons usually does. Offering a surprisingly subdued response to the question, AlAlon stated that clearing the Nightmare Dungeon was “only about challenge” and not about any potential loot or larger feeling of satisfaction.",
+          "For players who are happy just to be able to make it through their encounter with X’Fal The Scarred Barron in <em>Diablo 4</em>’s first act intact, clearing a tier 100 Nightmare Dungeon in Hardcore Mode may seem like an insurmountable challenge. But, as AlAlon and Riise have shown, for some <em>Diablo 4</em> players accomplishing the seemingly impossible is where the game’s real fun lies."
+        ],
+        "imageLanding": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/2023_thefinal_shape_cgtrailer_presskit_02.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+        "date": "2023-07-11T09:00:00Z",
+        "views": 255,
+        "images" : [],
+        "externalData": "<iframe id='twitter-widget-0' scrolling='no' frameborder='0' allowtransparency='true' allowfullscreen='true' class='' style='position: static; visibility: visible; width: 382px; height: 674px; display: block; flex-grow: 1;' title='Twitter Tweet' src='https://platform.twitter.com/embed/Tweet.html?creatorScreenName=nerdcocreate&amp;dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1677794315907522563&amp;lang=en&amp;origin=https%3A%2F%2Fgamerant.com%2Fdiablo-4-players-tier-100-nightmare-dungeon-hardcore%2F&amp;sessionId=b00fdc5b22461f6f20250bd8b8d2091e50399b98&amp;siteScreenName=gamerant&amp;theme=light&amp;widgetsVersion=aaf4084522e3a%3A1674595607486&amp;width=550px' data-tweet-id='1677794315907522563'></iframe>",
+        "mainTag": "diablo 4",
+        "tags": [
+          {
+            "name": "games"
+          },
+          {
+            "name": "diablo 4"
+          },
+          {
+            "name": "diablo"
+          },
+          {
+            "name": "activision"
+          },
+          {
+            "name": "blizzard"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox series x"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "ALBERTO PASTOR",
+          "imageProfile": "https://www.gravatar.com/avatar/744b6584240c4a91c46ed2709f0b52b0?s=300&d=mm&r=g", 
+          "url": "#"
+        },
+        "id": "this-medieval-strategy-game-takes-us-to-the-crusades-it-has-a-touch-of-rpg-and-a-story-with-a-touch-of-fantasy",
+        "title": "This medieval strategy game takes us to The Crusades, it has a touch of RPG and a story with a touch of fantasy",
+        "subTitle": "The Valiant originally debuted on PC at the end of last year, and now it's available on Xbox and PlayStation.",
+        "article": [
+          "Real-time strategy is thriving not only on PC, its natural territory, but also on consoles where in recent years we have been able to enjoy games that were previously unthinkable. The latest addition to this trend is <a href='https://www.3djuegos.com/juegos/the-valiant/'><em>The Valiant</em></a>, an interesting RTS set in the Crusades that starts with a genuinely attractive premise, although the game doesn't always shine as brightly as it promised. Nonetheless, it's worth celebrating that we can now lead an army of medieval knights without missing the keyboard and mouse too much, as this adaptation of Kite Games' title perfectly meets the genre's demands without making your life unnecessarily complicated. On the contrary, we're talking about a strategy game that approaches action in such a direct manner that playing with an Xbox or PlayStation controller feels very natural – but that doesn't mean it's perfect. At times, it can be a bit cumbersome to navigate between different squads of soldiers under our command, which is exacerbated by the lack of an option to zoom in and observe the battlefield up close.",
+          "<strong><em>The Valiant</em></strong> also doesn't do much to explain how to play or what all those colored bars above the heads of your allies and enemies mean. There are tutorials scattered throughout the early campaign missions, it's true, but they only briefly touch on some of the game's key features, leaving you to read a glossary of terms to understand how things like vengeance or vigor work, for example, aspects that aren't immediately obvious. I want to emphasize that it's not an overly complex game, but if you're not very familiar with strategy games, you might find it difficult to get into the gameplay. It wouldn't have been a bad idea to provide a better tutorial mission so that you can learn everything about this title while playing. <em>The Valiant</em> is an RPG-tinged game that we extensively covered in our original review at the end of last year, so here I will focus on the console adaptation to give you a better idea of whether it's worth making the leap to these new platforms.",
+          "I confess that the idea of traveling back in time to fight in the Crusades is incredibly motivating to me, so right from the start, <em>The Valiant</em> is an RTS that has an easy time winning me over. Furthermore, it is very straightforward in combat, with a formula that combines strategy with elements more typical of role-playing games, embodied here by the heroes with unique abilities that can alter the course of the battle. This makes it even easier to have a good time. What's the problem? Sometimes it falls into the trap of being too simple because while the combat works very well on paper, in the medium term, you realize that the formula barely changes from the beginning of the campaign, making some fights even tedious. 'Just end it already!' you say to yourself due to the somewhat slow pace of these skirmishes. It's curious because, as I said, the premise is good.",
+          "Archers, heavily armored infantry, spearmen, the always useful cavalry... beyond strategically leading the squads of soldiers under your command, the charm of <em>The Valiant</em> lies in the fact that you have several unique abilities that carry significant weight in the action of this RTS. There are units that can boost the morale of their own and allies, while others can charge fiercely to reach vital strategic positions, simultaneously launching anyone who crosses their path into the air. These actions have a real impact on the battle, so it's not enough to simply say, 'Hey you, go there and fight', because that way you'll lose valuable troops that will likely come in handy during the final stages of the mission. The latter is no small matter, as the game doesn't always gauge the difficulty of the encounter properly, constantly pitting you against hordes of enemies vastly outnumbering you, turning each mission into a battle of attrition... that also wears down your patience. Remember when I mentioned that sometimes the combat becomes tedious? Essentially, the problem is that there aren't enough unique abilities to make each fight feel different from another in a completely distinct scenario. It's always the same. Repeatedly using the same abilities. And that becomes exhausting.",
+          "Regarding this console adaptation, the truth is that the controls are good. It's very comfortable and intuitive to activate these special abilities because there's no need to execute complex button combinations, and the interface is visually appealing. Since the game itself focuses on more controlled combat with not too many squads of allies under your control, and base building is limited, there are rare occasions where you can feel overwhelmed by the chaos of battle. And yet, sometimes the screen is filled with enemies to confront. This brings me to discuss the visual aspect of The Valiant, which also holds up well in its transition to PlayStation and Xbox. I played the Xbox Series X version, and overall, both the performance and the level of detail achieved in the environments and troops are adequate. Nothing spectacular, but it doesn't fall short compared to what's seen on PC.",
+          "If you're playing it on consoles, in addition to the single-player campaign with 16 missions (each lasting around 30-40 minutes), you can also enjoy the traditional Skirmish mode, online battles, and a Horde mode that challenges you to survive for as long as possible by embodying only the heroes of this medieval story."
+        ],
+        "imageLanding": "https://i.blogs.es/60dee7/the-valiant/1366_2000.jpeg",
+        "date": "2023-07-01T17:00:00Z",
+        "views": 155,
+        "images" : ["https://i.blogs.es/7fa397/apps.9741.14139163801819645.8a293181-16f0-420c-9118-e393b9519c6f/1366_2000.jpeg"],
+        "mainTag": "the valiant",
+        "analysis": {
+          "title": "A Crusade to forget",
+          "img": "https://i.blogs.es/4d3c8f/500_500/500_500.jpeg",
+          "average": 3,
+          "pros": [
+            "It is set in the Crusades, at the end of the XII - beginning of the XIII century.",
+            "It puts a lot of emphasis on a rather fantastic story, with debatable results.",
+            "The action shows very quickly everything it has to offer.",
+            "Normal on a technical level, although well adapted to consoles.",
+            "The control is responsive without the need for complicated button combinations."
+          ],
+          "resume": "Although it starts from a good premise, The Valiant is a strategy game that hasn't quite taken off. Their combats are fun but they quickly show you everything they have to offer, leaving you with the feeling that the action in this RTS could have been much better. The story isn't bad and obviously the setting of The Crusades is a good claim, but don't expect much either. As for this version of consoles, the game has adapted very well both visually and especially playable, with a control system that is easy to understand and clear."
+        },
+        "tags": [
+          {
+            "name": "analysis"
+          },
+          {
+            "name": "the valiant"
+          },
+          {
+            "name": "playstation"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series x"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "ALEJANDRO PASCUAL",
+          "imageProfile": "https://www.gravatar.com/avatar/2215219b31cb3fe8ceff222b0940c65e?s=300&d=mm&r=g", 
+          "url": "#"
+        },
+        "id": "telling-compelling-stories",
+        "title": "Telling compelling stories in video games is a challenge that the creators of Life is Strange are not afraid",
+        "subTitle": "Harmony: The Fall of Reverie explores the visual novel genre to find new ways of approaching decisions and consequences.",
+        "article": [
+          "We have to be grateful for the existence of studios like Dontnod in our industry because these guys never stop experimenting with formulas, avoiding repetition as much as possible. They don't care how many times they may make mistakes because they always get up and try again before giving in to the conventional formulas of our medium. That's something that is scarce in the world of video games, and they once again demonstrate it with <strong><em>Harmony: The Fall of Reverie</em></strong>.",
+          "This time, they take us on a journey to discover the story of Polly, a woman who returns to her native island only to find out that her mother has disappeared, while reconnecting with old friends. But that's just the tip of the iceberg, as soon as she arrives, she connects with another plane of existence where she encounters different incarnations of human emotions: Power, Happiness, Bond, Truth, Chaos, and Glory. Polly represents <a href='https://www.3djuegos.com/juegos/harmony-the-fall-of-reverie/'><em>Harmony</em></a>, a way to balance all these aspirations, if that's what we desire, or prioritize one over the others.",
+          "The truth is, the beginning is not the best. <em>Harmony</em> wants to start off so strongly that it's difficult to maintain interest in these two initially overlapping and explanatory storylines. As we play, we will uncover a story that shows sensitivity and talks about loss, acceptance, and also the modernization of societies, which makes it more interesting. However, in my case, I had the feeling that I never fully empathized or completely immersed myself in it.",
+          "In my playthrough, I found myself wondering why this was happening to me. With <em>Harmony: The Fall of Reverie</em>, the studio has ventured into the genre of visual novels to experiment with storytelling in a more direct way, without the need to build an entire exploratory or action experience around it. However, I believe there are some doubts at its core: <em>Harmony</em> is a game that reveals its structure. That is to say, we not only enjoy the visual novel and the decisions we can make within it, but we also 'play' with the path, seeing the nodes and being able to slightly anticipate the consequences by exploring different alternatives before committing to one.",
+          "The characters, on the other hand, are completely hand-drawn in two dimensions, with magnificent animations that effectively convey the right emotion in each dialogue line. With just a few frames, they subtly display fragility, insecurity, or surprise in every conversation. The music by Lena Raine, who has already showcased her talent in works like Celeste and Minecraft, once again does an excellent job of reinforcing these sensations and, above all, capturing the spirit of this island which, while somewhat paradise-like, also hides a profound control over its inhabitants.",
+          "It is difficult to recommend <em>Harmony: The Fall of Reverie</em> to everyone, as one must first be drawn to its premise, to this ability to change the narrative at will before being able to immerse oneself in its story. However, there is no doubt that it is another work as personal as all those from the studio, which shows their willingness to try everything and continue exploring any possible avenue in video games to tell stories in non-linear ways. And for that audacity, I can only applaud."
+        ],
+        "imageLanding": "https://i.blogs.es/9e9bee/harmony-analisis-resena-opinion-review/1366_2000.jpeg",
+        "date": "2023-07-02T10:00:00Z",
+        "views": 55,
+        "images" : ["https://i.blogs.es/162e58/harmony_-the-fall-of-reverie_20230629125526/1366_2000.jpeg", "https://i.blogs.es/524388/harmony_-the-fall-of-reverie_20230629130950/1366_2000.jpeg"],
+        "mainTag": "harmony: the fall of reverie",
+        "analysis": {
+          "title": "Interesting experiment",
+          "img": "https://i.blogs.es/d5f267/harmony_-the-fall-of-reverie_20230629130828/500_500.jpeg",
+          "average": 6,
+          "pros": [
+            "It's a visual novel focused on decisions and consequences.",
+            "We experience Polly's story as she searches for her mother upon returning to her hometown.",
+            "We can anticipate decisions through a node system.",
+            "Beautiful visual design with appealing animations and sequences.",
+            "The game explores emotional balance through a series of entities representing six emotions."
+          ],
+          "resume": "Harmony: The Fall of Reverie is Don't Nod's experimentation with the visual novel genre, allowing them to explore narrative mechanics of cause and effect to the point where we can anticipate them before they happen through our protagonist's ability, the Foretelling. In between, it tells a story that takes a little while to get going, as it aims to be more human by following Polly's journey to find her mother and unravel the mysteries of her hometown, while also immersing us in a conflict of entities representing different human emotions. It is, in essence, a highly experimental visual novel that does not neglect its artistic side with beautifully crafted 3D environments and 2D characters."
+        },
+        "tags": [
+          {
+            "name": "analysis"
+          },
+          {
+            "name": "harmony: the fall of reverie"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "switch"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox series x"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "ALBERTO LLORIA",
+          "imageProfile": "https://www.gravatar.com/avatar/80ebcddb70463043c3a8eddebd3bea7a?s=300&d=mm&r=g", 
+          "url": "#"
+        },
+        "id": "why-does-alien-isolation-exist-otherwise-this-would-be-the-best-game-in-the-franchise-by-far-analysis-of-aliens-dark-descent",
+        "title": "Why does Alien: Isolation exist, otherwise this would be the best game in the franchise by far? Analysis of Aliens: Dark Descent",
+        "subTitle": "The new game in the franchise is a tremendous surprise. Its strategic action approach may not delight the most skeptical players, but they would be missing out on an amazing game.",
+        "article": [
+          "&quot;This creature is the perfect life form in the galaxy.&quot;With these words, the fantastic and late Ian Holm introduced us to the xenomorph, a creature that has climbed its way to the top of popular culture as one of the most imposing horror monsters. Standing at 3 meters tall, with semi-resistant skin, acid blood, and astonishing agility, it is hailed as the perfect life form in the galaxy. Despite creating a trauma for me when I was only 10 years old watching <em>Alien vs Predator</em> - not even close to the best movie featuring the creature - I hold a great affection for it, and being somewhat masochistic, <strong><em>Aliens: Dark Descent</em></strong> was on my most anticipated list of the year.",
+          "The development of a relatively unknown studio like Tindalos Interactive was introduced during the 2022 Summer Game Fest hosted by Mr. Keighley, generating a lot of anticipation. It's not just that they aim to take us back to a setting where the Xenomorph only 'played' in 2003 with <em>Alien vs Predator: Extinction</em>, but they also strive to challenge Alien Isolation for its throne. Many might think that the undisputed best game in the franchise would be out of reach for <em>Dark Descent</em>. However, what if I told you it's a very close call? But let's not jump to conclusions. Whether out of curiosity or genuine excitement for the game, pay attention to the analysis of <a href='https://www.3djuegos.com/juegos/aliens-dark-descent/'><em>Aliens: Dark Descent</em></a>.",
+          "As soon as we start our first game in <em>Aliens: Dark Descent</em>, which, by the way, offers various difficulty modes and even on the intermediate setting, is a sweat-inducing experience, we encounter the game's first success: Tindalos Interactive's adventure exists completely separate from the film's timeline. In fact, it is entirely detached. Isolation relied on Ellen Ripley's daughter to capture the attention of fans. Dark Descent, on the other hand, decides to set aside any concepts that might overwhelm newcomers and instead positions itself within the same chronological line, after <em>Alien 3</em>, while avoiding any other products of the franchise.",
+          "Having overcome the management aspect of the game, it's time to talk about the gameplay itself. If I had to sum it up in a few words, I would say it's a joy to play. The game divides its adventure into days, as I mentioned before. Every 24 hours, you can launch an expedition, in other words, a playable mission. However, this also means that those same soldiers won't be available for the next day. The gameplay is in line with the management aspect, where we won't treat the soldiers as mere polygons but as 'people'. Okay, maybe that's a bit exaggerated, but the game makes an effort to make it clear that all the characters have depth, and what happens in the missions will affect them to a greater or lesser extent. And I'm not talking about minor or short-term things.",
+          "Throughout the entire campaign, which will take us approximately 35 hours to complete, we will have several scenarios to explore, each with a certain number of main missions - in addition to other side missions - to complete in order to progress to the next one. They are not very varied in types. Nevertheless, they are maps that I have really enjoyed, emphasizing the word 'really'. They are unexpectedly huge. So much so that if an average mission takes 20 minutes, I can assure you that you will not have explored, at best, even 30% of the entire map before extracting the team. They all have multiple levels, a labyrinthine structure, and many nooks and crannies where the current alien is waiting for its meal.",
+          "Having overcome the management aspect of the game, it's time to talk about the gameplay itself. If I had to sum it up in a few words, I would say it's a joy to play. The game divides its adventure into days, as I mentioned before. Every 24 hours, you can launch an expedition, in other words, a playable mission. However, this also means that those same soldiers won't be available for the next day. The gameplay is in line with the management aspect, where we won't treat the soldiers as mere polygons but as 'people'. Okay, maybe that's a bit exaggerated, but the game makes an effort to make it clear that all the characters have depth, and what happens in the missions will affect them to a greater or lesser extent. And I'm not talking about minor or short-term things."
+        ],
+        "imageLanding": "https://i.blogs.es/1c41fb/aliens-dark-descent-analisis-opinion-resena/1366_2000.jpeg",
+        "date": "2023-07-13T10:00:00Z",
+        "views": 205,
+        "images" : ["https://i.blogs.es/622cac/aliens-dark-descent-analisis-23-/1366_2000.jpeg", "https://i.blogs.es/743a2c/aliens-dark-descent-analisis-11-/1366_2000.jpeg"],
+        "mainTag": "alien: dark descent",
+        "analysis": {
+          "title": "Can it be better?",
+          "img": "https://i.blogs.es/1b4cf2/aliens-dark-descent-analisis-26-/500_500.jpeg",
+          "average": 8,
+          "pros": [
+            "Although there is a lot of action, Dark Descent is slow, tactical and where tension is the key.",
+            "It is quite long. It's not just that it's over 30 hours long, but the missions are extensive.",
+            "The management part is not as deep as it may seem.",
+            "It's hard and sometimes unfair to us.",
+            "It has cinematics in the most important moments with a surprising technical bill."
+          ],
+          "resume": "Aliens: Dark Descent could easily be the best Alien game. The problem is that Isolation is ahead. Of course, staying in second place is not small feat. The Tindalos studio has done a superb job, with all the words and in capital letters. It's fun, it doesn't relegate the aliens to just putty to shoot, and it dwarfs the sense of epic in pursuit of oppression and survival. They are perfect little details for Alien. If Isolation was the fight of a person against one of these beings, like Alien: The Eighth Passenger; Dark Descent is like James Cameron's Aliens. As good as the original, but bet on different approaches. You may even like one more, but they are outstanding projects. In short, a recommended like few others."
+        },
+        "tags": [
+          {
+            "name": "analysis"
+          },
+          {
+            "name": "alien: dark descent"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series x"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "ALBERTO LLORIA",
+          "imageProfile": "https://www.gravatar.com/avatar/80ebcddb70463043c3a8eddebd3bea7a?s=300&d=mm&r=g", 
+          "url": "#"
+        },
+        "id": "its-more-than-a-remake-but-less-than-a-new-game-analysis",
+        "title": "It's more than a remake, but less than a new game. Analysis of the horror game that made Bloober Team famous. Layers of Fear",
+        "subTitle": "The new Layers of Fear works as a remake and a sequel, all in the same game that, in turn, brings order to a universe of horror that is difficult to follow",
+        "article": [
+          "When I think of <strong><em>Layers of Fear 2023</em></strong>, one thing comes to mind: James Cameron. Yes, it sounds a bit strange, especially since the Canadian director has never come close to terror in his filmography. But no, all this madness hasn't made me ramble. What he has done is recover his oldest works —authentic jewels where he allowed himself to force the Hollywood machinery— to adapt them to the new times with changes based on the most cutting-edge technologies. The director has taken advantage on several occasions of what he did not have at the time to offer a more polished version of his tapes; just as Bloober Team has done the same with a Layers of Fear that sees how this new installment is the most complete version of the saga of the Poles.",
+          "Since its announcement, this <a href='https://www.3djuegos.com/juegos/layers-of-fear-2023/'><em>Layers of Fear</em></a> has been thought of as a remake of the first game; a remake of the first two games and the DLC; there has even been talk of a third installment to close the trilogy. It's nothing like that, and at the same time it is. We are talking, remembering Cameron, of a very complete version, to which the rough edges have been smoothed out, of the extravagant work that he put on the studio's radar 6 years ago. A game that connects all the games in very clever ways, adding a dash of meaning to this hodgepodge of psychological horror along the way. And, like the director of <em>Avatar</em>, the move has turned out phenomenally for Bloober Team.",
+          "Being such a complex project to follow over time, with <em>Layers of Fear</em> and <em>Layers of Fear 2</em> that seemed to have little to do with each other, The Writer comes into play in this new installment. This one, who opens this new game, will be the link that will unite all the stories while offering a chance to explore many more concepts in this brilliantly built horror universe, and difficult to follow.",
+          "In narrative terms, it's a mega-project that surprises me that it doesn't come unstuck and fall apart. The story of this writer, whose name is unknown —although this is a keynote in the saga, we are disturbed minds in a destroyed world— will take us to spend a 'charming weekend in a lighthouse lost by the hand of God'. It is something very similar to the concept of <em>Alan Wake</em>, even that masterful Carpenter's In the <em>Mouth of Fear</em>, where a frustrated writer isolates himself so that solitude can give him peace while writing.",
+          "Best of all, without going into any spoilers, is that the new Layers of Fear works on two levels: it is perfect for the newbie, the one who has never played any game in the saga and is interested in this new release; as well as for the most veteran, like me. Best of all, neither of the two player profiles will feel absorbed during the more than 10 hours it lasts. Even those who know it from beginning to end, may feel attracted to see how Bloober herself revisits a saga that is barely 6 years old.",
+          "I don't usually bet strictly on one mode or the other, but I think that Layers of Fear is a game that I would recommend enjoying in this second quality option. It is a slow, contemplative action, with a lot of reading and environmental oppression. Ray Tracing in Quality mode fully attacks lighting. The reflections look 'worse' stopped, but it is in the treatment of light and Ambient Occlusion with the shadows colliding between impossible structures, where the real graphic difference with its predecessors is noticeable."
+        ],
+        "imageLanding": "https://i.blogs.es/24b757/layers-of-fear-analisis-13-/1366_2000.jpeg",
+        "date": "2023-07-15T13:00:00Z",
+        "views": 395,
+        "images" : ["https://i.blogs.es/ccd103/layers-of-fear-analisis-10-/1366_2000.jpeg", "https://i.blogs.es/caf1fb/layers-of-fear-analisis-7-/1366_2000.jpeg"],
+        "mainTag": "layers of fear (2023)",
+        "analysis": {
+          "title": "Of remakes and reissues",
+          "img": "https://i.blogs.es/2f7601/layers-of-fear-analisis-11-/500_500.jpeg",
+          "average": 9,
+          "pros": [
+            "The game includes Layers of Fear, Layers of Fear 2 and Inheritance, all adapted to the new generation.",
+            "It's not just a remake, it's a more complete version of this horror universe.",
+            "The new story of The Writer, which gives meaning to all the previous games, is a 'Layers of Fear 3' in disguise.",
+            "It is the same story. There are no menus to switch between games, everything happens continuously with The Writer as a link.",
+            "Perfect for newbies and veterans."
+          ],
+          "resume": "This updated version of the Bloober Team saga is more than just a remake. In terms of visuals and audio, the game more than complies, offering an even more oppressive experience than the one we were able to enjoy a few years ago. In addition, the fact that the Bloober Team has orchestrated such a feat when it comes to shaping a whole saga, adding a new story and trying to give coherence to a whole universe of terror, both for fans and for new players. , and that along the way it has gone well, is to be applauded."
+        },
+        "tags": [
+          {
+            "name": "analysis"
+          },
+          {
+            "name": "layers of fear (2023)"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "bloober team"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox series s"
+          },
+          {
+            "name": "xbox series x"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "ALBERTO PASTOR",
+          "imageProfile": "https://www.gravatar.com/avatar/744b6584240c4a91c46ed2709f0b52b0?s=300&d=mm&r=g", 
+          "url": "#"
+        },
+        "id": "its-as-if-alien-isolation-and-resident-evil-had-a-child",
+        "title": "It's as if Alien Isolation and Resident Evil had a child, and the result is terrifying. Analysis of Amnesia The Bunker",
+        "subTitle": "One of the most prestigious horror sagas in the video game industry returns with a game that is not afraid to innovate",
+        "article": [
+          "It's such a harrowing game that for the first few hours, when everything in it is still disturbingly dark, I needed to unplug every few minutes. He would literally quit the game because 'I can't take it anymore'. The funny thing is that just a few moments later there he was again, face to face with that grotesque creature, trapped in a World War I bunker without really knowing where to go. It's nothing new in the <em>Amnesia</em> saga, which has always mastered the art of instilling fear in the body, but this new horror adventure from Frictional Games breaks the trend of its latest episodes, more narratives than survival horror, to directly face one of the most distressing and terrifying experiences of recent times. And that this is the first time you have a weapon to defend yourself from the monster that lurks in the shadows. Well, even so, <strong><em>Amnesia The Bunker</em></strong> is scary.",
+          "Death is more present than ever and has greater consequences than what we have seen in the latest games from the studio. If the creature catches you and you haven't saved the game... good bye, try again. But <em>The Bunker</em> is also more than just a 'mouse game' where you just run and hide from the monster. Exploration is more important than ever; You also have many more objects to interact with, and these are such a scarce resource that on more than one occasion you will find yourself deciding between taking one thing or another while a horrifying being roars from the darkness. Everything in this game is designed to give you a hard time, so if it's what you're looking for, if it's what you've been waiting for years, pay attention to the analysis of <a href='https://www.3djuegos.com/juegos/amnesia-the-bunker/'><em>Amnesia: The Bunker</em></a> because you're about to enter hell itself.",
+          "It has been a recurring criticism in recent Frictional Games games. His stories are incredible; They have moments of those that you don't easily forget because they end up leaving you with a very bad body (that ending of the fascinating Soma...), but when it comes to playing they have gradually lowered the difficulty in favor of a narrative experience without too much interference. <em>The Bunker</em> does just the opposite. It puts you in the middle of a scenario that you can explore freely from the beginning and more than the story, which there is, what matters here is to escape with your life using a wide variety of objects and tools that you find randomly on the scene. You read well.",
+          "One of the peculiarities of <em>Amnesia The Bunker</em> is that each game is different from the previous one because although the objective is always the same, to escape using dynamite and a detonator, the key resources you need to achieve it change position. In this sense, the game has a lot of the legendary <em>Resident Evil</em> because over and over again it makes you go from here to there, like in the Spencer Mansion, in search of solutions to problems that you have found in the exact opposite direction. The dynamite is in the arsenal, of course, but to get there first you have to open a hatch using a key that is hidden in a dark corner of the bunker, which you can only access if you have first found a wrench that someone hid in it. your locker, or in your bedroom, or wherever. And now comes the good part, of course. Do all this while escaping from a creepy creature that has a bad habit of appearing at the most inopportune moment.",
+          "<em>Amnesia The Bunker</em> is the first game in the series to put a weapon in your hands, but you can get an idea of how effective it is, right? You're barely out of bullets, reloading the revolver is excruciatingly slow, and in the vein of the terrifying <em>Alien Isolation</em>, it only allows you to scare the creature away for a few moments. After the shot, she'll come back angrier than before, which is the last thing you want to see. Frictional Games does this so well that even shooting a padlock to open a door is truly terrifying. It is a deafening explosion; a roar that leaves you stunned for a few moments and almost makes you feel guilty for what you just did. 'It's coming', you tell yourself as you run looking for a hiding place. It is here where you discover another of the great novelties of the game: freedom of action.",
+          "It is also true that there comes a point where you lose your fear of the monster, not because it stops being lethal, it always is; but rather, because sometimes it seems that going rough is more effective than walking in the dark keeping all your resources intact. Come on, a good explosion followed by a run in extremis to a safe place is not as bad an idea as it seems. But before reaching that point, it is most likely that you have enjoyed one of the most terrifying and anguishing experiences in recent years that surprises with its impressive sound section, but also with that brilliant play of light and shadow that manages to drive you crazy every time. that the creature is near. Don't be fooled by the opening bars of <em>Amnesia: The Bunker</em>, they seemed horrible to me, that when you enter the bunker everything changes, and it is difficult not to be impressed with many of the terrifying images with which the game has the pleasure of delight you."
+        ],
+        "imageLanding": "https://i.blogs.es/da2e86/unnamed/1366_2000.jpeg",
+        "date": "2023-07-16T09:00:00Z",
+        "views": 405,
+        "images" : ["https://i.blogs.es/deb363/image021/1366_2000.jpeg", "https://i.blogs.es/174901/image011/1366_2000.jpeg"],
+        "mainTag": "amnesia: the bunker",
+        "analysis": {
+          "title": "On the brink of heart attack",
+          "img": "https://i.blogs.es/7414d6/2/500_500.png",
+          "average": 9,
+          "pros": [
+            "Each game is different because the objects change position and the keys are different.",
+            "Death has greater consequences than in previous games.",
+            "You are free to explore the bunker as you wish and also solve its puzzles in several different ways.",
+            "The beast is drawn to blood and noise. Unfortunately for us, the flashlight generates a lot of noise.",
+            "A spectacular game in sound. He knows how to put fear in your body without having to show the monster."
+          ],
+          "resume": "Few studios master the art of scaring as well as the Frictional Games team, which even when they propose a more contained game, more -a priori- smaller, continue to show that very few are capable of matching the oppressive and distressing atmosphere of the Amnesia universe. . Going through the dark corridors of the claustrophobic bunker that gives its name to the game has been a terrifyingly fun experience that has caused me more than one scare, and the urgent need to leave the game even for a few minutes, to control my nerves. It loses some of its strength in its final stretch, but even so, with that story and all those lurid moments, if you're a fan of survival horror you shouldn't miss out on this game that's reminiscent of the first Resident Evil or Alien Isolation."
+        },
+        "tags": [
+          {
+            "name": "analysis"
+          },
+          {
+            "name": "amnesia: the bunker"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series s"
+          },
+          {
+            "name": "xbox series x"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "ALEJANDRO PASCUAL",
+          "imageProfile": "https://www.gravatar.com/avatar/2215219b31cb3fe8ceff222b0940c65e?s=300&d=mm&r=g", 
+          "url": "#"
+        },
+        "id": "this-game-explores-trauma-through-terror-and-beautiful-but-grotesque-pixel-art",
+        "title": "This game explores trauma through terror and beautiful but grotesque pixel art",
+        "subTitle": "The work has melodies by Akira Yamaoka to tell a story about the fragility of the mind and overcoming",
+        "article": [
+          "The first time I saw the trailer for <strong><em>Decarnation</em></strong> it caught my attention instantly. The two highlights of it are, in fact, the ones I've found in the final game: a really beautiful and worked style of pixel art, which does not skimp on animations for anything that reinforces the plot; and a story where terror is used in its most psychological aspect to address trauma in all its complexity.",
+          "As the writer Ismael Martínez Biurrum explains in his essay I am what persecutes me. Terror as a fiction of trauma, the true terror is not in the monster itself nor in its grotesque proportions, but in the perspective and the damaged mind of the one who is harassed by these nightmares. Faced with a conflict, a truth that is too painful or damage that is too deep, the mind is capable of forming a story that is vividly expressed in good horror fiction. A kind of magical realism in the form of teeth, eyes and tentacles that oppress us.",
+          "We have seen this way of applying terror in movies like Black Swan and in video games like <em>Silent Hill</em>. They are undoubtedly two key fictions to understand <a href='https://www.3djuegos.com/juegos/decarnation/'><em>Decarnation</em></a> that even so knows how to apply the lessons of the genre to its own history. Gloria's: a cabaret dancer in late 1980s Paris whose life already falters a bit before it completely falls apart. Her future as a dancer is uncertain when she is close to thirty and her relationship with her girlfriend is not going through her best moment. But it all comes crashing down when the unthinkable happens. An event that deeply marks the course of events and plunges Gloria and the player into a spiral of uncomfortable situations, which are reinforced by nightmares and grotesque thoughts that arise from Gloria's fragile mind.",
+          "<em>Decarnation</em> is an experience that, if you are looking for something beyond the action mechanics of the medium, deserves your attention. But this does not mean that we must not stop paying attention to the friction that the game presents when it tries to belong to our environment. I have always defended the artist's right to use the game as a narrative platform, even without the need to provide addictive mechanics that challenge the player, or test reflexes. I defend the right of the walking simulator to be a video game.",
+          "Playing <em>Decarnation</em>, on the other hand, one gets the feeling that (curiously for a story that deals with this) the author succumbs to the fears of this type of completely narrative works. Not to be too video game. To do this, its 5-6 hours are filled with various mini-games and tests that do not contribute anything at all. On some occasions they will only take a few minutes from us, while on others they are large portions in which we have to search for objects or interact with the stage. But all of them have something in common: not only do they add nothing to the story and simply serve to make it feel more like a video game, but they cut the pace of the narrative, lengthening a story that would have felt more focused and light without all these mechanics.",
+          "All in all, under these fears that we all carry and to which we all succumb from time to time, the first work of Atelier QDB, designed by ex-<em>Assassin's Creed</em> designer Quentin de Beukelair, is something that I would like to see more of in our format. . There is a unique sensibility that is even more sharpened by the beauty of its pixel and by the great soundtrack from which, curiously, Akira Yamaoka composes some of his pieces, and the ones that you will remember the most are the ones that have lyrics and accompany great moments of the plot. It is a pity that he has not found in the video game a way to reinforce his message."
+        ],
+        "imageLanding": "https://i.blogs.es/96e763/decarnation-juego-analisis-review-resena-opinion/1366_2000.jpeg",
+        "date": "2023-07-12T18:00:00Z",
+        "views": 405,
+        "images" : ["https://i.blogs.es/2c2a1f/20230530131446_1/1366_2000.jpeg", "https://i.blogs.es/bd46d2/20230530113700_1/1366_2000.jpeg"],
+        "mainTag": "decarnation",
+        "analysis": {
+          "title": "Trauma in pixel art",
+          "img": "https://i.blogs.es/54ec6b/20230530120032_1/500_500.jpeg",
+          "average": 6,
+          "pros": [
+            "It explores profound themes, including trauma and the reification of the female body.",
+            "It tells the story of Gloria, a cabaret dancer to whom something terrible happens.",
+            "A very successful and striking pixel art style.",
+            "It is created by a former member of Ubisoft who has formed his own studio.",
+            "It features melodies by Akira Yamaoka and memorable sung pieces."
+          ],
+          "resume": "Decarnation immerses us in a deep and psychologically intense narrative, addressing the trauma and objectification of the female body, through its protagonist Gloria. It has a beautiful pixel art style and a memorable soundtrack, plunging us into a surreal version of late 80s Paris. However, it is also overshadowed by its attempt to include unnecessary gameplay mechanics that interrupt the narrative and detract from the story. overall experience. Instead of adding challenge and excitement, these mechanics seem like simply attempts to make Decarnation feel more like a traditional 'video game', leading to more moments of frustration than immersion. Despite these drawbacks, Decarnation has a unique ability to tell a story that uses terror to address trauma, while also being captivating."
+        },
+        "tags": [
+          {
+            "name": "analysis"
+          },
+          {
+            "name": "decarnation"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "shiro games"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "ALEJANDRO PASCUAL",
+          "imageProfile": "https://www.gravatar.com/avatar/2215219b31cb3fe8ceff222b0940c65e?s=300&d=mm&r=g", 
+          "url": "#"
+        },
+        "id": "if-you-were-afraid-that-blizzard-would-disappoint-with-its-new-action-rpg",
+        "title": "If you were afraid that Blizzard would disappoint with its new action RPG, get ready because what awaits you is brutal",
+        "subTitle": "Blizzard returns through the front door with a dark and bloody role-playing game that cannot be missing from your collection",
+        "article": [
+          "You fight against so many enemies at once. You face one battle after another so wild and frenzied, fearsome demons with devastating force, that in the end you are exhausted from all this carnage. But blessed slaughter. Devil is back! And you can't imagine how happy he makes me because of this brutal crusade; This bloody descent into hell is all I could ask for at the return of one of the sagas of my life. There have been more than 50 hours of continuous massacre. To fight endlessly against endless hordes of bloodthirsty monsters. And even though I've finished with thousands of them I still want more. That's how good Diablo IV is. A spectacular action rpg that masterfully takes its fierce combats to the open world without losing a bit of everything that makes this Blizzard series great.",
+          "The result is a huge game that never seems to end; that always finds a way to surprise you with even more explosive battles and that also traps you with a dark and cruel story full of 'moments' capable of setting your heart a thousand miles an hour. So yes. Devil is back. And he has done it through the front door. I tell you everything WITHOUT SPOILERS in this analysis of <strong><em>Diablo 4</em></strong>.",
+          "Since the mythical <em>Diablo 2</em>, this bloody fantasy universe has become my personal sanctuary. I always come back to him; I always find the excuse to resume an old game. So the fear has always been there. And if it's not up to it? What if Blizzard has lost its touch? The good thing is that the doubts are cleared as soon as you fight your first fights against the demons. It is tremendous. A festival of death and destruction that makes you feel indestructible, and at the same time, also tremendously fragile because the enemies attack with such ferocity that a carelessness can end in atrocious death in just a few seconds.",
+          "<a href='https://www.3djuegos.com/juegos/diablo-iv/'><em>Diablo IV</em></a> is full of surprises and plenty of nods to other games in the series, so if you're a fan, you'll enjoy the references even more. And beware, we are talking about a fairly long game. The duration of <em>Diablo 4</em> if you go directly to the main missions is around 30 hours, but in each and every one of the five large regions that make up Sanctuary there are dozens of secondary missions that can increase the duration to 80 or 100 hours. That's not to mention the end game, which from what I've seen looks great. There are special missions on the one hand with their own rewards, and also areas of the map that are randomly thrown into chaos, presenting extreme challenges with their own unique resources and prizes. Come on, if it's not secondary and dungeons, it's going to be ultra-difficult battles, but the game has a lot to offer on your way to reaching level 100.",
+          "I'll end by talking about the graphics, although I don't need to go on too long either because, you see, the game looks outrageously good. The design of the scenarios is a joy: they are bloody, dark and very varied between them, although what has surprised me the most is how well the different areas of the open world are connected, and how the transition between them feels logical and natural . There are cold steppes, snowy peaks, sand dunes in the desert, ruins in the middle of nowhere, or even swampy areas. When you get the horse, which I already warn you is going to take a few hours, getting lost in all these places is a great pleasure. Especially since the soundtrack is also at a very high level with a wide variety of songs that immerse you fully in the action of <em>Diablo</em>.",
+          "With all these virtues it is difficult not to be happy with <em>Diablo IV</em>. It is a game that does not need more than a couple of hours to erase any doubt you may have with it, and the result is a memorable adventure that captivates like few games can."
+        ],
+        "imageLanding": "https://i.blogs.es/2503dc/diablo-4-analisis-review-resena-opinion/1366_2000.jpeg",
+        "date": "2023-07-14T14:00:00Z",
+        "views": 605,
+        "images" : ["https://i.blogs.es/efede9/d401/1366_2000.jpeg", "https://i.blogs.es/d8dd6a/diablo6/1366_2000.jpeg"],
+        "mainTag": "diablo 4",
+        "analysis": {
+          "title": "Glory to Diablo",
+          "img": "https://i.blogs.es/c78f71/diablo-iv-nuevas-imagenes_0043_sorc_04/500_500.jpeg",
+          "average": 9,
+          "pros": [
+            "It is the darkest story in the entire saga, and also the most mature.",
+            "The final boss fights are spectacular and challenging.",
+            "The dungeons have a simple design, but they make up for it with exciting combat.",
+            "Great freedom to customize your hero. You can make him fight totally different from another of his same class.",
+            "The end game is promising. There is a lot to do after finishing the story."
+          ],
+          "resume": "Slaying demons in Diablo 4 has been an incredible experience. It has been 50 tremendous hours; an unforgettable journey filled with memorable battles and exciting surprises. And despite having played so much, I still want more because it seems that I have barely scratched the surface of a huge game full of quality content. Blizzard has covered the world of Sanctuary with endless dark secrets and fearsome battlefields that never seem to end. And even when you finish the story, it keeps revealing more and more secrets; more and more extreme challenges only suitable for the bravest. This game is the best gift that fans of the Diablo saga could receive. A bloody fantasy that you cannot miss."
+        },
+        "tags": [
+          {
+            "name": "analysis"
+          },
+          {
+            "name": "diablo 4"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "blizzard"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series s"
+          },
+          {
+            "name": "xbox series x"
+          }
+        ]
+      },
+      {
+        "author": {
+          "name": "IVÁN LERNER",
+          "imageProfile": "https://www.gravatar.com/avatar/028973feb9ff32c705b050aadaccf705?s=300&d=mm&r=g", 
+          "url": "#"
+        },
+        "id": "i-have-it-very-clear-the-goty-of-fights-for-the-year-2023-is-already-here",
+        "title": "I have it very clear, the GOTY of fights for the year 2023 is already here",
+        "subTitle": "It has more competition than ever, but Capcom's pulse is not trembling to bring out the possible 'fighting game of the generation of PS5 and Xbox Series X | S.",
+        "article": [
+          "If there is only one brand that represents fighting games, it is clearly <em>Street Fighter</em>. The Capcom franchise has been waging war for more than 30 years and fighting for the podium in a genre that is becoming more and more competitive. Its sixth numbered installment, <strong><em>Street Fighter 6</em></strong>, is about to drop, and it aims to be one of the most powerful bombings of the year. But the fighting game genre is now more demanding than it was before, what does this new game have to become the 2023 fighting GOTY? The truth is that a lot, and it all started with his first appearance in public.",
+          "Despite playing very similar to <em>SF5</em> at first glance, the new <em>Street Fighter</em> has made many changes to its recipe. For starters, as I said before, the aesthetics of the game is radically different. Breaking quite a bit with the previous installments (which, for my taste, had been anchored in <em>Street Fighter 3</em> for a long time), <a href='https://www.3djuegos.com/juegos/street-fighter-6/'><em>SF6</em></a> relies entirely on the 'Street' in its name. It is an intense game, with a very, very marked artistic style and brutal power. With powerful animations, eye-catching effects, and highly stylized designs, it exudes personality throughout.",
+          "At a playable level, this new installment of the saga does not reinvent anything, something to be expected to keep its player base, but it does add a controversial element: the Drive System. With a new special bar, you'll have access to 5 new movement types that give duels in the game more depth and opportunities to turn the tables. With the Drive bar, you will be able to do an Impact (super armor attack that will leave the enemy at the mercy of a new combo), Parry (which will allow you to block almost any movement with just one button), Overdrive (the equivalent of EX in this game), Rush (a way to close distances through other moves to create better combos) and Reversal (which will get you out of pressure situations if executed well). Yes, I know that on paper this “sounds like a lot”, but in reality it is not so much.",
+          "The efforts of the Japanese firm to attract new players do not end here: along with the control scheme of a lifetime (you know, the one with the croissants that we have been using since the 80s), we also have a modern mode and another assisted mode that will simplify Lots of action, though that doesn't mean you'll be given an unfair advantage at the push of a button. Although it is true that both are created to facilitate the gameplay (with the modern scheme simply reducing the number of inputs you must make, while the assisted one almost 'plays for you'), they also reduce the variety of commands and offensive possibilities, in addition Not to be, under any circumstances, a substitute for the knowledge and game feel that are only acquired with your experience in the ring.",
+          "If you've been following <em>Street Fighter 6</em> since its first trailer, I'm sure this mode has been one of the things that has caught your attention the most. Putting you at the center of the action through a 100% customizable avatar (and what a game-consuming character editor!), you'll be in the eye of the hurricane of an international conspiracy. In your investigation, you will not only explore the open world of Metro City, but also iconic cities around the world to meet all the protagonists of the game.",
+          "The dozens of hours I've spent on <em>Street Fighter 6</em> have not only delighted me, but have made it clear to me that Capcom's new golden age is a reality. With the string of successes that it has been accumulating, it is clear that it is one of the developers and publishers that best understands not only its community, but also the video game industry. This sixth installment of the Capcom saga is proof that the Japanese company knows what makes its brand special and what the fighting game genre needs in 2023."
+        ],
+        "imageLanding": "https://i.blogs.es/c06fb4/street-fighter-6-analisis-web/1366_2000.jpeg",
+        "date": "2023-07-17T08:00:00Z",
+        "views": 563,
+        "images" : ["https://i.blogs.es/4c7fa6/image084/1366_2000.jpeg", "https://i.blogs.es/28c3cf/ss_10191fb5ab48cee99d7a43e636db9202938f143e.1920x1080/1366_2000.jpeg"],
+        "mainTag": "street fighter 6",
+        "analysis": {
+          "title": "The king returns in style",
+          "img": "https://i.blogs.es/c78f71/diablo-iv-nuevas-imagenes_0043_sorc_04/500_500.jpeg",
+          "average": 9,
+          "pros": [
+            "It has a modest cast of characters, although with a lot of charisma and variety.",
+            "The first DLC characters of him are already announced: Rashid, A.K.I., Ed and Akuma.",
+            "It uses Capcom's RE Engine and is perfectly optimized on PC, without jerks or frame drops.",
+            "The World Tour mode is a lot of fun and can be a real load of hours, both offline and online.",
+            "If this is your first Street Fighter, Capcom is going to teach you how to play so you don't get overwhelmed."
+          ],
+          "resume": "With Street Fighter's pedigree, it's nice to see a release worthy of the saga. Capcom brings us one of the best releases I've seen in the history of fighting games and a strong candidate to be the king of the scene for the entire generation. The future will be decided with the news that they plan to include over the next 6-7 years, of course, but dedicating myself body and soul to this premiere has made one thing clear to me: if Street Fighter 6 follows the trajectory of its older version early, the competition is going to have a very difficult time snatching the championship belt from him."
+        },
+        "tags": [
+          {
+            "name": "analysis"
+          },
+          {
+            "name": "street fighter 6"
+          },
+          {
+            "name": "pc gaming"
+          },
+          {
+            "name": "capcom"
+          },
+          {
+            "name": "ps4"
+          },
+          {
+            "name": "ps5"
+          },
+          {
+            "name": "xbox one"
+          },
+          {
+            "name": "xbox series s"
+          },
+          {
+            "name": "xbox series x"
           }
         ]
       }

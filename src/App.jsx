@@ -6,15 +6,30 @@ import {
   Latest,
   Login,
   NotFound,
+  Profile,
   Register,
   Releases,
+  Results,
   Reviews,
   Tag,
   Trending
 } from './pages';
-import { Navbar, Footer } from './components';
+import { onAuthStateChanged } from 'firebase/auth';
+import { useDispatch } from 'react-redux';
+import { useEffect } from 'react';
+
+import { Navbar, Footer, ProtectedRoute, ScrollToTop } from '@components';
+import { auth } from './firebase.config';
+import { setAuth } from '@redux/slices/auth';
 
 function App() {
+  const dispatch = useDispatch();
+  useEffect(() => {
+    onAuthStateChanged(auth, (currentUser) => {
+      dispatch(setAuth(currentUser));
+    });
+  }, []);
+
   return (
     <main className="min-h-[calc(100vh-80px)] text-gray-200 bg-zinc-900">
       <Navbar />
@@ -29,12 +44,22 @@ function App() {
           <Route path="/reviews" element={<Reviews />} />
           <Route path="/tag/:tag" element={<Tag />} />
           <Route path="/news/:id" element={<Detail />} />
-          <Route path="trending" element={<Trending />} />
+          <Route path="/trending" element={<Trending />} />
+          <Route path="/search/:search" element={<Results />} />
+          <Route
+            path="/profile"
+            element={
+              <ProtectedRoute>
+                <Profile />
+              </ProtectedRoute>
+            }
+          />
           <Route path="/404" element={<NotFound />} />
           <Route path="*" element={<Navigate to="/404" replace />} />
         </Routes>
       </div>
       <Footer />
+      <ScrollToTop />
     </main>
   );
 }

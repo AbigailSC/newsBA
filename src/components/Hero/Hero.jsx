@@ -22,8 +22,8 @@ const Hero = () => {
             backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 1)),url(${news.imageLanding})`
           }}
         >
-          <span className="px-2 py-1 text-sm bg-orange-500 w-fit">
-            Video games
+          <span className="px-2 py-1 text-sm capitalize bg-orange-500 w-fit">
+            {news.mainTag}
           </span>
           <h3 className="font-semibold line-clamp-2 lg:text-lg 2xl:text-xl hover:underline">
             {news.title}

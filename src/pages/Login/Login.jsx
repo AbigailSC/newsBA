@@ -1,27 +1,20 @@
 import { useState } from 'react';
 import { Formik, Form } from 'formik';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
+import { useDispatch, useSelector } from 'react-redux';
 import { FaEye } from 'react-icons/fa';
-import * as Yup from 'yup';
-
+import { BiError } from 'react-icons/bi';
 import { Input } from '@components';
 
-const Login = () => {
-  const [showPassword, setShowPassword] = useState(false);
+import { signupUser, clearError } from '@redux/slices/auth';
+import { loginSchema } from '@utils/validationSchema';
 
-  const validationSchema = Yup.object({
-    email: Yup.string()
-      .email('Invalid email address')
-      .required('Email required'),
-    password: Yup.string()
-      .trim()
-      .required('Password required')
-      .min(8, 'Password must be at least 8 characters')
-      .matches(
-        /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[!@#$%^&*()])[A-Za-z\d!@#$%^&*()]{9,}$/,
-        'Password must contain at least one uppercase, one lowercase, one number and one special character'
-      )
-  });
+const Login = () => {
+  const dispatch = useDispatch();
+  const navigate = useNavigate();
+
+  const [showPassword, setShowPassword] = useState(false);
+  const { errors } = useSelector((state) => state.authState);
 
   const handleShowPassword = (e) => {
     e.preventDefault();
@@ -44,10 +37,20 @@ const Login = () => {
               email: '',
               password: ''
             }}
-            validationSchema={validationSchema}
-            onSubmit={(values, { resetForm }) => {
-              console.log(values);
-              resetForm();
+            validationSchema={loginSchema}
+            onSubmit={async (values, { resetForm }) => {
+              try {
+                const res = await dispatch(
+                  signupUser(values.email, values.password)
+                );
+                if (res) {
+                  resetForm();
+                  dispatch(clearError());
+                  navigate('/');
+                }
+              } catch (error) {
+                console.log(error.message);
+              }
             }}
           >
             {({ errors }) => (
@@ -55,7 +58,7 @@ const Login = () => {
                 <div className="flex flex-col gap-4 text-black">
                   <Input
                     label="Email"
-                    type="text"
+                    type="email"
                     name="email"
                     isError={errors.email}
                     placeholder="username@email.com"
@@ -81,6 +84,12 @@ const Login = () => {
               </Form>
             )}
           </Formik>
+          {errors && (
+            <span className="flex items-center justify-center w-full gap-1">
+              <BiError className="inline-block mr-1 text-xl text-red-600" />
+              <p className="text-red-600 ">{errors}</p>
+            </span>
+          )}
           <div className="flex items-center justify-between w-full">
             <div className="flex items-center w-full gap-2">
               <input type="checkbox" />

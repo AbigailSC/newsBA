@@ -3,5 +3,8 @@ export * from './getArticlesSeparated';
 export * from './getLastArticles';
 export * from './getSecondArticle';
 export * from './getTimeAgo';
+export * from './getTotalPages';
+export * from './getUserImg';
 export * from './gridClasslist';
 export * from './socialMedia';
+export * from './validationSchema';

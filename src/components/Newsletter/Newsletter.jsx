@@ -6,7 +6,7 @@ const Newsletter = () => {
       <div className="p-3 bg-orange-500 rounded-full w-min">
         <FaBell className="text-xl text-gray-50" />
       </div>
-      <span className="text-lg">Suscribe to our newsletter</span>
+      <span className="text-lg">Subscribe to our newsletter</span>
     </button>
   );
 };
