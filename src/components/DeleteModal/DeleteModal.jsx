@@ -2,8 +2,6 @@ import { useDispatch } from 'react-redux';
 import { deleteFavorite } from '@redux/slices/auth';
 
 const DeleteModal = ({ isOpen, onClose, onDelete, id }) => {
-  console.log('🚀 ~ file: DeleteModal.jsx:5 ~ DeleteModal ~ id:', id);
-
   const dispatch = useDispatch();
   const handleDelete = (id) => {
     dispatch(deleteFavorite(id));

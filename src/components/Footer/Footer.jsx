@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 
 const Footer = () => {
-  const news = ['Analysis', 'Latest', 'Releases', 'Reviews', 'Trending'];
+  const news = ['Analysis', 'Latest', 'Releases', 'Trending'];
   const social = ['Facebook', 'Twitter', 'Instagram', 'YouTube'];
   const other = ['About Us', 'Privacy Policy', 'Terms', 'Contact us'];
 

@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
+import { Link } from 'react-router-dom';
 
 import { Hero, Latest } from '@components';
 import { selectHeroLandingNews, selectLatestNews } from '@redux/slices/news';
@@ -17,9 +18,12 @@ const Home = () => {
       <Hero />
       {latestNews && <Latest name="Latest" collection={latestNews} />}
       <div className="flex justify-center w-full">
-        <button className="px-5 py-2 text-white bg-orange-500 rounded-md ">
+        <Link
+          to="/latest"
+          className="px-5 py-2 text-white bg-orange-500 rounded-md "
+        >
           Load More
-        </button>
+        </Link>
       </div>
     </section>
   );

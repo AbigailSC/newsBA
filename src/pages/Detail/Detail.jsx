@@ -2,8 +2,9 @@
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
-import { clearDetailOfNews } from '@redux/slices/news';
+import { clearDetailOfNews, selectDetailOfNews } from '@redux/slices/news';
 import { RelatedNew, SocialMedia, Tags, AddFavorite } from '@components';
+import { useParams } from 'react-router-dom';
 
 import {
   applyAnchorStyles,
@@ -15,6 +16,7 @@ import {
 
 const Detail = () => {
   const dispatch = useDispatch();
+  const { id } = useParams();
   const { detail } = useSelector((state) => state.newsState);
   const { isAuth, user, favorites } = useSelector((state) => state.authState);
 
@@ -29,6 +31,7 @@ const Detail = () => {
   const validate = isAuth !== null && user !== null;
   const isAdded = favorites.some((fav) => fav.id === detail.id);
   const verifyIsLiked = validate && isAdded;
+  const isAnalysis = detail.tags[0].name === 'analysis';
 
   useEffect(() => {
     return () => {
@@ -37,6 +40,10 @@ const Detail = () => {
       }
     };
   }, [dispatch]);
+
+  useEffect(() => {
+    dispatch(selectDetailOfNews(id));
+  }, []);
 
   return (
     <div className="flex flex-col gap-20 xl:w-full">
@@ -119,7 +126,9 @@ const Detail = () => {
               ></p>
             ))}
           </div>
+          {isAnalysis && <p>holii</p>}
         </article>
+
         <div className="flex flex-col gap-10 px-5 md:px-16 lg:px-24 xl:w-full xl:max-w-screen-2xl 2xl:px-0 xl:px-20 2xl:max-w-screen-xl 2xl:self-center">
           {!verifyIsLiked && (
             <AddFavorite id={detail.id} title={detail.title} />
