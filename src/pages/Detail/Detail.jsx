@@ -3,7 +3,13 @@ import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
 import { clearDetailOfNews, selectDetailOfNews } from '@redux/slices/news';
-import { RelatedNew, SocialMedia, Tags, AddFavorite } from '@components';
+import {
+  RelatedNew,
+  SocialMedia,
+  Tags,
+  AddFavorite,
+  AnalysisDetail
+} from '@components';
 import { useParams } from 'react-router-dom';
 
 import {
@@ -126,8 +132,14 @@ const Detail = () => {
               ></p>
             ))}
           </div>
-          {isAnalysis && <p>holii</p>}
         </article>
+        {isAnalysis && (
+          <AnalysisDetail
+            data={detail?.analysis}
+            game={detail.mainTag}
+            author={detail.author}
+          />
+        )}
 
         <div className="flex flex-col gap-10 px-5 md:px-16 lg:px-24 xl:w-full xl:max-w-screen-2xl 2xl:px-0 xl:px-20 2xl:max-w-screen-xl 2xl:self-center">
           {!verifyIsLiked && (
