@@ -8,10 +8,6 @@ import { FavoriteAddedModal } from '@components';
 const AddFavorite = ({ id, title }) => {
   const dispatch = useDispatch();
   const [showModal, setShowModal] = useState(false);
-  console.log(
-    '🚀 ~ file: AddFavorite.jsx:11 ~ AddFavorite ~ showModal:',
-    showModal
-  );
 
   const handleAddFavorite = (id, title) => {
     dispatch(addFavorite(id, title));
@@ -21,10 +17,6 @@ const AddFavorite = ({ id, title }) => {
   useEffect(() => {
     setTimeout(() => {
       setShowModal(false);
-      console.log(
-        '🚀 ~ file: AddFavorite.jsx:11 ~ AddFavorite ~ showModal:',
-        showModal
-      );
     }, 5000);
   }, [showModal]);
 

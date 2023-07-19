@@ -39,6 +39,8 @@ const Detail = () => {
   const verifyIsLiked = validate && isAdded;
   const isAnalysis = detail.tags[0].name === 'analysis';
 
+  const tagModified = detail.mainTag.replace(/\s/g, '-').toLowerCase();
+
   useEffect(() => {
     return () => {
       if (import.meta.env.VITE_APP_NODE_ENV !== 'development') {
@@ -95,7 +97,9 @@ const Detail = () => {
               <p
                 className="leading-relaxed tracking-wide"
                 key={index}
-                dangerouslySetInnerHTML={{ __html: applyAnchorStyles(item) }}
+                dangerouslySetInnerHTML={{
+                  __html: applyAnchorStyles(item, tagModified)
+                }}
               ></p>
             ))}
           </div>
@@ -105,7 +109,9 @@ const Detail = () => {
               <p
                 className="leading-relaxed tracking-wide"
                 key={index}
-                dangerouslySetInnerHTML={{ __html: applyAnchorStyles(item) }}
+                dangerouslySetInnerHTML={{
+                  __html: applyAnchorStyles(item, tagModified)
+                }}
               ></p>
             ))}
           </div>
@@ -128,7 +134,9 @@ const Detail = () => {
               <p
                 className="leading-relaxed tracking-wide hyphens-auto"
                 key={index}
-                dangerouslySetInnerHTML={{ __html: applyAnchorStyles(item) }}
+                dangerouslySetInnerHTML={{
+                  __html: applyAnchorStyles(item, tagModified)
+                }}
               ></p>
             ))}
           </div>
