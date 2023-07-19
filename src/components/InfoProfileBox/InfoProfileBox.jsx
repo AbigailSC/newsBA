@@ -14,7 +14,7 @@ const InfoProfileBox = ({ length }) => {
     }
   ];
   return (
-    <div className="flex items-center justify-center w-full h-20 gap-5 px-5 py-2">
+    <div className="flex items-center justify-center w-full h-20 max-w-sm gap-5 px-5 py-2 lg:py-0">
       {data.map((item, index) => (
         <div
           key={index}
