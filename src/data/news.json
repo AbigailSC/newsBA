@@ -1439,7 +1439,7 @@
         "date": "2023-07-01T08:30:00Z",
         "views": 590,
         "images" : [],
-        "externalData": "<iframe allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen='' frameborder='0' height='315' src='https://www.youtube.com/embed/PIYMn8eDskg' width='560'></iframe>",
+        "externalData": "<iframe allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen='' frameborder='0' height='315' src='https://www.youtube.com/embed/PIYMn8eDskg' width='100%'></iframe>",
         "mainTag": "overwatch",
         "tags": [
           {

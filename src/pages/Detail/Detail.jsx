@@ -118,7 +118,7 @@ const Detail = () => {
           {detail.images.length === 0 ? (
             <div className="flex pt-5 md:mx-auto">
               <div
-                className="min-w-[320px] md:min-w-[500px]"
+                className="w-full md:min-w-[500px] lg:min-w-[600px] aspect-video"
                 dangerouslySetInnerHTML={{ __html: detail.externalData }}
               />
             </div>
