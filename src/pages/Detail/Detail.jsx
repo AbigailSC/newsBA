@@ -36,16 +36,10 @@ const Detail = () => {
   const lastArticles = getLastArticles(detail.article);
 
   const validate = isAuth !== null && user !== null;
-  console.log('🚀 ~ file: Detail.jsx:39 ~ Detail ~ validate:', validate);
 
   const isAdded = favorites.some((fav) => fav.id === detail.id);
-  console.log('🚀 ~ file: Detail.jsx:42 ~ Detail ~ isAdded:', isAdded);
 
-  const verifyIsLiked = validate && isAdded;
-  console.log(
-    '🚀 ~ file: Detail.jsx:41 ~ Detail ~ verifyIsLiked:',
-    verifyIsLiked
-  );
+  const verifyIsLiked = validate && !isAdded;
 
   const isAnalysis = detail.tags[0].name === 'analysis';
 
@@ -167,7 +161,13 @@ const Detail = () => {
         )}
 
         <div className="flex flex-col gap-10 px-5 md:px-16 lg:px-24 xl:w-full xl:max-w-screen-2xl 2xl:px-0 xl:px-20 2xl:max-w-screen-xl 2xl:self-center">
-          {verifyIsLiked && <AddFavorite id={detail.id} title={detail.title} />}
+          {verifyIsLiked && (
+            <AddFavorite
+              onClick={() => handleShowModalFavorite()}
+              id={detail.id}
+              title={detail.title}
+            />
+          )}
           <SocialMedia />
         </div>
         <div className="flex flex-col gap-5 px-5 md:px-16 lg:px-24 xl:w-full xl:max-w-screen-2xl 2xl:px-0 xl:px-20 2xl:max-w-screen-xl 2xl:self-center">

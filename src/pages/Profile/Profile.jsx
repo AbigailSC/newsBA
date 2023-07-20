@@ -5,8 +5,6 @@ import { Favorites, InfoProfileBox } from '@components';
 const Profile = () => {
   const { user, favorites } = useSelector((state) => state.authState);
   const username = user.user;
-  console.log('🚀 ~ file: Profile.jsx:8 ~ Profile ~ username:', username);
-
   const avatar = getUserImg(username.displayName);
 
   return (
