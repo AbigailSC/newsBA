@@ -1,5 +1,5 @@
 /* eslint-disable react/no-unknown-property */
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
 import { clearDetailOfNews, selectDetailOfNews } from '@redux/slices/news';
@@ -25,9 +25,10 @@ const Detail = () => {
   const { id } = useParams();
   const { detail } = useSelector((state) => state.newsState);
   const { isAuth, user, favorites } = useSelector((state) => state.authState);
+  const [showModal, setShowModal] = useState(false);
 
   const date = new Date();
-  const dateToCompare = new Date(detail.date);
+  const dateToCompare = new Date(detail?.date);
   const timeAgo = getTimeAgo(date, dateToCompare);
 
   const firstArticles = getFirstArticles(detail.article);
@@ -35,8 +36,17 @@ const Detail = () => {
   const lastArticles = getLastArticles(detail.article);
 
   const validate = isAuth !== null && user !== null;
+  console.log('🚀 ~ file: Detail.jsx:39 ~ Detail ~ validate:', validate);
+
   const isAdded = favorites.some((fav) => fav.id === detail.id);
+  console.log('🚀 ~ file: Detail.jsx:42 ~ Detail ~ isAdded:', isAdded);
+
   const verifyIsLiked = validate && isAdded;
+  console.log(
+    '🚀 ~ file: Detail.jsx:41 ~ Detail ~ verifyIsLiked:',
+    verifyIsLiked
+  );
+
   const isAnalysis = detail.tags[0].name === 'analysis';
 
   const tagModified = detail.mainTag.replace(/\s/g, '-').toLowerCase();
@@ -52,6 +62,13 @@ const Detail = () => {
   useEffect(() => {
     dispatch(selectDetailOfNews(id));
   }, []);
+
+  const handleShowModalFavorite = () => {
+    setShowModal(true);
+    setTimeout(() => {
+      setShowModal(false);
+    }, 5000);
+  };
 
   return (
     <div className="flex flex-col gap-20 xl:w-full">
@@ -150,9 +167,7 @@ const Detail = () => {
         )}
 
         <div className="flex flex-col gap-10 px-5 md:px-16 lg:px-24 xl:w-full xl:max-w-screen-2xl 2xl:px-0 xl:px-20 2xl:max-w-screen-xl 2xl:self-center">
-          {!verifyIsLiked && (
-            <AddFavorite id={detail.id} title={detail.title} />
-          )}
+          {verifyIsLiked && <AddFavorite id={detail.id} title={detail.title} />}
           <SocialMedia />
         </div>
         <div className="flex flex-col gap-5 px-5 md:px-16 lg:px-24 xl:w-full xl:max-w-screen-2xl 2xl:px-0 xl:px-20 2xl:max-w-screen-xl 2xl:self-center">

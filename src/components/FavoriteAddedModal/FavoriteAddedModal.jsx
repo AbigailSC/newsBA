@@ -1,7 +1,7 @@
 const FavoriteAddedModal = () => {
   return (
-    <div>
-      <p>New added successfully!</p>
+    <div className="bg-red-400">
+      <p className="text-9xl">New added successfully!</p>
     </div>
   );
 };
