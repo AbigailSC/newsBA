@@ -52,7 +52,7 @@ const Navbar = () => {
           {showUser && <Authentication />}
         </div>
         <div
-          className={`w-full lg:translate-x-[-400px] lg:left-0 lg:flex-col lg:gap-5 lg:items-end lg:bg-neutral-800 lg:min-h-screen lg:w-1/3 2xl:w-1/5 lg:absolute lg:top-0 lg:p-10 h-full ${
+          className={`w-full lg:left-0 lg:flex-col lg:gap-5 lg:items-end lg:bg-neutral-800 lg:min-h-screen lg:w-1/3 2xl:w-1/5 lg:absolute lg:top-0 lg:p-10 h-full ${
             showMenu
               ? 'flex lg:translate-x-0 transition-x duration-200 ease-linear'
               : 'hidden lg:flex lg:translate-x-[-400px] transition-x duration-200 ease-linear'

@@ -8,7 +8,8 @@ import {
   SocialMedia,
   Tags,
   AddFavorite,
-  AnalysisDetail
+  AnalysisDetail,
+  FavoriteAddedModal
 } from '@components';
 import { useParams } from 'react-router-dom';
 
@@ -19,7 +20,6 @@ import {
   getSecondArticle,
   getLastArticles
 } from '@utils';
-import FavoriteAddedModal from '../../components/FavoriteAddedModal/FavoriteAddedModal';
 
 const Detail = () => {
   const dispatch = useDispatch();
@@ -27,6 +27,7 @@ const Detail = () => {
   const { detail } = useSelector((state) => state.newsState);
   const { isAuth, user, favorites } = useSelector((state) => state.authState);
   const [showModal, setShowModal] = useState(false);
+  console.log('🚀 ~ file: Detail.jsx:30 ~ Detail ~ showModal:', showModal);
 
   const date = new Date();
   const dateToCompare = new Date(detail?.date);
