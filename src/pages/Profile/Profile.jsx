@@ -5,6 +5,7 @@ import { Favorites, InfoProfileBox } from '@components';
 const Profile = () => {
   const { user, favorites } = useSelector((state) => state.authState);
   const username = user.user;
+  console.log('🚀 ~ file: Profile.jsx:8 ~ Profile ~ username:', username);
 
   const avatar = getUserImg(username.displayName);
 
@@ -19,7 +20,7 @@ const Profile = () => {
           }}
         >
           <img
-            src={avatar}
+            src={username.photoURL === null ? avatar : username.photoURL}
             alt="username avatar"
             className="absolute bottom-0 w-32 left-1/2 right-1/2 transform translate-x-[-50%] translate-y-1/2 rounded-full border-zinc-200 border-[3px]"
           />

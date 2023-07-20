@@ -3,7 +3,7 @@ import { Formik, Form } from 'formik';
 import { Link, useNavigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 
-import { FaGoogle, FaGithub, FaEye } from 'react-icons/fa';
+import { FaEye } from 'react-icons/fa';
 import { BiError } from 'react-icons/bi';
 
 import { Input } from '@components';
@@ -106,17 +106,7 @@ const Register = () => {
               </span>
             </label>
           </div>
-          <div className="flex flex-col items-center w-full gap-2">
-            <span>or continue with</span>
-            <div className="flex gap-2">
-              <button className="p-3 bg-orange-600 hover:bg-orange-700">
-                <FaGoogle />
-              </button>
-              <button className="p-3 bg-orange-600 hover:bg-orange-700">
-                <FaGithub />
-              </button>
-            </div>
-          </div>
+
           <div className="flex justify-center w-full gap-1">
             <p>Already have an account?</p>
             <Link className="text-orange-500 hover:underline" to="/login">

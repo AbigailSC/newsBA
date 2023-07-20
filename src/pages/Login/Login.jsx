@@ -2,11 +2,18 @@ import { useState } from 'react';
 import { Formik, Form } from 'formik';
 import { Link, useNavigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
-import { FaEye } from 'react-icons/fa';
+import { FaGoogle, FaGithub, FaFacebook, FaEye } from 'react-icons/fa';
 import { BiError } from 'react-icons/bi';
+
 import { Input } from '@components';
 
-import { signupUser, clearError } from '@redux/slices/auth';
+import {
+  signupUser,
+  signupGoogle,
+  signupFacebook,
+  signupGithub,
+  clearError
+} from '@redux/slices/auth';
 import { loginSchema } from '@utils/validationSchema';
 
 const Login = () => {
@@ -19,6 +26,42 @@ const Login = () => {
   const handleShowPassword = (e) => {
     e.preventDefault();
     setShowPassword(!showPassword);
+  };
+
+  const handleGoogleLogin = async () => {
+    try {
+      const res = await dispatch(signupGoogle());
+      if (res) {
+        dispatch(clearError());
+        navigate('/');
+      }
+    } catch (error) {
+      console.log(error.message);
+    }
+  };
+
+  const handleFacebookLogin = async () => {
+    try {
+      const res = await dispatch(signupFacebook());
+      if (res) {
+        dispatch(clearError());
+        navigate('/');
+      }
+    } catch (error) {
+      console.log(error.message);
+    }
+  };
+
+  const handleGithubLogin = async () => {
+    try {
+      const res = await dispatch(signupGithub());
+      if (res) {
+        dispatch(clearError());
+        navigate('/');
+      }
+    } catch (error) {
+      console.log(error.message);
+    }
   };
 
   return (
@@ -107,6 +150,29 @@ const Login = () => {
             <Link className="text-orange-500 hover:underline" to="/register">
               Create an Account
             </Link>
+          </div>
+          <div className="flex flex-col items-center w-full gap-2">
+            <span>or continue with</span>
+            <div className="flex gap-2">
+              <button
+                onClick={() => handleGoogleLogin()}
+                className="p-3 bg-orange-600 rounded-sm hover:bg-orange-700"
+              >
+                <FaGoogle />
+              </button>
+              <button
+                onClick={() => handleGithubLogin()}
+                className="p-3 bg-orange-600 rounded-sm hover:bg-orange-700"
+              >
+                <FaGithub />
+              </button>
+              <button
+                onClick={() => handleFacebookLogin()}
+                className="p-3 bg-orange-600 rounded-sm hover:bg-orange-700"
+              >
+                <FaFacebook />
+              </button>
+            </div>
           </div>
         </div>
       </div>
